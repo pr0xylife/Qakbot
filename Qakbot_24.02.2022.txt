@@ -99,7 +99,7 @@ C:\Windows\SysWOW64\net1.exe C:\Windows\system32\net1 localgroup
 taskeng.exe {E499D8BD-D1AC-4BD1-A496-3C75F05A2680} S-1-5-18:NT AUTHORITY\System:Service:
 
 C:\Windows\system32\regsvr32.exe regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\283fed02e9434975e43435a8748ab01451199a061da32e94e39128fd7745db24.dll"
-P
+
 C:\Windows\SysWOW64\regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\283fed02e9434975e43435a8748ab01451199a061da32e94e39128fd7745db24.dll"
 
 C:\Windows\SysWOW64\explorer.exe
@@ -133,4 +133,3 @@ C:\Windows\SysWOW64\net.exe net localgroup
 C:\Windows\SysWOW64\net1.exe C:\Windows\system32\net1 localgroup
 
 C:\Windows\system32\msiexec.exe C:\Windows\system32\msiexec.exe /V
-
