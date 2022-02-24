@@ -39,8 +39,9 @@ regsvr32  C:\a\Gertiokas1.ocx
 
 Network Hits:
 
-https://185.249.85.209/t4
-https://144.202.2.175/t4
+Qakbot C2: https://185.249.85.209/t4
+Qakbot C2: https://144.202.2.175/t4
+Cobalt Strike C2: 190.123.44[.]144:4444 - dflow[.]icu
 
 Exec >>
 
