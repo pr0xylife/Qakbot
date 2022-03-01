@@ -1,6 +1,7 @@
 01.03.2022 | Qakbot | obama161 / obama160 |
 
 ******************************
+
 Obama160 
 
 .xls 97c2b871d574dde2a068dbccb244a0838575ec0d160b74cde09224fd19227f8b
@@ -11,6 +12,18 @@ http://37.120.247.240/44621.6449424769.dat
 http://23.106.215.210/44621.6449424769.dat
 
 ******************************
+
+obama161
+
+.xls e7de37551a34eeedad94894e8d087d4d9b8242e1441e57e27ba6dc0b0dc23180
+.dll af85042439aacc86ed730547e549104c071371b5a21aeb1532d6df3a95ae7881
+
+http://185.82.126.154/44621.8128211806.dat
+http://46.17.107.177/44621.8128211806.dat
+http://190.14.37.159/44621.8128211806.dat
+
+******************************
+
 obama161
 
 .xls d411e1c743aa8cb917b2d7be26a5da765d8696b40ca95923e54b82296220faeb
@@ -36,6 +49,26 @@ regsvr32  C:\a\Gertiokas1.ocx
 regsvr32 C:\a\Gertiokas2.ocx
 
 regsvr32 C:\a\Gertiokas3.ocx
+
+C:\Windows\SysWOW64\explorer.exe
+
+schtasks.exe" /Create /RU "NT AUTHORITY\SYSTEM" /tn zbshyrvgcx /tr "regsvr32.exe -s \"C:\Users\Admin\AppData\Local\Temp\44621.7848322917.dll\"" /SC ONCE /Z /ST 19:59 /ET 20:11
+
+taskeng.exe {FDEABC54-46A4-4C56-9C54-53B6336C22D1} S-1-5-18:NT AUTHORITY\System:Service:
+
+regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\44621.7848322917.dll"
+
+regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\44621.7848322917.dll"
+
+C:\Windows\SysWOW64\explorer.exe
+
+reg.exe ADD "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths" /f /t REG_DWORD /v "C:\ProgramData\Microsoft\Epcliagegqyv" /d "0"
+
+reg.exe ADD "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths" /f /t REG_DWORD /v "C:\Users\Admin\AppData\Roaming\Microsoft\Anapihlikpj" /d "0"
+
+taskeng.exe {52FED26A-64E3-4AA2-89BF-3DE8FEA0AB6A} S-1-5-18:NT AUTHORITY\System:Service:
+
+regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\44621.7848322917.dll"
 
 *************************************************
 
