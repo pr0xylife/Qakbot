@@ -3,10 +3,48 @@
 ******************************
 
 .xls bd3d49cfe24868c3e1f6ab5e2cdc919ddbb8fb38209cdfdb92c2ffcdd2521a95
-.dll 1afaa9ab2ee0c6e5a93b23b207295eb9c3b10d350c0bf190ea92abc0b5628837
-
 .xls 186256f38d5f59192f05f230bddc77dacdb308d45711b0442935647ac07ded28
-.dll b814c645113619aba16234e892fd4cddf471a58c845fe18a0493a7ccd84b8de4
+
+******************************
+
+Code Signing Certificate
+
+Organisation:	CLEVER CLOSE s.r.o.
+Issuer:	Sectigo Public Code Signing CA R36
+Algorithm:	sha384WithRSAEncryption
+Valid from:	2022-01-18T00:00:00Z
+Valid to:	2023-01-18T23:59:59Z
+Serial number:	 da20761afbb0463c55b1ea88bbc7ec57
+Intelligence:	 18 malware samples on MalwareBazaar are signed with this code signing certificate
+Thumbprint Algorithm:	SHA256
+Thumbprint:	 f12dd6e77ffab75870b24dd5bfda5a360843f9e5591e764be9f0a2ac59a710d3
+
+******************************
+
+Signed .dll's
+
+1afaa9ab2ee0c6e5a93b23b207295eb9c3b10d350c0bf190ea92abc0b5628837
+b814c645113619aba16234e892fd4cddf471a58c845fe18a0493a7ccd84b8de4
+c0dffcedd6f631da1d0ba09029ebae2bdaf47e7740c434d85083b52b13523188
+05e5e9193bd41eb1f7c03600462713228033137dee009f0e454565fcdefe665f
+ef9a84893abec293fb6ae8e5884a18a3cc6e76de0a2c93f74f40f3518c592bf7
+3c2c99f225984b6e31492e2fcffd064f3ab950dbb75d143976617fe9c263f4eb
+f259e56393d2b28102d553c6cc26073860a5a9fcaac6a535f39cacac2338d954
+ab2091cd0eda36f3c51bbcc64b194dfd0ce6dd7750119484af7cf59134551bf4
+f6587772cf013598020f2c6c3bbbb006841385b53b4cb710cfe39429af5996c5
+e4b6dce8ccd5816da61dc3a05dc7fa4f9e7cc33fd9ba13f9be2acd6f52b3e16b
+316dc5ab8acadeea0f9071306ceababec596f3bff205b6a88a8dfd705f014371
+040de6c3add4aedafa2e3820e5b34380f0cdcf51a87ef9b1456ba32b9bee5fb3
+3705986f1d2b541d96edde2b6bd988949c77f12692acf656e0697980b2701837
+188689d706679c2e8bf8e13163fcabb7e4cd2a9779cf7be2c366978c0d82f0c8
+81dbb23cc12726ddda5b0d3a81e6873a9d7a376e5461d4d08454d8cedb02ec41
+8ea456511be03ae37c0d5815355f6150e4ba1aa0b8339c7d215963b9e85a2d8c
+f5cbdacce87cbb5bff2a922d7503584723b0b292e2b0b90ed2dca4fb94004966
+
+******************************
+not signed .dll
+
+5f1ac239b7f35a5ffc77b847929631a0247d8603578d8c002041b265cb5148a5
 
 ******************************
 
