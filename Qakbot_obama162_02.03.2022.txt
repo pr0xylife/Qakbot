@@ -15,7 +15,6 @@ Algorithm:	sha384WithRSAEncryption
 Valid from:	2022-01-18T00:00:00Z
 Valid to:	2023-01-18T23:59:59Z
 Serial number:	 da20761afbb0463c55b1ea88bbc7ec57
-Intelligence:	 18 malware samples on MalwareBazaar are signed with this code signing certificate
 Thumbprint Algorithm:	SHA256
 Thumbprint:	 f12dd6e77ffab75870b24dd5bfda5a360843f9e5591e764be9f0a2ac59a710d3
 
