@@ -23,7 +23,6 @@ Exec >>
 
 EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\imuleoomurdqd.xls
 
-
 regsvr32 C:\Seng\exle1.dll
 
 regsvr32 C:\Seng\exle2.dll
@@ -32,7 +31,7 @@ regsvr32 C:\Seng\exle3.dll
 
 *************************************************
 
-https://tria.ge/220325-rnkrlsdggl/behavioral1
+https://tria.ge/220328-tmxqwsbhd5
 
 *************************************************
 
