@@ -22,7 +22,7 @@ https://timeinindianow[.]com/2RZvX0fN33u/PomK.png
 
 Exec >>
 
-EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\iqndutiilee.xlsb
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\*****.xlsb
 
 regsvr32 C:\Seng\hudh1.dll
 
