@@ -20,13 +20,21 @@ http://91.199.154.200/44651,6679619213.dat
 
 Exec >>
 
-EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\DeliveryFailure-292717000.xlsb
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\RS-453555331-Apr-4.xlsb
 
-regsvr32 /s  C:\ProgramData\Miosert.ocx
+regsvr32 /s  C:\ProgramData\Frister.ocx
 
-regsvr32 /s  C:\ProgramData\Miosert1.ocx
+C:\Windows\SysWOW64\regsvr32.exe /s  C:\ProgramData\Frister.ocx
 
-regsvr32 /s  C:\ProgramData\Miosert2.ocx
+C:\Windows\SysWOW64\explorer.exe
+
+C:\Windows\SYSTEM32\regsvr32.exe regsvr32 /s  C:\ProgramData\Frister1.ocx
+
+C:\Windows\SysWOW64\regsvr32.exe /s  C:\ProgramData\Frister1.ocx
+
+C:\Windows\SysWOW64\explorer.exe
+
+C:\Windows\SYSTEM32\regsvr32.exe regsvr32 /s  C:\ProgramData\Frister2.ocx
 
 *************************************************
 
