@@ -5,7 +5,8 @@
 .url  https://grupoagros.agr.br/ias/mivenaotnren
 .zip  B93976A9A7F1A5E6B0A45D9652EF0D39D34458A28CE992FD570BDE4BAFA1847C
 .xlsb 6c5e4e1e8a8a4654e9df0d004077f3a84cf36a63c2b251e253049e6c358c39bf
-.dll  dfc525f4486f7244dbc19b49345df4c56f6ba0459a668f770a364dc90bb88f27
+.dll  73f5c306c33c980fcd85f185af9c2a2b7678eebda5b10ec072558bd74dd776af
+.dll  1cdad75e7830e4ae946bb26c15be354676820710c2471d9ea6d24926fc0df86f
 
 ******************************
 
