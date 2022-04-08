@@ -26,7 +26,7 @@ https://cruzandsons.co.za/Rgqc8er6ma4/Fbvh.png
 
 Exec >>
 
-EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\R-978948561.xlsb"
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\R-978948561.xlsb
 
 regsvr32 C:\Uduw\coit1.dll
 
