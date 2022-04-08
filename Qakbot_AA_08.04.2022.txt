@@ -3,9 +3,8 @@
 ******************************
 
 .url  https://softwarela.org/mf/sisloicanifm
-.zip  B93976A9A7F1A5E6B0A45D9652EF0D39D34458A28CE992FD570BDE4BAFA1847C
-.xlsb 
-.dll  73f5c306c33c980fcd85f185af9c2a2b7678eebda5b10ec072558bd74dd776af
+.xlsb f6ae1ef1def3bc3a0b2dd15f91568e86d55ff7da9da504ed8b11ccf932c24b88
+.dll  bc2932754e662852e32c6a62ee2736919419cf45633f5cb04ced2cb494996944
 
 ******************************
 
