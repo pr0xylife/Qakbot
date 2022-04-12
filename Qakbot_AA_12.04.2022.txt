@@ -31,7 +31,7 @@ C:\Windows\system32\srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
 
 MsiExec.exe -Embedding DE2EBF2BF7343DB57BA22C2CF1750165
 
-C:\Windows\SysWOW64\regsvr32.exe C:\Users\Admin\AppData\Local\SetupTest\1.dll
+C:\Windows\SysWOW64\regsvr32.exe C:\Users\******\AppData\Local\SetupTest\1.dll
 
 explorer.exe
 
