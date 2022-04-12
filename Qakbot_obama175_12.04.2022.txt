@@ -1,4 +1,4 @@
-12.04.2022 | Qakbot | obama175 | Campaign 1649228671 |
+12.04.2022 | Qakbot | obama175 | Campaign 1649748306 | Version 403.573
 
 ******************************
 
@@ -30,7 +30,7 @@ regsvr32 /s  C:\ProgramData\Ulhdhrthdr2.dll
 
 *************************************************
 
-https://tria.ge/220406-qdrxhafhdj
+https://tria.ge/220412-sa124scgbm
 
 *************************************************
 
