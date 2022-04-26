@@ -5,11 +5,14 @@
 .url https://balimarathon.com/ork/mBaLvnVRcy.zip
 .url https://nridoot.com/ork/Rrw/bBT/YSf/q4IJWpZ.zip
 .url https://nridoot.com/ork/I/h3xUxpivT.zip
+.url https://new.nahids.net/ork/Jwo/sG9/PP1/vPvezD4.zip
+.url https://yourpc411.com/ork/PZ5Ev36tXd.zip
 .url https://hinduswayamvaram.org/ork/4xz/bsE/Dru/hDIRiUE.zip 
 .zip a5767840470b674d6558b2006e8c34ee878ae021fc7897884d69f70e099d24a5
 .xls 4d643244122b50d1de2ce3a3e2e65004b3ffe4f4025725e88d15c4071c420c08
-.dll 
-.dll 
+.dll 3771b3d53677a4f45729b4b384635b6281cb30d34684841a40a66d774930bc07
+.dll 7aeb39098fc469f72d5b762ebd466573272cff346a992844bb5305f63e7a40a0
+.dll c48c345f8ec2274eb7d442a89687d2677510a0c803f7df4c70e3454bba9d64d5
 
 ******************************
 
