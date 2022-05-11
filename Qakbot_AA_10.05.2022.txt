@@ -9,7 +9,7 @@
 .url https://netfornet.com/ei/rietestvitas
 .url https://bambinous.com/vnpu/qtnuuniaiicd
 .xls c17c6c51fb35db72a4f7f72956402f9ef2efedfb3c1ad23795207d071c2f5687
-.dll d52343262162d81a5c2651aa871ae1315f4bd4f35ceecde414d4445664e4f9e4
+.dll cbd9a472f9588a205390a6ee56722f15aaefe8364bccfeccf7a8ca04b2ec07d1
 
 ******************************
 
@@ -52,7 +52,7 @@ regsvr32 C:\Nychtria\Byfosrta\Nyfenseb.OOOOOCCCCCXXXXX
 
 *************************************************
 
-https://tria.ge/220510-w26nfsehg6
+https://tria.ge/220511-m44r7sbafq
 
 *************************************************
 
