@@ -3,7 +3,7 @@
 ******************************
 
 .url https://htech.eti.br/uet/musraetietobqrpua
-.url https://focusagd.net/4REat6sBv0/1.png
+.url https://green-a-thon.com/LosZkUvr/B.png
 .zip e6a753969df7b0a5bd50a82f45e29dfbf7663fffc74da729ee8316d56619e3da
 .dll 7b265f068c1485a453d3ab7ad30bc1709760d5162fa641fd4996947b4d642f96
 
