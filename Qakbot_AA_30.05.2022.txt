@@ -4,9 +4,10 @@
 
 .url http://lestore.in/odi/tqufousig
 .url https://speedmove-nin.com/Gw4uMJAkw/H.png
-.zip
-.dll 
-.dll 
+.zip b11537a91371d8f54a50f2fba2d441af02b1a7f19727e54a1f9cd706fd97fa18
+.zip 16a8d866a2aedfaf9ac194ee06722860d96e53ce052643f198692937ece6b6cc
+.dll a1e991b8c1382c8e33f407ed9c5eaff32ea5ca87073829df00dfa7cde78a4e01
+.dll 48cf4c86527c83ec683917dd52b3fcca04fd8905c12058b50441019f40323d00
 
 ******************************
 
@@ -20,6 +21,7 @@ rundll32.exe C:\Users\Admin\AppData\Local\Temp\hguy.dll DllRegisterServer
 
 *************************************************
 
+https://tria.ge/220530-myyzrsgac5
 
 *************************************************
 
