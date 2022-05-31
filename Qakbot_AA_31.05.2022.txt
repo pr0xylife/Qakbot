@@ -6,9 +6,9 @@
 .url HTTPS://projetomemoravel.com/hQfHMUFZg/FF.png
 .url HTTPS://apsosyal.com/8Hg65CnSrJd4/FF.png
 .url HTTPS://igitplacements.ac.in/olmkmS4I/FF.png
-.xls 
-.dll 
-.dll 
+.xls 593ddfe9dfe7fb77c416ba293e3e3f7a04a7df4fb102bde52ca151eda7f71820
+.dll c0b1646614e51c6d52c4727dd00e652d5b7b7e22c925f30013631fe6c5d368c7
+.dll fb83b074fcbd826d8ce389ec354473322159fe3c72cc1d90c04612c753e61b23
 
 *************************************************
 
