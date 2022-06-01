@@ -2,10 +2,10 @@
 
 *************************************************
 
-.url hxxps://aaha-med.com/nm/upmaaettmvonmagl
-.url hxxps://sakshiinfoway.info/vlaq7GFVbI/AQ.png
-.zip c14971d5e3ab98b929e40cc493462b120fadbfd21893f6d5819f3281ebb05c9b
-.dll 1176381ebfc60acd5078c5a6ac4ac5a0defffce6f1a6c1f6fbe830dd2df6c3e6
+.url https://aaha-med.com/nm/upmaaettmvonmagl
+.url https://sakshiinfoway.info/vlaq7GFVbI/AQ.png
+.zip 3713d9b15cb1e9e6d89f998101c4e8352fa858e691bc69695c0f0fef16a2e7cb
+.dll c964528298b6094cc34aca2fedb5ea7df61c51ba9e233073a66d8055dd9983f1
 
 *************************************************
 
