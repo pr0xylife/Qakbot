@@ -37,7 +37,7 @@ regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\qbot\019338921.dll
 
 *************************************************
 
-#Follina - CVE-
+#Follina - CVE-2022-30190
 
 "C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE" /n "C:\Users\Admin\AppData\Local\Temp\doc532.docx"
 
