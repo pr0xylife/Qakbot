@@ -3,8 +3,8 @@
 *************************************************
 
 .url https://signaturefloorsgurgaon.com/au/miubedqa
-.zip  - U523
-.dll 
+.zip fb1b9270e396aa9b7c17a9639f5f5522a91ae0f357fcb719778122dd2b1e86b0 - U523
+.dll 617c94a15fdfb071cfb9566bafa49d054f13e208a444719ab8ea64ed2140f06b
 
 *************************************************
 
