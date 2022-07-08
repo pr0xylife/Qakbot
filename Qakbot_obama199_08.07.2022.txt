@@ -2,15 +2,39 @@
 
 ******************************
 
-.html 1a1cce1534108d04037119a579d9cd567d7308af65677234dce8e7a0b4b83eea -    FXS_4115927.html
-.zip 12B5E8D3B0A681FC084EF39A4875A63610FFD04E59A9C8644D523355E99C244D
+.html 1a1cce1534108d04037119a579d9cd567d7308af65677234dce8e7a0b4b83eea - FXS_4115927.html
+.html b3d9a4a950ac815bbb57abac08b2c3bf57a95b48d202bf0381f6cd6b73eabffc - FXS_8257276.html
+.zip 84d988dc7c2c45493bca9fdd4a717217c8a1fed96437817ccc88e4dcec9b570f
+.iso 715b8c821021645b9dfd72c1d16534ade7d4d15ae0dec9c4cd51f28d4d408acd
 .dll 1beb6f15f403fe31392012b506ce1bb38424482d3e8123f0f80ae439484fffe7
+.dll 18fd119493272ee301e6f57417f64a89a9f4aa976ab8b940d12dea133ed9400e
+.dll 5d62cbd1c137333a510d67a26d86ef27a0230a421f25516cfcb6df49cc91c953
+.dll 357b994cf1840ccd15970656a2c42d5fa3491be76e08d063c9e7ca4b9c334da6
+
+******************************
+
+Code Signing Certificate
+Organisation:	TOPFLIGHT GROUP LIMITED
+Issuer:	Sectigo Public Code Signing CA R36
+Algorithm:	sha384WithRSAEncryption
+Valid from:	2022-06-24T00:00:00Z
+Valid to:	2023-06-24T23:59:59Z
+Serial number:	 5b1f9ec88d185631ab032dbfd5166c0d
+Thumbprint Algorithm:	SHA256
+Thumbprint:	 a46234c01e9f9904e500aefad4b5718d86aaec4e084b3d8ffbfe5724f8ddda45
+Source:	This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
 
 ******************************
 
 lnk content:
 
 %WINDIR%\System32\regsvr32.exe data\assets\images\xtcy.dat
+%WINDIR%\System32\regsvr32.exe data\assets\images\jSRV.dat
+
+Machine ID:  desktop-0bf19uk
+MAC Address: 80:fa:5b:66:f3:59
+MAC Vendor:  CLEVO
+Creation:    2022-07-07 13:42:54
 
 ******************************
 
