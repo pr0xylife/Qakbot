@@ -13,11 +13,6 @@ lnk content:
 
 C:\Windows\System32\cmd.exe /q /c calc.exe
 
-Machine ID:  galaxys21
-MAC Address: 00:0c:29:98:b2:71
-MAC Vendor:  VMWARE
-Creation:    2022-06-09 14:54:20
-
 ******************************
 
 Exec > 
