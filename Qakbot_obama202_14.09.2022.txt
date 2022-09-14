@@ -1,4 +1,4 @@
-14.07.2022 | Qakbot | obama202 | Campaign 1657815129 | Version 403.780
+14.07.2022 | Qakbot | obama202 | Campaign 1663062752 | Version 403.858
 
 ******************************
 
@@ -36,7 +36,7 @@ regsvr32.exe C:\Users\Admin\AppData\Local\Temp\about\wantNo.dll
 
 ******************************
 
-https://tria.ge/220708-w2lnaaeafq
+https://tria.ge/220914-rcnzwsaee2
 
 *************************************************
 
