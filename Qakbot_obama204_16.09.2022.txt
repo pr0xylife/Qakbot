@@ -17,7 +17,7 @@ C:\more\seeSay.js
 
 Exec > 
 
-cmd /c C:\Users\Admin\AppData\Local\Temp\Document.lnk
+cmd /c C:\Users\Admin\AppData\Local\Temp\Calculation.lnk
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\more\seeSay.js
 
