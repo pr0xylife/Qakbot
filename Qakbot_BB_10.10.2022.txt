@@ -1,0 +1,30 @@
+10.10.2022 | Qakbot | bb | Campaign 1665048878 | Version 403.914
+
+*************************************************
+
+.url http://kancompany.sa/ites/rstendoisoiecarptsii - pw X353
+.zip ca4a20b5022889d14ce331b75f27d8f17bf72ef71cce73048439c60f79f41535
+.iso e62117385437efeae26e80df745e4a5782abc87cf5d9f5af581817aa1a7f1e94
+.dll 80556052a05684ca0f8729c182aa3a48abb040fe5e358b6f67833b52dbd1c172
+
+*************************************************
+
+lnk content:
+
+C:\3550\3367.cmd
+
+*************************************************
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\New_documents.lnk
+
+cmd.exe /c "C:\Users\Admin\AppData\Local\Temp\3550\3367.cmd"
+
+ping  google.com
+
+in.exe  3550\pots.dat
+
+*************************************************
+
+c2's
+
+
