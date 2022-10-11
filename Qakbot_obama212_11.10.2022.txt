@@ -1,0 +1,35 @@
+11.10.2022 | Qakbot | obama212 | Campaign | Version 403.914
+
+******************************
+
+.html 510450b841820750db3a1ea7d9baefb07ea83912949b2cba28e0ca3d7bad1adf - abc999 - RFSL_4026.html
+.zip a65ef097306b63e4f950c22f75bb0ac6298528ba293fc1ce6dfea1f1948e2347
+.iso 07b790667222856fc6e1dab6e539b35120f4a021f1833ee03b9dc23fa9298a6f
+.dll 616a531ff72b31cd7f9b6093bd98db343fa42907127dc82763539d34f49a4e88
+
+******************************
+
+lnk content:
+
+C:\7769\1239.cmd
+
+******************************
+
+Exec > 
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\RFSL.lnk
+
+cmd /c "C:\Users\Admin\AppData\Local\Temp\japonica\semitones.cmd"
+
+win.com  japonica\popish.dat
+
+c:\\users\\public\\eu.exe  7769\humors.dat
+
+*************************************************
+
+
+
+*************************************************
+
+c2's
+
