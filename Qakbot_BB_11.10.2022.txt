@@ -1,0 +1,27 @@
+11.10.2022 | Qakbot | bb | Campaign  | Version 403.914
+
+*************************************************
+
+.url http://applywithcolleen.com/ers/ceifafmovaiin - pw L875
+.zip 7c39668e9562db3d335a1c9c04e87839f1be2d2e0005cf3e97e32237ccee1052
+.iso 89c9b6a2fe32eab840d88b13ab5e11961a949c3a01261f10fb9e0a28fd67dfbe
+.dll 5fa048bfec7dccf343b60224d2212cdc19a4b04db40b831d7a7d79568fd1df5f
+
+*************************************************
+
+lnk content:
+
+C:\diversely\denigrated.cmd
+
+*************************************************
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\LPS.lnk
+
+cmd /c "C:\Users\Admin\AppData\Local\Temp\diversely\denigrated.cmd"
+
+c:\\users\\public\\reg.exe  diversely\coercible.dat
+
+*************************************************
+
+c2's
+
