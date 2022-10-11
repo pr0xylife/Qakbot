@@ -21,6 +21,8 @@ cmd /c "C:\Users\Admin\AppData\Local\Temp\diversely\denigrated.cmd"
 
 c:\\users\\public\\reg.exe  diversely\coercible.dat
 
+wermgr.exe
+
 *************************************************
 
 c2's
