@@ -23,8 +23,6 @@ cmd /c "C:\Users\Admin\AppData\Local\Temp\japonica\semitones.cmd"
 
 win.com  japonica\popish.dat
 
-c:\\users\\public\\eu.exe  7769\humors.dat
-
 *************************************************
 
 
