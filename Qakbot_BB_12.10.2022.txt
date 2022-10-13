@@ -1,0 +1,27 @@
+12.10.2022 | Qakbot | bb | Campaign  | Version 403.914
+
+*************************************************
+
+.url http://drc.co.th/ioen/uuqtetnsa - pw BNO87
+.zip 0e6bf800c68afc28e11d2a9c4ed8d68006e31dad0bc2330452502d363a4d1f51
+.iso e4cc608a9825d4f4ec45c2e8b9153e28ef3e7eae4a7a7327f52b02361cdec267
+.dll 06bc78dafd94e479b5be0f5c9048990c23bf6b9b64dfce93039555e1eec46ab3
+
+*************************************************
+
+lnk content:
+
+C:\obediences\embalming.cmd
+
+*************************************************
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\IData.lnk
+
+cmd.exe /c "C:\Users\Admin\AppData\Local\Temp\obediences\embalming.cmd"
+
+hello.com  obediences\crewed.dat,DllRegisterServer
+
+*************************************************
+
+c2's
+
