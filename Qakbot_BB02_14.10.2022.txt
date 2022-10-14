@@ -2,8 +2,8 @@
 
 *************************************************
 
-.url https://digizen.in/omd/onnnmois - pw BNO87
-.zip 3b409b4b2e9fd7777c918e0af108766a16d6fc5adfd604f879d6136c1eb01c68 - FYN09
+.url https://digizen.in/omd/onnnmois - pw FYN09
+.zip 3b409b4b2e9fd7777c918e0af108766a16d6fc5adfd604f879d6136c1eb01c68
 .iso bcda029a06f7e9362d5063a34859978e4a618af48b483c762312cb8283965422
 .dll 10afa9374deef0bc44fae6fc28be88c3999bb2410f07b7159dbd1882a94e9189
 
