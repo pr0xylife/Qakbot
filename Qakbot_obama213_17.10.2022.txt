@@ -2,7 +2,7 @@
 
 ******************************
 
-.html c201926f81e8ad68e6670a701c4521d28815588e979fe6992a9a7fcc9380d51d - abc555 - REJ#3031.html
+.html c201926f81e8ad68e6670a701c4521d28815588e979fe6992a9a7fcc9380d51d - abc555 - REJ#3689.html
 .iso e23b555f1873da3803daebe31815676d21770f06c12b7a0237ed01af1fbf5b54
 .dll cbd3aae2eb182d54aed8306fa64c4cc91878a174ad23cbb85bc5d88117879902
 
@@ -10,7 +10,7 @@
 
 lnk content:
 
-C:\oslo\reprocesses.cmd
+C:\oslo\unflappable.cmd
 
 ******************************
 
@@ -18,9 +18,9 @@ Exec >
 
 cmd /c C:\Users\Admin\AppData\Local\Temp\REJ.lnk
 
-C:\Windows\system32\cmd.exe /c C:\Users\Admin\AppData\Local\Temp\juggles.cmd
+cmd.exe /c C:\Users\Admin\AppData\Local\Temp\unflappable.cmd
 
-regsvr32.exe oslo\sag.dat
+regsvr32.exe oslo\persuaders.dat
 
 ping  google.com
 
