@@ -1,0 +1,94 @@
+27.10.2022 | Qakbot | BB04 | Campaign 1666863975 | Version 403.1051
+
+*************************************************
+
+.html  - PG1
+.iso 
+.dll 
+
+*************************************************
+
+Code Signing Certificate
+
+Organisation:  RIWQRMKSGCVXTNIIYV
+Issuer:  RIWQRMKSGCVXTNIIYV
+Algorithm:  sha1WithRSA
+Valid from: 2022-10-25T05:18:50Z
+Valid to:   2039-12-31T23:59:59Z
+Serial number:  028b4a1fe90aa2994ef5c1cf9facb19d
+Thumbprint Algorithm:   SHA256
+Thumbprint:  c1ad7096af626d9d952cae71c64e215e6db6b201f2a85b1b1d97abb09a77b844
+Source:  This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
+
+*************************************************
+
+lnk content:
+
+C:\Windows\System32\cmd.exe /c gropes\aries.cmd vr 32. exe
+
+>> Tracker database block
+   Machine ID:  desktop-32db5f9
+   MAC Address: e0:d4:e8:7c:13:74
+   MAC Vendor:  (Unknown vendor)
+   Creation:    2022-10-05 14:33:26
+
+   Volume Droid:       cf15fa5c-89d3-4bdf-844b-9fb891604f9a
+   Volume Droid Birth: cf15fa5c-89d3-4bdf-844b-9fb891604f9a
+   File Droid:         ac9ceaf9-44ba-11ed-a8be-e0d4e87c1374
+   File Droid birth:   ac9ceaf9-44ba-11ed-a8be-e0d4e87c1374
+
+*************************************************
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Details.lnk
+
+cmd.exe" /c gropes\aries.cmd vr 32. exe
+
+regsvr32.exe gropes\cueing.dat
+
+replace.exe  C:\Windows\\system32\\regsvr32.exe C:\Users\Admin\AppData\Local\Temp /A
+
+regsvr32.exe gropes\cueing.dat
+
+wermgr.exe
+
+*************************************************
+
+c2's
+
+27.110.134.202:995
+1.156.220.47:17155
+186.188.80.134:443
+1.190.199.101:9480
+187.1.1.181:42178
+118.200.83.226:443
+187.0.1.144:51727
+193.3.19.137:443
+1.201.68.209:12157
+188.49.56.189:443
+187.0.1.14:58271
+190.74.248.136:443
+201.210.92.3:2222
+187.0.1.105:40325
+64.123.103.123:443
+41.97.169.44:443
+72.88.245.71:443
+187.0.1.45:59049
+41.100.163.127:443
+187.0.1.83:62527
+175.205.2.54:443
+187.0.1.201:63844
+71.199.168.185:443
+187.0.1.105:40278
+186.18.210.16:443
+101.109.44.197:995
+187.0.1.181:11298
+24.177.111.153:443
+184.159.76.47:443
+187.0.1.105:39831
+93.156.96.171:443
+
+botnet': 'BB04', 'config_timestamp': '1666863975'}
+
+
+
+
