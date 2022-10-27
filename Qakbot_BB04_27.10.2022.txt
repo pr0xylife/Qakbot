@@ -2,9 +2,10 @@
 
 *************************************************
 
-.html  - PG1
-.iso 
-.dll 
+.url https://thefoxsinn.net/eiv/itsJustMagic
+.zip 5c6b6e4585e5fec1a4fdbfb3c225aa9dbdc229c6dc56d4408f1842efb17b1918  - PG1
+.iso 3bebd76eb6378332f99abc21e1969f57ff212095581ec4db71f7025cb0a61688
+.dll e248f7a1cbd369a2111834664fa805b489c8610e0d9b7fa506c3a1fc882dd331
 
 *************************************************
 
