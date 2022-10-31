@@ -1,0 +1,37 @@
+31.10.2022 | Qakbot | BB05 | Campaign 1667208557| Version 404.14
+
+*************************************************
+
+.url https://bedrijvenzone.nl/od/downnow 
+.zip 23dfa98dc0b37502bfc20df6154d83dc07d15c7a9980db8f0cf6d5963a997ee6  - BV1
+.zip aeeac099be6c1e72cf5133a6df529cc6bfc7df831ccaeca089fcfc546eee232d
+.iso fbca66b820f726a1d4256ac071e4fb52579853de81082941fbe11426d9664298
+.dll 24aec370771ad1208aeb54721067c9e3b139a368f13ab6b131dc7d6c13da5127
+
+*************************************************
+
+lnk content:
+
+C:\Windows\System32\cmd.exe /c judicature\parked.cmd        reg
+
+
+*************************************************
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\CO.lnk
+
+cmd.exe" /c judicature\parked.cmd reg
+
+regsvr32.exe judicature\dour.dat
+
+wermgr.exe
+
+*************************************************
+
+https://tria.ge/221031-pff3caahe2
+
+*************************************************
+
+c2's
+
+
+
