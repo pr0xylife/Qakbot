@@ -1,0 +1,44 @@
+01.11.2022 | Qakbot | BB05 | Campaign 1667208499 | Version 404.14
+
+*************************************************
+
+.url  https://yasmeenabaya.com/imer/stayawhileandlisten
+.zip 95c647d5ca2581c212e8f501a69fa6db413206217edd9291ba6c694f00257043 - BV1
+.zip 58567c8c4087b314689b966de5b1d1b4bddf624fd3c4563b9abf7caa22f60dd1
+.iso bd62f2cdfbb370279b546067813b14065ce0f2f9250601c03e6beb6bae8f61f2
+.dll 0686ffb62b3787e05388beb655b0d3ce446be054c36408fde8ccd3378ef36270
+
+
+*************************************************
+
+lnk content:
+
+C:\Windows\System32\cmd.exe /c gatekeepers\glorify.cmd
+
+>> Tracker database block
+   Machine ID:  desktop-3b9ca1b
+   MAC Address: e0:d4:e8:7c:13:74
+   MAC Vendor:  (Unknown vendor)
+   Creation:    2022-10-05 14:33:26
+
+   Volume Droid:       cf15fa5c-89d3-4bdf-844b-9fb891604f9a
+   Volume Droid Birth: cf15fa5c-89d3-4bdf-844b-9fb891604f9a
+   File Droid:         ac9ceaf9-44ba-11ed-a8be-e0d4e87c1374
+   File Droid birth:   ac9ceaf9-44ba-11ed-a8be-e0d4e87c1374
+
+*************************************************
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\KL.lnk
+
+cmd.exe /c gatekeepers\glorify.cmd
+
+regsvr32.exe gatekeepers\winced.dat
+
+wermgr.exe
+
+*************************************************
+
+c2's
+
+
+
