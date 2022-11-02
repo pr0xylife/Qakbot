@@ -1,0 +1,41 @@
+02.11.2022 | Qakbot | obama220 | Campaign 1667373670 | Version 404.14
+
+******************************
+
+.html cbf73686c4dfbf54321c6f6654bd0eb7edc4a30377a75a9a6d716db5f61c200d - abc555 - Contract9666.html
+.zip a6df5ae3712f74c7fdaeec886c6fec5405636f6ad2db72db3bb2362c253d40ca
+.iso b683ed46e288c5ff06a47b32a78ad61c668fa2270148685af75e962645111a89
+.dll 6f434a3e0159ab48d8574ef363afe14ad26aabe31c2d52a709022b6e982a2f46
+
+******************************
+
+lnk content:
+
+C:\consorter\caviar.cmd
+
+******************************
+
+Exec > 
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Contract.lnk
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\consorter\caviar.cmd
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\consorter\cacophonies.cmd
+
+regsvr32 /s C:\Users\Admin\AppData\Local\Temp\consorter\gallows.dll
+
+wermgr.exe
+
+*************************************************
+
+
+
+*************************************************
+
+c2's
+
+
+
+
+
