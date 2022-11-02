@@ -9,6 +9,19 @@
 
 ******************************
 
+Code Signing Certificate
+Organisation:	JESEN LESS d.o.o.
+Issuer:	Sectigo Public Code Signing CA R36
+Algorithm:	sha384WithRSAEncryption
+Valid from:	2021-11-11T00:00:00Z
+Valid to:	2022-11-11T23:59:59Z
+Serial number:	 890570b6b0e2868a53be3f8f904a88ee
+Thumbprint Algorithm:	SHA256
+Thumbprint:	 f291d21d72dcefc369526a97b7d39214544b22057757ac00907ab4ff3baa2edd
+Source:	This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
+
+******************************
+
 lnk content:
 
 C:\consorter\caviar.cmd
