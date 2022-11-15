@@ -3,7 +3,7 @@
 *************************************************
 
 .url https://ilmdost.org/nrvn/index.php?dmtpiie-encnisut=3
-.zip 440d84b5d539d7724898e4127df3d5f0d68cefb5bc14f09b13b2e657a3dc7a08 pw-NG11
+.zip 440d84b5d539d7724898e4127df3d5f0d68cefb5bc14f09b13b2e657a3dc7a08 pw = NG11
 .img ac7c1309673ad7a15d5764425e854a4e8606c2f946d17e7a4d3d8160af5ddfbe
 .dll 2cb8f04d41fe34706ff61cba06788faaaca87494721fcf8e86d20b897890a3b1
 
