@@ -9,6 +9,19 @@
 
 *************************************************
 
+>> Tracker database block
+   Machine ID:  galaxys21
+   MAC Address: 00:0c:29:98:b2:71
+   MAC Vendor:  VMWARE
+   Creation:    2022-12-13 12:26:48
+
+   Volume Droid:       6c355ef8-faf6-4b52-8247-3df4cf5784c6
+   Volume Droid Birth: 6c355ef8-faf6-4b52-8247-3df4cf5784c6
+   File Droid:         6a2a4bd2-7ae1-11ed-b16d-000c2998b271
+   File Droid birth:   6a2a4bd2-7ae1-11ed-b16d-000c2998b271
+
+*************************************************
+
 Exec >
 
 cmd /c DCIM 9906088.lnk
