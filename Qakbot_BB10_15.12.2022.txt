@@ -29,6 +29,8 @@ C:\Windows\SysWOW64\cmd.exe /q /c blackbirds\bactericide.cmd
    File Droid:         ac9ceaf9-44ba-11ed-a8be-e0d4e87c1374
    File Droid birth:   ac9ceaf9-44ba-11ed-a8be-e0d4e87c1374
 
+C:\Windows\SysWOW64\cmd.exe /q /c slings\detests.cmd
+
 *************************************************
 
 Exec >
