@@ -18,13 +18,9 @@ wscript.exe sketchMegalethoscope\postpuerperalCaixinha\roughhousingCaliphship.ws
 
 rundll32.exe c:\users\public\describablyPlanktons.dll, qqqq
 
-rundll32.exe c:\users\public\describablyPlanktons.dll, qqqq
-
 wermgr.exe
 
-
 *************************************************
-
 
 
 *************************************************
