@@ -19,7 +19,7 @@ Exec >
 
 WScript.exe C:\Users\Admin\AppData\Local\Temp\cytaseIxodian\StubchenLunarians\Perusals.wsf
 
-rundll32.exe" c:\users\public\DominationsFleshier.dll, Updt
+rundll32.exe c:\users\public\DominationsFleshier.dll, Updt
 
 wermgr.exe
 
