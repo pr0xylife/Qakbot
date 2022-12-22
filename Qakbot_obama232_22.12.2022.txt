@@ -39,6 +39,8 @@ wermgr.exe
 Payload Urls >>
 
 http://demo.newvisiondigital.in/blog/Attn_XXXXXX_12222022.zip
+http://safetyandsecurityacademy.com/blog/Attn_XXXXXX_12222022.zip
+http://qausainfaisalmufti.com/blog/Attn_XXXXXX_12222022.zip
 
 *************************************************
 
