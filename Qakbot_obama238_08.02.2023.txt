@@ -30,6 +30,12 @@ powershell  Add-Type -AssemblyName PresentationCore,PresentationFramework; [Syst
 Payload Urls >>
 
 http://146.59.43.159/780683.dat
+http://174.139.150.45/vodka.dat
+http://85.239.41.55/vodka.dat
+http://87.236.146.155/vodka.dat
+http://45.77.63.210/vodka.dat
+http://98.142.254.89/vodka.dat
+http://146.59.43.159/vodka.dat
 
 *************************************************
 
