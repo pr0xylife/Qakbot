@@ -24,7 +24,9 @@ rundll32.exe" C:\Users\Admin\AppData\Local\Temp\adeP1F.dll N115
 
 .dll distro urls
 
-http://64.225.8.202/1Moch7/160223/fd.dll
+http://165.22.160.25/w9edb/160223/adeP1F.dll
+https://osjovanmikic.edu.rs/DwJDgf7/130223/aJ1vC.dll
+http://147.182.206.33/FtFb/160223/aaSQMCd.dll
 
 *************************************************
 
