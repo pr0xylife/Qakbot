@@ -9,9 +9,11 @@
 
 *************************************************
 
-Exec > #1 
+Exec 
 
-ONENOTE.EXE C:\Users\Admin\AppData\Local\Temp\Item.one
+ONENOTE.EXE C:\Users\Admin\AppData\Local\Temp\itemME.html
+
+cmd.exe /c Socialize.lnk
 
 E:\Mnemic\zelatrixDevoutlessness\thermochroic.exe /C caseateIntraprocess || ping radical || Bloodlettings\Reversable\Kithing\Overmild.cmd untillTecture Concerningness
 
