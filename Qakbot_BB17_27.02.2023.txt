@@ -2,6 +2,12 @@
 
 *************************************************
 
+URL Distro example, check urlhaus/tag/qakbot for more!
+
+https://zanziflowerstours.com/RO.php?ni=2
+
+****************************************************
+
 .html 49f51250934f27cf485ca857315e25165a657000121119951c559d3b13b85ec2 - itemME.html
 .zip 24a7bf6e9ddf1d012bf184564955a075780a758e7cfb7849902b5200481a7403 - pw = 764
 .img b087012cc7a352a538312351d3c22bb1098c5b64107c8dca18645320e58fd92f
@@ -43,7 +49,10 @@ cmd.exe /c start https://learn.microsoft.com/microsoft-365/troubleshoot/
 
 distro urls
 
-http://67.207.84.43/Gy0toZ0/2/\Fishlines.dll
+http://67.207.84.43/Gy0toZ0/2/Fishlines.dll
+
+http://167.172.248.73/5Me/2
+http://67.205.159.222/fSj/2
 
 
 *************************************************
