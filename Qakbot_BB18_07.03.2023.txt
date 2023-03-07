@@ -33,6 +33,12 @@ powershell.exe" -windowstyle Minimized -encodedcommand $MazourkaShanty = Get-Ite
 distro urls
 
 http://45.66.248.9/qBSTwc/aw
+http://45.66.249.78/jcFACEh/ab
+
+Invoice#DAi(63).js
+Attach#XQfDVah(1026).js
+Report#qRqsKz(4301).js
+Attachments#qvF(7621).js
 
 *************************************************
 
