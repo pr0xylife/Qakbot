@@ -4,6 +4,7 @@
 
 .pdf 61f0e80b2a74bf26d2089e09e779b0514b4d7e324de6f968bb224cbe6f2fab91 - redactedCompany.pdf
 .url http://85.239.52.29/ONT.php
+.url http://85.239.52.47/TIDC.php
 .js fd14ec3cdfb9034a19e48717b697a4d1b169c02d24be9ac06b7c876388e1d9ae
 .dll f2f80e624a3bcaec31ecb73a8d75715189b7baa73176fa773a986ff80c19976d
 
