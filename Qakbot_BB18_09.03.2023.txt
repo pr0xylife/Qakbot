@@ -2,7 +2,7 @@
 
 *************************************************
 
-.html 84fdcf5ff59c1a73624c68ef0cde54b639c968c0714b670f7f2804f3b95c6b4f - cancellationCompany.html
+.html cancellationCompany.html
 .zip 7ff9cbd956532d877ce6850f8b0f91caa1f5ac590260adc4d8a2875e61ac1041
 .js a26c892d61bdab5b9032882bce4c26991252d412e7fde33eccaa3f6bd0a0c27e
 .dll 05fd5263b818a42e3f9233be6fc03ad5c1994d70a3883bb66fbfe2b3ae8fb262
