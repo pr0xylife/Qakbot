@@ -23,6 +23,10 @@ distro urls
 http://45.66.249.196/UDT.php?
 http://85.239.54.220/UU.php?
 http://194.213.18.132/AIEO.php?
+http://149.255.35.189/LLIE.php
+http://194.37.97.154/EBU.php
+http://37.72.174.5/OOED.php
+http://149.255.35.153/URME.php
 
 http://85.239.53.76/31x/1
 http://85.239.54.233/DmVW/1
