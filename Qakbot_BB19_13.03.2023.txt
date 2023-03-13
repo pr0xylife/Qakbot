@@ -4,6 +4,7 @@
 
 Latin themed file names
 
+.html Consequatur.html
 .html Aut.html
 .html Veritatis.html
 .html Porro.html
