@@ -4,6 +4,7 @@
 
 Latin themed file names
 
+.html Voluptas.html
 .html Consequatur.html
 .html Aut.html
 .html Veritatis.html
