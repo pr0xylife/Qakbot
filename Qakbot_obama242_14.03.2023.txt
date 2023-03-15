@@ -3,24 +3,25 @@
 ******************************
 
 .zip Agreement_303909_Mar4.zip 
-.xll 891fb933f854364b152368989a633183f4d9ccf12a0f3f8291453e5300bb6e64
+.xll 7feb22df516f2a0946e03709a66a6f505c386450bffdddee6fa1eef0fbd3cf60
+.xll 7f658793d946dcc87d85b50f5d89b0e7db9ef58184c4a76896333b3290bb5bf4
 .dll b699dc3e5b1de51efb4e498cd2f1c7e9d3d08810ee8673c215f2aab0618e119c
 
 ******************************
 
 Exec > 
 
-EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\Agreement_303909_Mar4.xll
+EXCEL.EXE "C:\Users\Admin\AppData\Local\Temp\Agreement_177360a_Mar4.xll"
 
-schtasks /Create /ST 17:30 /SC ONCE /tr cmd /c type C:\Users\Admin\AppData\Roaming\1.dat" "C:\Users\Admin\AppData\Roaming\2.dat > C:\Users\Admin\AppData\Roaming\3.dat" && rundll32.exe "C:\Users\Admin\AppData\Roaming\3.dat",xlAutoOpen" /tn "QQQ" /Z /ET 17:41
+cmd /c type "C:\Users\Admin\AppData\Roaming\1.dat" "C:\Users\Admin\AppData\Roaming\2.dat" > "C:\Users\Admin\AppData\Roaming\3.dat" && rundll32.exe "C:\Users\Admin\AppData\Roaming\3.dat",xlAutoOpen
 
-cmd /c type C:\Users\Admin\AppData\Roaming\1.dat C:\Users\Admin\AppData\Roaming\2.dat > "C:\Users\Admin\AppData\Roaming\3.dat && rundll32.exe C:\Users\Admin\AppData\Roaming\3.dat",xlAutoOpen
+rundll32.exe  "C:\Users\Admin\AppData\Roaming\3.dat",xlAutoOpen
 
-rundll32.exe "C:\Users\Admin\AppData\Roaming\3.dat",xlAutoOpen
+rundll32.exe  "C:\Users\Admin\AppData\Roaming\3.dat",xlAutoOpen
 
-rundll32.exe "C:\Users\Admin\AppData\Roaming\3.dat",xlAutoOpen
+\wermgr.exe
 
-wermgr.exe
+schtasks /Create /ST 03:38 /SC ONCE /tr "cmd /c type "C:\Users\Admin\AppData\Roaming\1.dat" "C:\Users\Admin\AppData\Roaming\2.dat" > "C:\Users\Admin\AppData\Roaming\3.dat" && rundll32.exe "C:\Users\Admin\AppData\Roaming\3.dat",xlAutoOpen" /tn "QQQ" /Z /ET 03:49
 
 cmd.EXE /c type C:\Users\Admin\AppData\Roaming\1.dat C:\Users\Admin\AppData\Roaming\2.dat > C:\Users\Admin\AppData\Roaming\3.dat && rundll32.exe C:\Users\Admin\AppData\Roaming\3.dat,xlAutoOpen
 
