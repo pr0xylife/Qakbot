@@ -4,7 +4,8 @@
 
 .html c58f4a0f76acacb9cc4fcced3da5f60583277490fffadb6bc0b7f94dcfe75595 1337.html
 .js 428bdb0138d3e2f80fe87d11601d4837f40423980bcbb516cbaa68742e35cf45
-.dll 39f3d9313301d92e39d22ccae3808b3494ad15d8d1bb9a9fc278ec86f4d271ea
+.dll 39f3d9313301d92e39d22ccae3808b3494ad15d8d1bb9a9fc278ec86f4d271ea - badManBoris.dll
+.dll f4933e53800839e19f5720e210710a126bd921390ad1b7ef5443425aee0472f0 - elictarUnmercurialness.dll
 
 *************************************************
 
@@ -33,6 +34,8 @@ https://familyhealthdentalclinic.com/eQO/120
 *************************************************
 
 c2's
+
+66.35.125.114:2222
 
 162.248.14.107:443
 89.32.159.107:995
