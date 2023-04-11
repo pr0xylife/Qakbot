@@ -19,6 +19,8 @@ powershell.exe -ENC Start-Sleep -Seconds 5;$Ghosting = ("http://87.236.146.34/7s
 
 zip drop urls:
 
+http://mdea.gob.pe/blo/me.zip
+http://dubaiframeticket.com/blo/me.zip
 http://1tenshipping.com/blo/me.zip
 http://autonaprawa.org.pl/blo/me.zip
 http://availguide.com/blo/me.zip
