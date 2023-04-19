@@ -21,30 +21,60 @@ rundll32.exe c:\programdata\index.html,Motd
 
 zip drop urls:
 
+http://abacuos.com/sync/moskva.zip
+http://aber.bi/sync/moskva.zip
+http://aboali1.net/sync/moskva.zip
+http://accessaccelerator.org/sync/moskva.zip
+http://aceautofix.co.ke/sync/moskva.zip
 http://aicempresas.cl/sync/moskva.zip
 http://aiff.jo/sync/moskva.zip
 http://alirsyad-karawang.or.id/sync/moskva.zip
 http://alpinebear.com/sync/moskva.zip
+http://altamoorgoods.com/sync/moskva.zip
+http://applianceworld.co/sync/moskva.zip
 http://apprendaextra.site/sync/moskva.zip
+http://arpsystem.com.pe/sync/moskva.zip
 http://artesting.co.uk/sync/moskva.zip
+http://atchathai.com/sync/moskva.zip
+http://avsl.co.in/sync/moskva.zip
 http://babcockjames.com/sync/moskva.zip
 http://bafabogados.cl/sync/moskva.zip
 http://bakhtaragc.com.af/sync/moskva.zip
 http://beestact-demo.nopcommerceassist.com/sync/moskva.zip
+http://bet2stars.com/sync/moskva.zip
 http://bettermentshipping.com/sync/moskva.zip
 http://bilalgsm.com/sync/moskva.zip
 http://bkoshito.com/sync/moskva.zip
 http://blg.com.mx/sync/moskva.zip
+http://bluethroatimmigration.com/sync/moskva.zip
+http://boltdata.ng/sync/moskva.zip
 http://bulliontradingllc.com/sync/moskva.zip
+http://c4softsac.com/sync/moskva.zip
 http://cabpampa.cl/sync/moskva.zip
+http://calibornapparel.com/sync/moskva.zip
+http://campanellagency.com/sync/moskva.zip
 http://campts.ae/sync/moskva.zip
+http://carcaran.com/sync/moskva.zip
 http://carolanticmhc.com/sync/moskva.zip
+http://cbc.gov.bd/sync/moskva.zip
 http://cepalasalle.cl/sync/moskva.zip
 http://cidades.clickcurvelo.com/sync/moskva.zip
+http://citadellasuites.hu/sync/moskva.zip
 http://collique2.com/sync/moskva.zip
+http://consultastheurel.com.mx/sync/moskva.zip
+http://dtrade.hu/sync/moskva.zip
+http://htma.ae/sync/moskva.zip
+http://maalamin.sch.id/sync/moskva.zip
+http://native-technologies.rs/sync/moskva.zip
+http://proledgt.com/sync/moskva.zip
+http://ratar.net/sync/moskva.zip
+http://sysbanker.net/sync/moskva.zip
 http://thuaphatlaiphanrang.com/sync/moskva.zip
 http://vaughancapital.com/sync/moskva.zip
 http://wordpresskils.com/sync/moskva.zip
+https://aboali1.net/sync/moskva.zip
+https://atchathai.com/sync/moskva.zip
+https://cavendishdevere.com/sync/moskva.zip
 
 .dll exec
 
