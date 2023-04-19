@@ -19,19 +19,44 @@ rundll32.exe" C:\ProgramData\aq2B7wGiC3vzSE9.tmp,Motd
 
 zip drop urls:
 
-http://crmus.initor-global.com/wicd/643d170636b18.zip
-http://crosspointeada.com/wicd/643d173d33bb2.zip
-http://cruxpk.com/wicd/643d17552cc49.zip
-http://dakota.dispora.jatimprov.go.id/wicd/643d1a2bca53a.zip
-http://darkwearuk.com/wicd/643d1b159caec.zip
-http://dashex.me/wicd/643d1b4d7f706.zip
-http://dataromi.my.id/wicd/643d1bb9b2dfd.zip
-http://dealers.subarukenya.com/wicd/643d1c61d80b8.zip
-http://design19.pk/wicd/643d1aa6ed774.zip
-http://designerzclub.com/wicd/643d1aee5ac4a.zip
-http://desktopit.org/wicd/643d091789f15.zip
-http://diskopumkm.bandung.go.id/wicd/643d1d9eafe51.zip
-http://divamakeovers.com/wicd/643d1de05995c.zip
+http://bbppmpvboe.kemdikbud.go.id/wicd/sister.zip
+http://club.greysonclothiers.com/wicd/sister.zip
+http://cmitabaiana.pb.gov.br/wicd/sister.zip
+http://comtrend.us/wicd/sister.zip
+http://comzone.id/wicd/sister.zip
+http://credirapi2.com/wicd/sister.zip
+http://crm.intranet.vaimanagement.co/wicd/sister.zip
+http://crmus.initor-global.com/wicd/sister.zip
+http://crosspointeada.com/wicd/sister.zip
+http://cruxpk.com/wicd/sister.zip
+http://dakota.dispora.jatimprov.go.id/wicd/sister.zip
+http://darkwearuk.com/wicd/sister.zip
+http://dashex.me/wicd/sister.zip
+http://dataromi.my.id/wicd/sister.zip
+http://dbsindonesia.co.id/wicd/sister.zip
+http://dealers.subarukenya.com/wicd/sister.zip
+http://design19.pk/wicd/sister.zip
+http://designerzclub.com/wicd/sister.zip
+http://desktopit.org/wicd/sister.zip
+http://diskopumkm.bandung.go.id/wicd/sister.zip
+http://divamakeovers.com/wicd/sister.zip
+http://divinoapparel.com/wicd/sister.zip
+http://drghazala.com/wicd/sister.zip
+http://dxbott.ae/wicd/sister.zip
+http://eaglewingsuae.com/wicd/sister.zip
+http://earnpathway.com/wicd/sister.zip
+http://edugiehomes.com/wicd/sister.zip
+http://efo.company/wicd/sister.zip
+http://elektro.poltekba.ac.id/wicd/sister.zip
+http://elite4tech.com/wicd/sister.zip
+http://kuburayakab.go.id/wicd/sister.zip
+http://mousiko-scholeio-lef.schools.ac.cy/wicd/sister.zip
+http://pausterbaik.xyz/wicd/sister.zip
+http://prorubbishremoval.au/wicd/sister.zip
+http://raicleaning.com.au/wicd/sister.zip
+http://snake4u.com/wicd/sister.zip
+http://ticpc8a.com/wicd/sister.zip
+http://tracking.simcomining.com/wicd/sister.zip
 
 .dll drop urls
 
