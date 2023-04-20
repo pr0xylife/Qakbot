@@ -52,6 +52,13 @@ https://nayadofoundation.org/wXaKm/x7GY6orRR
 
 c2's
 
+Campaign 1681901691 - Updated config +2 c2's
+
+190.75.64.251:2222
+85.49.15.245:2222
+
+Campaign 1681731194 - Original config
+
 198.2.51.242:993
 87.221.196.82:2222
 27.109.19.90:2078
