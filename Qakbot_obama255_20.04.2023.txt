@@ -42,16 +42,21 @@ rundll32 C:\ProgramData\aq2B7wGiC3.tmp,Motd
 
 zip drop urls:
 
-http://eventstream.asia/pEp/643edc83ad4ff.zip
-http://theplazahotelresort.com/pEp/643ee0e4e8e39.zip
-http://hungrydolphin.net/pEp/643ef522c4ca7.zip
-http://ganadiando.com/pEp/643ee55a0ff7e.zip
+http://eventstream.asia/pEp/per.zip
+http://theplazahotelresort.com/pEp/per.zip
+http://hungrydolphin.net/pEp/per.zip
+http://ganadiando.com/pEp/per.zip
+http://grafishark.hu/pEp/per.zip
+http://fastmarketplace.co.ke/pEp/per.zip
 
 .dll drop urls
 
 http://51.222.96.42/aSxBaqnfj98w.dat
 http://104.238.190.98/aSxBaqnfj98wzv.dat
 http://104.156.232.97/aO03psmvtKQUf9B5.dat
+http://45.59.170.43/aO03psmvtKQ.dat
+http://135.125.177.90/aO03psmvtKQUf.dat
+http://209.182.225.14/aO03psmvtK.dat
 
 
 *************************************************
