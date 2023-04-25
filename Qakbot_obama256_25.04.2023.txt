@@ -108,9 +108,12 @@ http://wjidigitalmediadirectory.com/cache/rentfree.zip
 
 .dll drop urls
 
-http://94.131.100.149/aeV6qxSLY.dat
-http://172.96.137.33/azd1UJXrhFZm7.dat
-http://185.39.18.107/ahGj6E1HrKO.dat
+http://94.131.100.149/rentfree.dat
+http://172.96.137.33/rentfree.dat
+http://185.39.18.107/rentfree.dat
+http://198.50.143.1/rentfree.dat
+http://216.146.25.178/rentfree.dat
+http://185.250.240.25/rentfree.dat
 
 *************************************************
 
