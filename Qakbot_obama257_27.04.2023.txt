@@ -19,19 +19,37 @@ C:\\Windows\\SysWOW64\\rundll32.exe C:\ProgramData\azqahBwvGUK2Nl.tmp,Motd
 
 zip drop urls:
 
+http://phtckhulna.org/pki/64482fac6ec18.zip
+http://jpstyles.com/pki/64481f6b3f7f6.zip
+http://nicolinsuranceservices.com/pki/6448224a93888.zip
+http://williamkumuyi.org/pki/64482bf53abcf.zip
+http://est.sy/pki/644826bec448a.zip
+http://ottawarenovationcompany.com/pki/64482904cca02.zip
+http://contadoresayb.com/pki/64483081e31a7.zip
+http://ncs.com.pk/pki/64482841d65cc.zip
 http://notaria38gdl.com/pki/64482dac1c78e.zip
 http://dreamchasersltd.com/pki/644826c348adc.zip
-http://jtaviation.co.in/pki/64481f535cc95.zip
-http://daviddunnsons.com/pki/6448286901b82.zip
+http://jigsaw-arts.co.uk/pki/64481e08bb58b.zip
+http://noonsportswear.com/pki/64482422671c0.zip
+http://e-piramide.net/pki/64482e0f38593.zip
 http://johnleontarakis.com/pki/64482ed5933ac.zip
-http://gideonfountain.com/pki/64482c4abe985.zip
+http://netwatts.com/pki/6448215515a08.zip
+http://orancardexpress.com/pki/644820f31aa2b.zip
+http://octoberco.com/pki/64481dfd7f10b.zip
 http://imperialbox.net/pki/64482d500aa88.zip
-http://ccproduction.org/pki/6448292e58662.zip
+http://niia.org.ng/pki/64482229c9556.zip
+http://cagliyanteknoloji.com/pki/644821dd411d5.zip
 http://simplesead.com.br/pki/64482236f151d.zip
-http://interoffice.business/pki/6448252b77960.zip
+http://boxitapp.store/pki/64482f3094f34.zip
 http://ncsuppliers.com/pki/64482820df0a2.zip
+http://nebbits.com/pki/64481de636c44.zip
 http://optimalsolutionsonline.com/pki/64482300510b2.zip
 http://moneyglobe.com/cache/6440f43ea8de9.zip
+http://jtaviation.co.in/pki/64481f535cc95.zip
+http://daviddunnsons.com/pki/6448286901b82.zip
+http://gideonfountain.com/pki/64482c4abe985.zip
+http://ccproduction.org/pki/6448292e58662.zip
+http://interoffice.business/pki/6448252b77960.zip
 
 .dll drop urls
 
