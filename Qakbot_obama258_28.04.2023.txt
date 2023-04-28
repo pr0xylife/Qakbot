@@ -81,6 +81,7 @@ http://128.254.207.196/purplerain.dat
 http://149.102.249.66/purplerain.dat
 http://51.161.204.236/purplerain.dat
 http://94.131.12.213/purplerain.dat
+http://104.225.129.157/purplerain.dat
 
 *************************************************
 
