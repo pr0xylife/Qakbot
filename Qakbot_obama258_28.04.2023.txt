@@ -25,7 +25,11 @@ http://pollyhost.com/purple/rain.zip
 .dll drop urls
 
 http://185.33.87.23/purplerain.dat
+http://185.33.87.23/purplerain.dat
+http://128.254.207.196/purplerain.dat
+http://149.102.249.66/purplerain.dat
 http://51.161.204.236/purplerain.dat
+http://94.131.12.213/purplerain.dat
 
 *************************************************
 
