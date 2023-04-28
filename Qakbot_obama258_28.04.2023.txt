@@ -23,15 +23,56 @@ rundll32.exe C:\ProgramData\adzq5VFES.dat,GG10
 
 zip drop urls:
 
-http://samuelramachandran.com/purple/rain.zip
-http://pollyhost.com/purple/rain.zip
+http://alhiaa-alaqaria.com/purple/rain.zip
+http://ambedkar.in/purple/rain.zip
+http://askpay.me/purple/rain.zip
+http://bacollections.com/purple/rain.zip
+http://bintangmulyacanopy.com/purple/rain.zip
+http://coorsamexico.mx/purple/rain.zip
 http://crescendopark.com/purple/rain.zip
+http://dairy.sujalfoods.com/purple/rain.zip
+http://damansaratech.com/purple/rain.zip
+http://deconveniencia.com/purple/rain.zip
+http://digitalonline.cl/purple/rain.zip
+http://disdikseruyan.online/purple/rain.zip
 http://doctordietapp.com/purple/rain.zip
+http://draeli.cl/purple/rain.zip
+http://dramirchiropractic.com/purple/rain.zip
+http://dunaujvaros.gorogkatolikus.hu/purple/rain.zip
+http://elevenhold.hu/purple/rain.zip
+http://emoto.mk/purple/rain.zip
+http://enfermagemadistancia.com.br/purple/rain.zip
 http://englishofcourse.com/purple/rain.zip
 http://escola.wd7.com.br/purple/rain.zip
 http://esolutions.ae/purple/rain.zip
+http://fe.unpas.ac.id/purple/rain.zip
 http://fotosdepuebla.org/purple/rain.zip
+http://globeexpress.com/purple/rain.zip
+http://greasemagicinc.com/purple/rain.zip
+http://grupolahe.com/purple/rain.zip
+http://grupos.curvelo.click/purple/rain.zip
+http://hallohelp.com/purple/rain.zip
+http://henrybluemountains.com.au/purple/rain.zip
+http://hhphospital.com/purple/rain.zip
+http://hondabariavungtau.vn/purple/rain.zip
+http://kingstreetdental.com.au/purple/rain.zip
+http://lenterasunnahmadani.com/purple/rain.zip
+http://mhpa.gov.bt/purple/rain.zip
+http://missileperformance.hu/purple/rain.zip
+http://missysgym.com/purple/rain.zip
+http://pastelcreative.com.my/purple/rain.zip
+http://poj.hostrb.com/purple/rain.zip
+http://pollyhost.com/purple/rain.zip
+http://pracharbharat.com/purple/rain.zip
+http://primetech-universe.com/purple/rain.zip
+http://rigorous-statistics.co.za/purple/rain.zip
+http://rpbalarjogja.kemdikbud.go.id/purple/rain.zip
+http://sakuraloyalty.com/purple/rain.zip
+http://samuelramachandran.com/purple/rain.zip
+http://scrcarental.com/purple/rain.zip
 http://staging.scientiaclinicalresearch.com.au/purple/rain.zip
+http://superlogcabins.com/purple/rain.zip
+http://suryayudha-wsb.id/purple/rain.zip
 
 .dll drop urls
 
