@@ -21,6 +21,13 @@ zip drop urls:
 
 http://samuelramachandran.com/purple/rain.zip
 http://pollyhost.com/purple/rain.zip
+http://crescendopark.com/purple/rain.zip
+http://doctordietapp.com/purple/rain.zip
+http://englishofcourse.com/purple/rain.zip
+http://escola.wd7.com.br/purple/rain.zip
+http://esolutions.ae/purple/rain.zip
+http://fotosdepuebla.org/purple/rain.zip
+http://staging.scientiaclinicalresearch.com.au/purple/rain.zip
 
 .dll drop urls
 
