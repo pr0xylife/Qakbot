@@ -73,9 +73,19 @@ rundll32.exe C:\ProgramData\aEYgIdR6lW9Zz.dat,Time
 
 zip drop urls:
 
-http://softsols.net/kbase/64521b0224d69.zip
-http://rvomedia.com/kbase/6452c15807c12.zip
-http://saemape.cd/kbase/6452c12f40d4c.zip
+http://aps-india.com/kbase/rentfree.zip
+http://evko-ks.com/kbase/rentfree.zip
+http://level-upcg.com/kbase/rentfree.zip
+http://pellelucent.co.nz/kbase/rentfree.zip
+http://pointupgrade.com/kbase/rentfree.zip
+http://saemape.cd/kbase/rentfree.zip
+http://sanjaydharmraj.in/kbase/rentfree.zip
+http://servicioslogisticosdyc.com/kbase/rentfree.zip
+http://smiling.mx/kbase/rentfree.zip
+http://softsols.net/kbase/rentfree.zip
+http://techforaap.com/kbase/rentfree.zip
+http://traderhype.com/kbase/rentfree.zip
+http://transalpinafan.ro/kbase/rentfree.zip
 
 
 .dll drop urls
