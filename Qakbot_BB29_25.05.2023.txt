@@ -22,7 +22,9 @@ rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,#46
 
 .dll distro
 
-http://192.121.23.104/TLGhNd/aNf2FLKucR
+http://192.121.23.61/9a67pes/aojfLvzBDEGdcq0
+http://192.121.23.104/TLGhNd/aojfLvzBDEGdcq0
+http://149.154.159.98/PpUYX/aojfLvzBDEGdcq0
 
 conhost.exe rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,bind
 
