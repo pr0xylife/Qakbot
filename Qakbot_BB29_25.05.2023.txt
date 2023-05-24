@@ -12,7 +12,9 @@ Exec >
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\doc_A014.wsf
 
-conhost.exe rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,aslr
+conhost.exe rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,bind
+
+OR 
 
 rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,#46
 
@@ -22,7 +24,7 @@ rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,#46
 
 http://192.121.23.104/TLGhNd/aNf2FLKucR
 
-conhost.exe rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,aslr
+conhost.exe rundll32.exe C:\Users\Public\ac25J7XvEMogGD.dat,bind
 
 >> real export
 
