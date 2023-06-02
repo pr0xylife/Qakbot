@@ -3,8 +3,8 @@
 *************************************************
 
 .url https://nativespeak.net/gte/
-.pdf dfa9a6d275eea4fce73e3d34eb48b472c5804f4de7b0985a2f1b88d4eee52db6
-.zip 259c7adb50b5997b6b5932996df670c9dde42eb3bc20fd46c3c16bc940f9f9cf
+.pdf dfa9a6d275eea4fce73e3d34eb48b472c5804f4de7b0985a2f1b88d4eee52db6 - N.pdf
+.zip 259c7adb50b5997b6b5932996df670c9dde42eb3bc20fd46c3c16bc940f9f9cf - document_C867_Jun_2.zip
 .js 07acc12e69740e8d0f4b2cd48d231ee331a7d418239ad2e53e65a3a429dab79f
 .dll 7bfa0fc80cf1b4dc110356aad858ed3638985dce794286dfe9a25ff3869fed02
 
