@@ -8,7 +8,7 @@
 
 Exec >
 
-rundll32.exe C:\Users\Public\distantly.dat.dat,next
+rundll32.exe C:\Users\Public\batteryacid.dll,next
 
 *************************************************
 
