@@ -2,7 +2,7 @@
 
 *************************************************
 
-.url https://audit.njc.gov.ng/ifa/?1
+.url https://wetalk247.tv/lmq/?1
 .js 5bee70d5cd916d0314f34509bfc652a8c42616caa320e4273059e694cca53520
 .dll bd5cddfebefeb3911c76bd13ec67f2b02cd3876786beb0b3685572ab80714fd8
 
