@@ -51,7 +51,7 @@ wermgr.exe
 
 zip drop urls:
 
-
+https://niffrstaffschools.com/nltqwbxncj/nltqwbxncj.gif
 
 .dll drop urls
 
