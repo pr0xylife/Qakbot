@@ -1,0 +1,57 @@
+25.01.2024 | Qakbot | bmw01 | Campaign 1706177816 | Version 500.486
+
+*************************************************
+
+.url https://pastravaria-zavoi.ro/mmltvg/?1337
+.zip a06db85f05d21a67a3ae251a122a75adbd9046e33f0a2982924bff23e0d5a1d2  
+.msi a4d2138624f8eebbbd665597b1b9e7c3817c374e0e27327cf8acf1b5c57a4b10
+.exe 35ec4858f5f4f7c9c7cd27b9c48cfe3d8d4c03044974740f3fb0892bfe140a88
+
+*************************************************
+
+Code Signing Certificate
+Organisation:	Ken Friedman AB
+Issuer:	SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:	sha256WithRSAEncryption
+Valid from:	2023-12-26T17:58:18Z
+Valid to:	2024-12-25T17:58:18Z
+Serial number:	 44e737228040233fcd8ded2bf108ce8c
+Thumbprint Algorithm:	SHA256
+Thumbprint:	 d91b3734b2b549f587181526a2c03d484fdba23afc178adcaac1a2ce8a5e8909
+
+*************************************************
+
+Exec >
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\Notesvb.msi
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding B6D25A5BFEA47467B367C2A50167FD7B U
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+C:\Windows\syswow64\MsiExec.exe -Embedding 52DE4ABE5AB6EEC6ED2566C24913AC1E
+
+rundll32.exe "C:\Windows\Installer\MSIA524.tmp",zzzzInvokeManagedCustomActionOutOfProc SfxCA_240690593 2 WixSharp!WixSharp.ManagedProjectActions.WixSharp_InitRuntime_Action
+
+rundll32.exe "C:\Windows\Installer\MSIAB7F.tmp",zzzzInvokeManagedCustomActionOutOfProc SfxCA_240692187 11 tiho_exe.cs!CustomActions.DownloadAndExecute
+
+rundll32.exe "C:\Windows\Installer\MSIB7C5.tmp",zzzzInvokeManagedCustomActionOutOfProc SfxCA_240695421 18 WixSharp!WixSharp.ManagedProjectActions.CancelRequestHandler
+
+vssvc.exe
+
+*************************************************
+
+drop urls:
+
+https://kitronits.com/4P6Hw2Q/2911b55afd0e411bb8245fd1d1462d44
+
+*************************************************
+
+c2's
+
+https://146.70.158.28:6882/teorema505
+https://185.117.90.142:6882/teorema505
+https://185.156.172.62:443/teorema505
+https://188.116.26.246:2222/teorema505
